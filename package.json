@@ -1,0 +1,16 @@
+{
+  "name": "pac",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "repository": "git@github.com:Soulike/pac.git",
+  "author": "Soulike <soulike@qq.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^16.0.0",
+    "typescript": "^4.6.4"
+  }
+}
