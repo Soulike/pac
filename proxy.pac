@@ -1,8401 +1,5589 @@
-[AutoProxy 0.2.9]
-! Checksum: BGWDnWOTYVR8aU7u4ernYw
-! Expires: 6h
-! Title: GFWList4LL
-! GFWList with EVERYTHING included
-! Last Modified: Thu, 21 Apr 2022 11:44:52 -0400
-!
-! HomePage: https://github.com/gfwlist/gfwlist
-! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
-!
-! GFWList is unlikely to fully comprise the real
-! rules being deployed inside GFW system. We try
-! our best to keep the list up to date. Please
-! contact us regarding URL submission / removal,
-! or suggestion / enhancement at issue tracker:
-! https://github.com/gfwlist/gfwlist/issues/.
-
-!---------403/451/503/520 & URL Redirects---------
-!--ehentai
-|http://85.17.73.31/
-!--||adorama.com
-||afreecatv.com
-||agnesb.fr
-||akiba-web.com
-||altrec.com
-||angela-merkel.de
-||angola.org
-||apartmentratings.com
-||apartments.com
-||arena.taipei
-||asianspiss.com
-||assimp.org
-||athenaeizou.com
-||azubu.tv
-||bankmobilevibe.com
-||banorte.com
-||beeg.com
-||global.bing.com
-||booktopia.com.au
-||boysmaster.com
-||bynet.co.il
-||byrut.org
-||carfax.com
-.casinobellini.com
-||casinobellini.com
-||centauro.com.br
-||chobit.cc
-||clearsurance.com
-||images.comico.tw
-||static.comico.tw
-||counter.social
-||costco.com
-||crossfire.co.kr
-||crunchyroll.com
-||d2pass.com
-||darpa.mil
-||dawangidc.com
-||deezer.com
-||desipro.de
-||dingchin.com.tw
-||discord.com
-||discord.gg
-||discordapp.com
-||discordapp.net
-||dish.com
-|http://img.dlsite.jp/
-||dm530.net
-share.dmhy.org
-||dmhy.org
-||dmm.co.jp
-|http://www.dmm.com/netgame
-||dnvod.tv
-||dubox.com
-||dvdpac.com
-||eesti.ee
-||esurance.com
-.expekt.com
-||expekt.com
-.extmatrix.com
-||extmatrix.com
-||fakku.net
-||fastpic.ru
-||filesor.com
-||financetwitter.com
-||flipboard.com
-||flitto.com
-||fnac.be
-||fnac.com
-||funkyimg.com
-||fxnetworks.com
-||g-area.org
-||gettyimages.com
-||getuploader.com
-||ghidra-sre.org
-!--|https://github.com/programthink/zhao
-|https://raw.githubusercontent.com/programthink/zhao
-||glass8.eu
-||glype.com
-||go141.com
-||guo.media
-||hautelook.com
-||hautelookcdn.com
-||wego.here.com
-||gamer-cds.cdn.hinet.net
-||gamer2-cds.cdn.hinet.net
-||hmoegirl.com
-||hmvdigital.ca
-||hmvdigital.com
-||homedepot.com
-||hoovers.com
-||hulu.com
-||huluim.com
-|http://secure.hustler.com
-|http://hustlercash.com
-|http://www.hustlercash.com
-||hybrid-analysis.com
-||cdn*.i-scmp.com
-||ilbe.com
-||ilovelongtoes.com
-|http://imgmega.com/*.gif.html
-|http://imgmega.com/*.jpg.html
-|http://imgmega.com/*.jpeg.html
-|http://imgmega.com/*.png.html
-||imlive.com
-||tw.iqiyi.com
-||javhub.net
-||javhuge.com
-.javlibrary.com
-||javlibrary.com
-||jcpenney.com
-||jims.net
-||tv.jtbc.joins.com
-||jukujo-club.com
-||juliepost.com
-||kawaiikawaii.jp
-||kendatire.com
-||khatrimaza.org
-||kkbox.com
-||leisurepro.com
-||lifemiles.com
-||longtoes.com
-||lovetvshow.com
-|http://www.m-sport.co.uk
-||macgamestore.com
-||madonna-av.com
-||mandiant.com
-||mangafox.com
-||mangafox.me
-||manta.com
-||matome-plus.com
-||matome-plus.net
-||mattwilcox.net
-||metarthunter.com
-||mfxmedia.com
-||mojim.com
-||kb.monitorware.com
-||monster.com
-||moodyz.com
-||moonbingo.com
-||mos.ru
-||msha.gov
-||muzu.tv
-||mvg.jp
-.mybet.com
-||mybet.com
-||mypikpak.com
-||nationwide.com
-|http://www.nbc.com/live
-||neo-miracle.com
-||netflix.com
-||netflix.net
-||nflximg.com
-||nflximg.net
-||nflxext.com
-||nflxso.net
-||nflxvideo.net
-||nic.gov
-|http://mo.nightlife141.com
-||purpose.nike.com
-||noxinfluencer.com
-@@||cn.noxinfluencer.com
-||nordstrom.com
-||nordstromimage.com
-||nordstromrack.com
-||nottinghampost.com
-||npsboost.com
-||ntdtv.cz
-||s1.nudezz.com
-||nusatrip.com
-||nuuvem.com
-||omni7.jp
-||onapp.com
-!--We are confused as well
-||ontrac.com
-@@|http://blog.ontrac.com
-||pandora.com
-.pandora.tv
-||parkansky.com
-||phmsociety.org
-|http://*.pimg.tw/
-||podcast.co
-||pure18.com
-||pytorch.org
-||qq.co.za
-||r18.com
-|http://radiko.jp
-||ramcity.com.au
-||rateyourmusic.com
-||rd.com
-||rdio.com
-|https://riseup.net
-||sadistic-v.com
-||isc.sans.edu
-|http://cdn*.search.xxx/
-||shiksha.com
-||slacker.com
-||sm-miracle.com
-||softnology.biz
-||soylentnews.org
-||spotify.com
-||spreadshirt.es
-||springboardplatform.com
-||sprite.org
-@@|http://store.sprite.org
-||superokayama.com
-||superpages.com
-||swagbucks.com
-||switch1.jp
-||tapanwap.com
-||gsp.target.com
-||login.target.com
-!--@@||intl.target.com
-||rcam.target.com
-||technews.tw
-||terabox.com
-||thinkgeek.com
-||thebodyshop-usa.com
-||tiktok.com
-||tma.co.jp
-||tracfone.com
-||tryheart.jp
-||turntable.fm
-||twerkingbutt.com
-||ulop.net
-||uukanshu.com
-||vegasred.com
-||vevo.com
-||vip-enterprise.com
-|http://viu.tv/ch/
-|http://viu.tv/encore/
-||vmpsoft.com
-|http://ecsm.vs.com/
-||wanz-factory.com
-||ssl.webpack.de
-||wheretowatch.com
-||wingamestore.com
-||wizcrafts.net
-||vod.wwe.com
-||xfinity.com
-||youwin.com
-||ytn.co.kr
-||zattoo.com
-||zim.vn
-||zozotown.com
-
-!##############General List Start###############
-!-------------------Pure IP---------------------
-14.102.250.18
-14.102.250.19
-50.7.31.230:8898
-174.142.105.153
-69.65.19.160
-
-!----------------------IDN----------------------
-||xn--4gq171p.com
-||xn--czq75pvv1aj5c.org
-||xn--i2ru8q2qg.com
-||xn--oiq.cc
-||xn--p8j9a0d9c9a.xn--q9jyb4c
-||xn--9pr62r24a.com
-
-!-----------------DNS Poisoning-----------------
-!---Amazon---
-!-||cdn-images.mailchimp.com
-||abebooks.com
-|https://*.s3.amazonaws.com
-||s3-ap-southeast-2.amazonaws.com
-
-||43110.cf
-||9cache.com
-||9gag.com
-||agro.hk
-||share.america.gov
-||apkmirror.com
-||arte.tv
-||artstation.com
-||bangdream.space
-||behance.net
-||bird.so
-||bitterwinter.org
-||bnn.co
-||businessinsider.com
-||boomssr.com
-||bwgyhw.com
-||castbox.fm
-||chinatimes.com
-||clyp.it
-||cmcn.org
-||cmx.im
-||dailyview.tw
-||daum.net
-||depositphotos.com
-||disconnect.me
-||documentingreality.com
-||doubibackup.com
-||doubmirror.cf
-||encyclopedia.com
-||fangeqiang.com
-||fanqiangdang.com
-||feedly.com
-||feedx.net
-||flyzy2005.com
-||foreignpolicy.com
-||free-ss.site
-||freehongkong.org
-||blog.fuckgfw233.org
-||g0v.social
-||globalvoices.org
-||glorystar.me
-||goregrish.com
-||guangnianvpn.com
-||hanime.tv
-||hbo.com
-||spaces.hightail.com
-||hkgalden.com
-||hkgolden.com
-||hudson.org
-||ipfs.io
-||japantimes.co.jp
-||jiji.com
-||jintian.net
-||jinx.com
-||joinmastodon.org
-||liangzhichuanmei.com
-||lighti.me
-||lightyearvpn.com
-||lihkg.com
-||line-scdn.net
-||i.lithium.com
-||cloud.mail.ru
-||cdn-images.mailchimp.com
-||mastodon.cloud
-||mastodon.host
-||mastodon.social
-||mastodon.xyz
-||matters.news
-||me.me
-||metart.com
-||mohu.club
-||mohu.ml
-||motiyun.com
-||msa-it.org
-||goo.ne.jp
-||go.nesnode.com
-||international-news.newsmagazine.asia
-||nikkei.com
-||nitter.cc
-||nitter.net
-||niu.moe
-||nofile.io
-||now.com
-||openvpn.org
-||onejav.com
-||paste.ee
-||my.pcloud.com
-||picacomic.com
-||pincong.rocks
-||pixiv.net
-||potato.im
-||premproxy.com
-||prism-break.org
-||protonvpn.com
-||api.pureapk.com
-||quora.com
-||quoracdn.net
-||qz.com
-||cdn.seatguru.com
-||secure.raxcdn.com
-||redd.it
-||reddit.com
-.redditlist.com
-|http://redditlist.com
-||redditmedia.com
-||redditstatic.com
-!--defunct
-||rixcloud.com
-||rixcloud.us
-||rsdlmonitor.com
-||shadowsocks.be
-||shadowsocks9.com
-||tn1.shemalez.com
-||tn2.shemalez.com
-||tn3.shemalez.com
-||static.shemalez.com
-||six-degrees.io
-||softfamous.com
-||softsmirror.cf
-||sosreader.com
-||sspanel.net
-||sulian.me
-||supchina.com
-||teddysun.com
-||textnow.me
-||tineye.com
-||top10vpn.com
-||tubepornclassic.com
-||uku.im
-||unseen.is
-||cn.uptodown.com
-||uraban.me
-||vrsmash.com
-||vultryhw.com
-||scache.vzw.com
-||scache1.vzw.com
-||scache2.vzw.com
-||ss7.vzw.com
-||ssr.tools
-||steemit.com
-||taiwanjustice.net
-||tinc-vpn.org
-||u15.info
-||washingtonpost.com
-||wenzhao.ca
-||whatsonweibo.com
-||wire.com
-||blog.workflow.is
-||xm.com
-||xuehua.us
-||yes-news.com
-||yigeni.com
-||you-get.org
-||zzcloud.me
-
-!---Digital Currency Exchange(CRYPTO)---
-||aex.com
-||allcoin.com
-||adcex.com
-||bcex.ca
-||bibox.com
-||big.one
-||bigone.com
-||binance.com
-||bit-z.com
-||bitz.ai
-||bitbay.net
-||bitcoinworld.com
-||bitfinex.com
-||bithumb.com
-||bitinka.com.ar
-||bitmex.com
-||btc98.com
-||btcbank.bank
-||btctrade.im
-||bybit.com
-||c2cx.com
-||chaoex.com
-||cobinhood.com
-||coin2co.in
-||coinbene.com
-.coinegg.com
-||coinegg.com
-||coinex.com
-!--|https://www.coinexchange.io/
-||coingecko.com
-||coingi.com
-||coinmarketcap.com
-||coinrail.co.kr
-||cointiger.com
-||cointobe.com
-||coinut.com
-||discoins.com
-||dragonex.io
-||ebtcbank.com
-||etherdelta.com
-||etherscan.io
-||exmo.com
-||exrates.me
-||exx.com
-||fatbtc.com
-||ftx.com
-||gate.io
-||gatecoin.com
-||hbg.com
-||hitbtc.com
-||huobi.co
-||huobi.com
-||huobi.me
-!--||huobi.li
-||huobi.pro
-||huobi.sc
-||huobipro.com
-||bx.in.th
-||jex.com
-||kex.com
-||kspcoin.com
-||kucoin.com
-||lbank.info
-||liquiditytp.com
-||livecoin.net
-||localbitcoins.com
-||mercatox.com
-||oanda.com
-||oex.com
-||okex.com
-||okx.com
-||opensea.io
-||otcbtc.com
-||paxful.com
-||poolin.com
-||rightbtc.com
-||solv.finance
-||topbtc.com
-||tronscan.org
-||xbtce.com
-||yobit.net
-||zb.com
-
-!----------------Frauds & Scams-----------------
-!!---Content Farm(fake 500 error)---
-||read01.com
-||kknews.cc
-
-china-mmm.jp.net
-.lsxszzg.com
-.china-mmm.net
-||china-mmm.net
-china-mmm.sa.com
-
-!---------------------Groups--------------------
-!!---Afraid FreeDNS---
-.allowed.org
-.now.im
-
-!!---Amazon---
-||amazon.co.jp
-.amazon.com/Dalai-Lama
-amazon.com/Prisoner-State-Secret-Journal-Premier
-s3-ap-northeast-1.amazonaws.com
-
-!!---AOL---
-||aolchannels.aol.com
-video.aol.ca/video-detail
-video.aol.co.uk/video-detail
-video.aol.com
-||video.aol.com
-||search.aol.com
-www.aolnews.com
-
-!!---AvMoo---
-.avmo.pw
-!--|http://avmo.pw
-.avmoo.com
-|http://avmoo.com
-.avmoo.net
-|http://avmoo.net
-||avmoo.pw
-.javmoo.xyz
-|http://javmoo.xyz
-.javtag.com
-|http://javtag.com
-.javzoo.com
-|http://javzoo.com
-.tellme.pw
-
-!!---BBC---
-!--.bbc.co.uk/blogs
-!--.bbc.co.uk/chinese
-!--.bbc.co.uk/news/world-asia-china
-!--.bbc.co.uk/tv
-!--.bbc.co.uk/zhongwen
-!--.bbc.com/ukchina
-!--.bbc.com/zhongwen
-!--.bbc.com%2Fzhongwen
-!--news.bbc.co.uk/onthisday*newsid_2496000/2496277
-!--newsforums.bbc.co.uk
-.bbc.com
-||bbc.com
-.bbc.co.uk
-||bbc.co.uk
-||bbci.co.uk
-.bbcchinese.com
-||bbcchinese.com
-|http://bbc.in
-
-!!---Bloomberg---
-.bloomberg.cn
-||bloomberg.cn
-.bloomberg.com
-||bloomberg.com
-bloomberg.de
-||bloomberg.de
-||bloombergview.com
-.businessweek.com
-
-!!---ChangeIP---
-.1dumb.com
-.25u.com
-.2waky.com
-.3-a.net
-.4dq.com
-.4mydomain.com
-.4pu.com
-.acmetoy.com
-.almostmy.com
-.americanunfinished.com
-.authorizeddns.net
-.authorizeddns.org
-.authorizeddns.us
-.bigmoney.biz
-.changeip.name
-.changeip.net
-.changeip.org
-.cleansite.biz
-.cleansite.info
-.cleansite.us
-.compress.to
-.ddns.info
-.ddns.me.uk
-.ddns.mobi
-.ddns.ms
-.ddns.name
-.ddns.us
-.dhcp.biz
-.dns-dns.com
-.dns-stuff.com
-.dns04.com
-.dns05.com
-.dns1.us
-.dns2.us
-.dnset.com
-.dnsrd.com
-.dsmtp.com
-.dumb1.com
-.dynamic-dns.net
-.dynamicdns.biz
-.dynamicdns.co.uk
-.dynamicdns.me.uk
-.dynamicdns.org.uk
-.dyndns.pro
-.dynssl.com
-.edns.biz
-.epac.to
-.esmtp.biz
-.ezua.com
-.faqserv.com
-.fartit.com
-.freeddns.com
-.freetcp.com
-.freewww.biz
-.freewww.info
-.ftp1.biz
-.ftpserver.biz
-.gettrials.com
-.got-game.org
-.gr8domain.biz
-.gr8name.biz
-.https443.net
-.https443.org
-.ikwb.com
-.instanthq.com
-.iownyour.biz
-.iownyour.org
-.isasecret.com
-.itemdb.com
-.itsaol.com
-.jetos.com
-.jkub.com
-.jungleheart.com
-.justdied.com
-.lflink.com
-.lflinkup.com
-.lflinkup.net
-.lflinkup.org
-.longmusic.com
-.mefound.com
-.moneyhome.biz
-.mrbasic.com
-.mrbonus.com
-.mrface.com
-.mrslove.com
-.my03.com
-.mydad.info
-.myddns.com
-.myftp.info
-.myftp.name
-.mylftv.com
-.mymom.info
-.mynetav.net
-.mynetav.org
-.mynumber.org
-.mypicture.info
-.mypop3.net
-.mypop3.org
-.mysecondarydns.com
-.mywww.biz
-.myz.info
-.ninth.biz
-.ns01.biz
-.ns01.info
-.ns01.us
-.ns02.biz
-.ns02.info
-.ns02.us
-.ns1.name
-.ns2.name
-.ns3.name
-.ocry.com
-.onedumb.com
-.onmypc.biz
-.onmypc.info
-.onmypc.net
-.onmypc.org
-.onmypc.us
-.organiccrap.com
-.otzo.com
-.ourhobby.com
-.pcanywhere.net
-.port25.biz
-.proxydns.com
-.qhigh.com
-.qpoe.com
-.rebatesrule.net
-.sellclassics.com
-.sendsmtp.com
-.serveuser.com
-.serveusers.com
-.sexidude.com
-.sexxxy.biz
-.sixth.biz
-.squirly.info
-.ssl443.org
-.toh.info
-.toythieves.com
-.trickip.net
-.trickip.org
-.vizvaz.com
-.wha.la
-.wikaba.com
-.www1.biz
-.wwwhost.biz
-@@|http://xx.wwwhost.biz
-.x24hr.com
-.xxuz.com
-.xxxy.biz
-.xxxy.info
-.ygto.com
-.youdontcare.com
-.yourtrap.com
-.zyns.com
-.zzux.com
-
-!!--Cloudflare--
-||pages.dev
-
-!!---CloudFront---
-d1b183sg0nvnuh.cloudfront.net
-|https://d1b183sg0nvnuh.cloudfront.net
-d1c37gjwa26taa.cloudfront.net
-|https://d1c37gjwa26taa.cloudfront.net
-d3c33hcgiwev3.cloudfront.net
-|https://d3c33hcgiwev3.cloudfront.net
-||d3rhr7kgmtrq1v.cloudfront.net
-
-!!---DtDNS---
-!###https://www.dtdns.com/dtsite/faq
-.3d-game.com
-.4irc.com
-.b0ne.com
-.chatnook.com
-.darktech.org
-.deaftone.com
-.dtdns.net
-.effers.com
-.etowns.net
-.etowns.org
-.flnet.org
-.gotgeeks.com
-.scieron.com
-.slyip.com
-.slyip.net
-.suroot.com
-
-!!---DynDNS---
-!###https://help.dyn.com/list-of-dyn-dns-pro-remote-access-domain-names/
-.blogdns.org
-.dyndns.org
-.dyndns-ip.com
-.dyndns-pics.com
-.from-sd.com
-.from-pr.com
-.is-a-hunter.com
-
-!!---Dynu---
-.dynu.com
-||dynu.com
-.dynu.net
-.freeddns.org
-
-!!---Facebook---
-||accountkit.com
-cdninstagram.com
-||cdninstagram.com
-||f8.com
-||facebook.br
-.facebook.com
-||facebook.com
-!--/^https?:\/\/[^\/]+facebook\.com/
-@@||v6.facebook.com
-||facebook.design
-||connect.facebook.net
-||facebook.hu
-||facebook.in
-||facebook.nl
-||facebook.se
-||facebookmail.com
-||fb.com
-||fb.me
-||fb.watch
-||fbcdn.net
-||fbsbx.com
-||fbaddins.com
-||fbworkmail.com
-.instagram.com
-||instagram.com
-||m.me
-||messenger.com
-||oculus.com
-||oculuscdn.com
-||rocksdb.org
-@@||ip6.static.sl-reverse.com
-||parse.com
-||thefacebook.com
-||whatsapp.com
-||whatsapp.net
-
-!!---Fandom---
-||auntology.fandom.com
-||hongkong.fandom.com
-
-!!---FTChinese---
-.ftchinese.com
-||ftchinese.com
-!--.ftchinese.com/channel/video
-!--.ftchinese.com/premium/001081066
-!--.ftchinese.com/story/00102753
-!--.ftchinese.com/story/001026616
-!--.ftchinese.com/story/001026749
-!--.ftchinese.com/story/001026807
-!--.ftchinese.com/story/001026808
-!--.ftchinese.com/story/001026834
-!--.ftchinese.com/story/001026880
-!--.ftchinese.com/story/001027429
-!--.ftchinese.com/story/001030341
-!--.ftchinese.com/story/001030502
-!--.ftchinese.com/story/001030803
-!--.ftchinese.com/story/001031317
-!--.ftchinese.com/story/001032617
-!--.ftchinese.com/story/001032636
-!--.ftchinese.com/story/001032692
-!--.ftchinese.com/story/001032762
-!--.ftchinese.com/story/001033138
-!--.ftchinese.com/story/001034917
-!--.ftchinese.com/story/001034926
-!--.ftchinese.com/story/001034927
-!--.ftchinese.com/story/001034928
-!--.ftchinese.com/story/001034952
-!--.ftchinese.com/story/001035890
-!--.ftchinese.com/story/001035972
-!--.ftchinese.com/story/001035993
-!--.ftchinese.com/story/001036417
-!--.ftchinese.com/story/001037090
-!--.ftchinese.com/story/001037091
-!--.ftchinese.com/story/001038178
-!--.ftchinese.com/story/001038199
-!--.ftchinese.com/story/001038220
-!--.ftchinese.com/story/001038819
-!--.ftchinese.com/story/001038862
-!--.ftchinese.com/story/001039067
-!--.ftchinese.com/story/001039178
-!--.ftchinese.com/story/001039211
-!--.ftchinese.com/story/001039271
-!--.ftchinese.com/story/001039295
-!--.ftchinese.com/story/001039369
-!--.ftchinese.com/story/001039482
-!--.ftchinese.com/story/001039534
-!--.ftchinese.com/story/001039555
-!--.ftchinese.com/story/001039576
-!--.ftchinese.com/story/001039712
-!--.ftchinese.com/story/001039779
-!--.ftchinese.com/story/001039809
-!--.ftchinese.com/story/001040134
-!--.ftchinese.com/story/001040835
-!--.ftchinese.com/story/001040890
-!--.ftchinese.com/story/001040918
-!--.ftchinese.com/story/001040992
-!--.ftchinese.com/story/001041209
-!--.ftchinese.com/story/001042100
-!--.ftchinese.com/story/001042252
-!--.ftchinese.com/story/001042272
-!--.ftchinese.com/story/001042280
-!--.ftchinese.com/story/001043029
-!--.ftchinese.com/story/001043066
-!--.ftchinese.com/story/001043096
-!--.ftchinese.com/story/001043124
-!--.ftchinese.com/story/001043152
-!--.ftchinese.com/story/001043189
-!--.ftchinese.com/story/001043428
-!--.ftchinese.com/story/001043439
-!--.ftchinese.com/story/001043534
-!--.ftchinese.com/story/001043675
-!--.ftchinese.com/story/001043680
-!--.ftchinese.com/story/001043702
-!--.ftchinese.com/story/001043849
-!--.ftchinese.com/story/001044099
-!--.ftchinese.com/story/001044776
-!--.ftchinese.com/story/001044871
-!--.ftchinese.com/story/001044897
-!--.ftchinese.com/story/001045114
-!--.ftchinese.com/story/001045139
-!--.ftchinese.com/story/001045186
-!--.ftchinese.com/story/001045755
-!--.ftchinese.com/story/001046087
-!--.ftchinese.com/story/001046105
-!--.ftchinese.com/story/001046118
-!--.ftchinese.com/story/001046132
-!--.ftchinese.com/story/001046517
-!--.ftchinese.com/story/001046822
-!--.ftchinese.com/story/001046866
-!--.ftchinese.com/story/001046942
-!--.ftchinese.com/story/001047180
-!--.ftchinese.com/story/001047206
-!--.ftchinese.com/story/001047304
-!--.ftchinese.com/story/001047317
-!--.ftchinese.com/story/001047345
-!--.ftchinese.com/story/001047358
-!--.ftchinese.com/story/001047375
-!--.ftchinese.com/story/001047381
-!--.ftchinese.com/story/001047413
-!--.ftchinese.com/story/001047456
-!--.ftchinese.com/story/001047491
-!--.ftchinese.com/story/001047545
-!--.ftchinese.com/story/001047558
-!--.ftchinese.com/story/001047568
-!--.ftchinese.com/story/001047627
-!--.ftchinese.com/story/001048293
-!--.ftchinese.com/story/001048343
-!--.ftchinese.com/story/001048710
-!--.ftchinese.com/story/001049289
-!--.ftchinese.com/story/001049360
-!--.ftchinese.com/story/001049896
-!--.ftchinese.com/story/001050152
-!--.ftchinese.com/story/001051027
-!--.ftchinese.com/story/001051161
-!--.ftchinese.com/story/001051372
-!--.ftchinese.com/story/001051479
-!--.ftchinese.com/story/001052138
-!--.ftchinese.com/story/001052161
-!--.ftchinese.com/story/001052525
-!--.ftchinese.com/story/001052549
-!--.ftchinese.com/story/001052701
-!--.ftchinese.com/story/001052965
-!--.ftchinese.com/story/001053149
-!--.ftchinese.com/story/001053150
-!--.ftchinese.com/story/001053200
-!--.ftchinese.com/story/001053425
-!--.ftchinese.com/story/001053496
-!--.ftchinese.com/story/001053526
-!--.ftchinese.com/story/001053557
-!--.ftchinese.com/story/001053906
-!--.ftchinese.com/story/001054049
-!--.ftchinese.com/story/001054103
-!--.ftchinese.com/story/001054109
-!--.ftchinese.com/story/001054119
-!--.ftchinese.com/story/001054123
-!--.ftchinese.com/story/001054139
-!--.ftchinese.com/story/001054166
-!--.ftchinese.com/story/001054168
-!--.ftchinese.com/story/001054190
-!--.ftchinese.com/story/001054437
-!--.ftchinese.com/story/001054526
-!--.ftchinese.com/story/001054607
-!--.ftchinese.com/story/001054644
-!--.ftchinese.com/story/001054786
-!--.ftchinese.com/story/001054843
-!--.ftchinese.com/story/001054925
-!--.ftchinese.com/story/001054940
-!--.ftchinese.com/story/001055051
-!--.ftchinese.com/story/001055063
-!--.ftchinese.com/story/001055069
-!--.ftchinese.com/story/001055136
-!--.ftchinese.com/story/001055170
-!--.ftchinese.com/story/001055202
-!--.ftchinese.com/story/001055242
-!--.ftchinese.com/story/001055263
-!--.ftchinese.com/story/001055274
-!--.ftchinese.com/story/001055299
-!--.ftchinese.com/story/001055480
-!--.ftchinese.com/story/001055551
-!--.ftchinese.com/story/001055559
-!--.ftchinese.com/story/001055566
-!--.ftchinese.com/story/001055840
-!--.ftchinese.com/story/001056099
-!--.ftchinese.com/story/001056108
-!--.ftchinese.com/story/001056131
-!--.ftchinese.com/story/001056375
-!--.ftchinese.com/story/001056491
-!--.ftchinese.com/story/001056529
-!--.ftchinese.com/story/001056534
-!--.ftchinese.com/story/001056538
-!--.ftchinese.com/story/001056541
-!--.ftchinese.com/story/001056554
-!--.ftchinese.com/story/001056557
-!--.ftchinese.com/story/001056560
-!--.ftchinese.com/story/001056567
-!--.ftchinese.com/story/001056574
-!--.ftchinese.com/story/001056588
-!--.ftchinese.com/story/001056594
-!--.ftchinese.com/story/001056596
-!--.ftchinese.com/story/001056684
-!--.ftchinese.com/story/001056832
-!--.ftchinese.com/story/001056833
-!--.ftchinese.com/story/001056851
-!--.ftchinese.com/story/001056874
-!--.ftchinese.com/story/001056896
-!--.ftchinese.com/story/001056927
-!--.ftchinese.com/story/001057011
-!--.ftchinese.com/story/001057018
-!--.ftchinese.com/story/001057044
-!--.ftchinese.com/story/001057162
-!--.ftchinese.com/story/001057500
-!--.ftchinese.com/story/001057504
-!--.ftchinese.com/story/001057509
-!--.ftchinese.com/story/001057518
-!--.ftchinese.com/story/001057532
-!--.ftchinese.com/story/001057533
-!--.ftchinese.com/story/001057556
-!--.ftchinese.com/story/001057580
-!--.ftchinese.com/story/001057638
-!--.ftchinese.com/story/001057644
-!--.ftchinese.com/story/001057817
-!--.ftchinese.com/story/001057875
-!--.ftchinese.com/story/001058009
-!--.ftchinese.com/story/001058056
-!--.ftchinese.com/story/001058224
-!--.ftchinese.com/story/001058257
-!--.ftchinese.com/story/001058295
-!--.ftchinese.com/story/001058328
-!--.ftchinese.com/story/001058339
-!--.ftchinese.com/story/001058344
-!--.ftchinese.com/story/001058352
-!--.ftchinese.com/story/001058413
-!--.ftchinese.com/story/001058421
-!--.ftchinese.com/story/001058440
-!--.ftchinese.com/story/001058458
-!--.ftchinese.com/story/001058468
-!--.ftchinese.com/story/001058561
-!--.ftchinese.com/story/001058566
-!--.ftchinese.com/story/001058567
-!--.ftchinese.com/story/001058585
-!--.ftchinese.com/story/001058628
-!--.ftchinese.com/story/001058656
-!--.ftchinese.com/story/001058665
-!--.ftchinese.com/story/001058678
-!--.ftchinese.com/story/001058691
-!--.ftchinese.com/story/001058721
-!--.ftchinese.com/story/001058728
-!--.ftchinese.com/story/001059464
-!--.ftchinese.com/story/001059484
-!--.ftchinese.com/story/001059537
-!--.ftchinese.com/story/001059538
-!--.ftchinese.com/story/001059551
-!--.ftchinese.com/story/001059818
-!--.ftchinese.com/story/001059914
-!--.ftchinese.com/story/001059920
-!--.ftchinese.com/story/001059957
-!--.ftchinese.com/story/001060088
-!--.ftchinese.com/story/001060156
-!--.ftchinese.com/story/001060157
-!--.ftchinese.com/story/001060160
-!--.ftchinese.com/story/001060181
-!--.ftchinese.com/story/001060185
-!--.ftchinese.com/story/001060493
-!--.ftchinese.com/story/001060495
-!--.ftchinese.com/story/001060590
-!--.ftchinese.com/story/001060846
-!--.ftchinese.com/story/001060847
-!--.ftchinese.com/story/001060875
-!--.ftchinese.com/story/001060921
-!--.ftchinese.com/story/001060946
-!--.ftchinese.com/story/001061120
-!--.ftchinese.com/story/001061474
-!--.ftchinese.com/story/001061524
-!--.ftchinese.com/story/001061642
-!--.ftchinese.com/story/001062017
-!--.ftchinese.com/story/001062020
-!--.ftchinese.com/story/001062028
-!--.ftchinese.com/story/001062092
-!--.ftchinese.com/story/001062096
-!--.ftchinese.com/story/001062147
-!--.ftchinese.com/story/001062176
-!--.ftchinese.com/story/001062188
-!--.ftchinese.com/story/001062254
-!--.ftchinese.com/story/001062374
-!--.ftchinese.com/story/001062482
-!--.ftchinese.com/story/001062496
-!--.ftchinese.com/story/001062501
-!--.ftchinese.com/story/001062508
-!--.ftchinese.com/story/001062519
-!--.ftchinese.com/story/001062554
-!--.ftchinese.com/story/001062741
-!--.ftchinese.com/story/001062794
-!--.ftchinese.com/story/001063160
-!--.ftchinese.com/story/001063359
-!--.ftchinese.com/story/001063512
-!--.ftchinese.com/story/001063668
-!--.ftchinese.com/story/001063692
-!--.ftchinese.com/story/001063763
-!--.ftchinese.com/story/001063764
-!--.ftchinese.com/story/001063826
-!--.ftchinese.com/story/001064127
-!--.ftchinese.com/story/001064312
-!--.ftchinese.com/story/001064705
-!--.ftchinese.com/story/001064807
-!--.ftchinese.com/story/001065120
-!--.ftchinese.com/story/001065168
-!--.ftchinese.com/story/001065249
-!--.ftchinese.com/story/001065287
-!--.ftchinese.com/story/001065335
-!--.ftchinese.com/story/001065337
-!--.ftchinese.com/story/001065541
-!--.ftchinese.com/story/001065715
-!--.ftchinese.com/story/001065735
-!--.ftchinese.com/story/001065756
-!--.ftchinese.com/story/001065802
-!--.ftchinese.com/story/001066112
-!--.ftchinese.com/story/001066136
-!--.ftchinese.com/story/001066140
-!--.ftchinese.com/story/001066465
-!--.ftchinese.com/story/001066881
-!--.ftchinese.com/story/001066950
-!--.ftchinese.com/story/001066959
-!--.ftchinese.com/story/001067435
-!--www.ftchinese.com/story/001067479
-!--.ftchinese.com/story/001067528
-!--.ftchinese.com/story/001067545
-!--.ftchinese.com/story/001067572
-!--.ftchinese.com/story/001067648
-!--.ftchinese.com/story/001067650
-!--.ftchinese.com/story/001067680
-!--.ftchinese.com/story/001067692
-!--.ftchinese.com/story/001067871
-!--.ftchinese.com/story/001067923
-!--.ftchinese.com/story/001068062
-!--.ftchinese.com/story/001068248
-!--.ftchinese.com/story/001068278
-!--.ftchinese.com/story/001068379
-!--.ftchinese.com/story/001068483
-!--.ftchinese.com/story/001068506
-!--.ftchinese.com/story/001068547
-!--.ftchinese.com/story/001068616
-!--.ftchinese.com/story/001068622
-!--.ftchinese.com/story/001068707
-!--.ftchinese.com/story/001069146
-!--.ftchinese.com/story/001069373
-!--.ftchinese.com/story/001069516
-!--.ftchinese.com/story/001069517
-!--.ftchinese.com/story/001069687
-!--.ftchinese.com/story/001069741
-!--.ftchinese.com/story/001069861
-!--.ftchinese.com/story/001069952
-!--.ftchinese.com/story/001070053
-!--.ftchinese.com/story/001070177
-!--.ftchinese.com/story/001070307
-!--.ftchinese.com/story/001070809
-!--.ftchinese.com/story/001070990
-!--.ftchinese.com/story/001071042
-!--.ftchinese.com/story/001071044
-!--.ftchinese.com/story/001071106
-!--.ftchinese.com/story/001071166
-!--.ftchinese.com/story/001071181
-!--ftchinese.com/story/001071200
-!--.ftchinese.com/story/001071208
-!--.ftchinese.com/story/001071238
-!--.ftchinese.com/story/001071683
-!--.ftchinese.com/story/001072271
-!--.ftchinese.com/story/001072348
-!--.ftchinese.com/story/001072677
-!--.ftchinese.com/story/001072726
-!--.ftchinese.com/story/001072794
-!--.ftchinese.com/story/001072853
-!--.ftchinese.com/story/001072895
-!--.ftchinese.com/story/001072993
-!--.ftchinese.com/story/001073043
-!--.ftchinese.com/story/001073103
-!--.ftchinese.com/story/001073157
-!--.ftchinese.com/story/001073216
-!--.ftchinese.com/story/001073246
-!--.ftchinese.com/story/001073305
-!--.ftchinese.com/story/001073307
-!--.ftchinese.com/story/001073408
-!--.ftchinese.com/story/001073537
-!--.ftchinese.com/story/001073672
-!--.ftchinese.com/story/001073849
-!--.ftchinese.com/story/001073906
-!--.ftchinese.com/story/001074089
-!--.ftchinese.com/story/001074110
-!--.ftchinese.com/story/001074128
-!--.ftchinese.com/story/001074157
-!--.ftchinese.com/story/001074246
-!--.ftchinese.com/story/001074307
-!--.ftchinese.com/story/001074347
-!--.ftchinese.com/story/001074423
-!--.ftchinese.com/story/001074454
-!--.ftchinese.com/story/001074467
-!--.ftchinese.com/story/001074493
-!--.ftchinese.com/story/001074550
-!--.ftchinese.com/story/001074562
-!--.ftchinese.com/story/001074653
-!--.ftchinese.com/story/001074693
-!--.ftchinese.com/story/001074699
-!--.ftchinese.com/story/001074712
-!--.ftchinese.com/story/001074713
-!--.ftchinese.com/story/001074768
-!--.ftchinese.com/story/001074782
-!--.ftchinese.com/story/001074794
-!--.ftchinese.com/story/001074822
-!--.ftchinese.com/story/001074874
-!--.ftchinese.com/story/001074891
-!--.ftchinese.com/story/001074918
-!--.ftchinese.com/story/001075081
-!--.ftchinese.com/story/001075134
-!--.ftchinese.com/story/001075142
-!--.ftchinese.com/story/001075216
-!--.ftchinese.com/story/001075230
-!--.ftchinese.com/story/001075238
-!--.ftchinese.com/story/001075262
-!--.ftchinese.com/story/001075269
-!--.ftchinese.com/story/001075491
-!--.ftchinese.com/story/001075500
-!--.ftchinese.com/story/001075650
-!--.ftchinese.com/story/001075678
-!--.ftchinese.com/story/001075703
-!--.ftchinese.com/story/001075739
-!--.ftchinese.com/story/001076066
-!--.ftchinese.com/story/001076142
-!--.ftchinese.com/story/001076459
-!--.ftchinese.com/story/001076470
-!--.ftchinese.com/story/001076538
-!--.ftchinese.com/story/001076573
-!--.ftchinese.com/story/001076901
-!--.ftchinese.com/story/001077067
-!--.ftchinese.com/story/001077084
-!--.ftchinese.com/story/001077235
-!--.ftchinese.com/story/001077344
-!--.ftchinese.com/story/001077390
-!--.ftchinese.com/story/001077392
-!--.ftchinese.com/story/001077465
-!--.ftchinese.com/story/001077468
-!--.ftchinese.com/story/001077492
-!--.ftchinese.com/story/001077745
-!--.ftchinese.com/story/001077768
-!--.ftchinese.com/story/001077804
-!--.ftchinese.com/story/001077852
-!--.ftchinese.com/story/001078646
-!--.ftchinese.com/story/001078928
-!--.ftchinese.com/story/001078967
-!--.ftchinese.com/story/001079559
-!--.ftchinese.com/story/001079641
-!--.ftchinese.com/story/001079909
-!--.ftchinese.com/story/001079934
-!--.ftchinese.com/story/001079992
-!--.ftchinese.com/story/001080054
-!--.ftchinese.com/story/001080109
-!--.ftchinese.com/story/001080169
-!--.ftchinese.com/story/001080226
-!--.ftchinese.com/story/001080429
-!--.ftchinese.com/story/001080471
-!--.ftchinese.com/story/001080550
-!--.ftchinese.com/story/001080581
-!--.ftchinese.com/story/001080647
-!--.ftchinese.com/story/001080778
-!--.ftchinese.com/story/001080892
-!--.ftchinese.com/story/001080915
-!--.ftchinese.com/story/001080935
-!--.ftchinese.com/story/001081059
-!--.ftchinese.com/story/001081127
-!--.ftchinese.com/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A
-!--.ftchinese.com/tag/%E6%B8%A9%E5%AE%B6%E5%AE%9D
-!--.ftchinese.com/tag/%E8%96%84%E7%86%99%E6%9D%A5
-!--.ftchinese.com/video/1437
-!--.ftchinese.com/video/1882
-!--.ftchinese.com/video/2446
-!--.ftchinese.com/video/2601
-!--.ftchinese.com/comments
-
-!!---Google---
-!###https://www.google.com/supported_domains###
-!...GFWList doesn't intend to support typosquatting...
-||1e100.net
-||466453.com
-||abc.xyz
-||about.google
-||admob.com
-||adsense.com
-||advertisercommunity.com
-||agoogleaday.com
-||ai.google
-||ampproject.org
-@@|https://www.ampproject.org
-@@|https://cdn.ampproject.org
-||android.com
-||androidify.com
-||androidtv.com
-||api.ai
-.appspot.com
-||appspot.com
-||autodraw.com
-||blog.google
-||blogblog.com
-blogspot.com
-/^https?:\/\/[^\/]+blogspot\.(.*)/
-.blogspot.hk
-.blogspot.jp
-.blogspot.tw
-!--||capitalg.com
-||certificate-transparency.org
-||chrome.com
-||chromecast.com
-||chromeenterprise.google
-||chromeexperiments.com
-||chromercise.com
-||chromestatus.com
-||chromium.org
-||com.google
-||crbug.com
-||creativelab5.com
-||crisisresponse.google
-||crrev.com
-||data-vocabulary.org
-||debug.com
-||deepmind.com
-||deja.com
-||design.google
-||digisfera.com
-||dns.google
-||domains.google
-||duck.com
-||environment.google
-||feedburner.com
-||firebaseio.com
-||g.co
-||gcr.io
-||get.app
-||get.dev
-||get.how
-||get.page
-||getmdl.io
-||getoutline.org
-||ggpht.com
-||gmail.com
-||gmodules.com
-||godoc.org
-||golang.org
-||goo.gl
-.google.ae
-.google.as
-.google.am
-.google.at
-.google.az
-.google.ba
-.google.be
-.google.bg
-.google.ca
-.google.cd
-.google.ci
-.google.co.id
-.google.co.jp
-.google.co.kr
-.google.co.ma
-.google.co.uk
-.google.com
-.google.de
-||google.dev
-.google.dj
-.google.dk
-.google.es
-.google.fi
-.google.fm
-.google.fr
-.google.gg
-.google.gl
-.google.gr
-.google.ie
-.google.is
-.google.it
-.google.jo
-.google.kz
-.google.lv
-.google.mn
-.google.ms
-.google.nl
-.google.nu
-.google.no
-.google.ro
-.google.ru
-.google.rw
-.google.sc
-.google.sh
-.google.sk
-.google.sm
-.google.sn
-.google.tk
-.google.tm
-.google.to
-.google.tt
-.google.vu
-.google.ws
-/^https?:\/\/([^\/]+\.)*google\.(ac|ad|ae|af|ai|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.*/
-!--||google-analytics.com
-!--||googleadservices.com
-||googleapis.cn
-||googleapis.com
-||googleapps.com
-||googleartproject.com
-||googleblog.com
-||googlebot.com
-!--||googlecapital.com
-||googlechinawebmaster.com
-||googlecode.com
-||googlecommerce.com
-||googledomains.com
-||googlearth.com
-||googleearth.com
-||googledrive.com
-||googlefiber.net
-||googlegroups.com
-||googlehosted.com
-||googleideas.com
-||googleinsidesearch.com
-||googlelabs.com
-||googlemail.com
-||googlemashups.com
-||googlepagecreator.com
-||googleplay.com
-||googleplus.com
-||googlescholar.comUSA
-||googlesource.com
-!--||googlesyndication.com
-!--||googletagmanager.com
-!--||googletagservices.com
-||googleusercontent.com
-.googlevideo.com
-||googlevideo.com
-||googleweblight.com
-||googlezip.net
-||groups.google.cn
-||grow.google
-||gstatic.com
-!--||gv.com
-||gvt0.com
-||gvt1.com
-@@||redirector.gvt1.com
-||gvt3.com
-||gwtproject.org
-||html5rocks.com
-||iam.soy
-||igoogle.com
-||itasoftware.com
-||lers.google
-||like.com
-||madewithcode.com
-||material.io
-||nic.google
-||on2.com
-||opensource.google
-||panoramio.com
-||picasaweb.com
-||pki.goog
-||plus.codes
-||polymer-project.org
-||pride.google
-||questvisual.com
-||admin.recaptcha.net
-||api.recaptcha.net
-||api-secure.recaptcha.net
-||api-verify.recaptcha.net
-||redhotlabs.com
-||registry.google
-||research.google
-||safety.google
-||savethedate.foo
-||schema.org
-||shattered.io
-|http://sipml5.org/
-||stories.google
-||sustainability.google
-||synergyse.com
-||teachparentstech.org
-||tensorflow.org
-||tfhub.dev
-||thinkwithgoogle.com
-||tiltbrush.com
-||translate.goog
-||translate.google
-||tv.google
-||urchin.com
-!--||www.google
-||waveprotocol.org
-||waymo.com
-||web.dev
-||webmproject.org
-||webrtc.org
-||whatbrowser.org
-||widevine.com
-||withgoogle.com
-||withyoutube.com
-||x.company
-||xn--ngstr-lra8j.com
-||youtu.be
-.youtube.com
-||youtube.com
-||youtube-nocookie.com
-||youtubeeducation.com
-||youtubegaming.com
-||youtubekids.com
-||yt.be
-||ytimg.com
-||zynamics.com
-
-!!---KickASS---
-!--OFFICIAL URL list at: https://kastatus.com
-
-!!---NaughtyAmerica---
-||naughtyamerica.com
-
-!!---NYTimes---
-!--||d1f1eryiqyjs0r.cloudfront.net
-!--||d3lar09xbwlsge.cloudfront.net
-!--||d3q1qj9jzsu8nw.cloudfront.net
-!--||dc8xl0ndzn2cb.cloudfront.net
-!--||a1.nyt.com
-!--||int.nyt.com
-!--||s1.nyt.com
-static01.nyt.com
-!--||static01.nyt.com
-!--||typeface.nyt.com
-||nyt.com
-nytchina.com
-nytcn.me
-||nytcn.me
-||nytco.com
-|http://nyti.ms/
-.nytimes.com
-||nytimes.com
-||nytimg.com
-userapi.nytlog.com
-cn.nytstyle.com
-||nytstyle.com
-
-!!---Steam---
-.steamcommunity.com
-||steamcommunity.com
-!--steamcommunity.com/profiles/76561198062771609
-!--steamcommunity.com/groups/LibetTibet
-!--steamcommunity.com/groups/zhonggong
-!--steamcommunity.com/id/CJT_Jackton
-||store.steampowered.com
-
-!!---Telegram---
-!!!---Domain---
-||t.me
-||updates.tdesktop.com
-||telegram.dog
-||telegram.me
-||telegram.org
-.telegramdownload.com
-||telesco.pe
-!!!---IP---
-
-!!---Twitch---
-||jtvnw.net
-||ttvnw.net
-||twitch.tv
-||twitchcdn.net
-
-!!---Twitter---
-||periscope.tv
-.pscp.tv
-||pscp.tv
-.t.co
-||t.co
-.tweetdeck.com
-||tweetdeck.com
-||twimg.com
-.twitpic.com
-||twitpic.com
-.twitter.com
-||twitter.com
-||twitter.jp
-||vine.co
-
-!!---Taiwan---
-||gov.taipei
-.gov.tw
-|https://aiss.anws.gov.tw
-||archives.gov.tw
-||tacc.cwb.gov.tw
-||data.gov.tw
-||epa.gov.tw
-||fa.gov.tw
-||fda.gov.tw
-||hpa.gov.tw
-||immigration.gov.tw
-||itaiwan.gov.tw
-||mjib.gov.tw
-||moeaic.gov.tw
-||mofa.gov.tw
-||mol.gov.tw
-||mvdis.gov.tw
-||nat.gov.tw
-||nhi.gov.tw
-||npa.gov.tw
-||nsc.gov.tw
-||ntbk.gov.tw
-||ntbna.gov.tw
-||ntbt.gov.tw
-||ntsna.gov.tw
-||pcc.gov.tw
-||stat.gov.tw
-||taipei.gov.tw
-||taiwanjobs.gov.tw
-||thb.gov.tw
-||tipo.gov.tw
-||wda.gov.tw
-
-||teco-hk.org
-||teco-mo.org
-
-@@||aftygh.gov.tw
-@@||aide.gov.tw
-@@||tpde.aide.gov.tw
-@@||arte.gov.tw
-@@||chukuang.gov.tw
-@@||cwb.gov.tw
-@@||cycab.gov.tw
-@@||dbnsa.gov.tw
-@@||df.gov.tw
-@@||eastcoast-nsa.gov.tw
-@@||erv-nsa.gov.tw
-@@||grb.gov.tw
-@@||gysd.nyc.gov.tw
-@@||hchcc.gov.tw
-@@||hsinchu-cc.gov.tw
-@@||iner.gov.tw
-@@||klsio.gov.tw
-@@||kmseh.gov.tw
-@@||lungtanhr.gov.tw
-@@||maolin-nsa.gov.tw
-@@||matsu-news.gov.tw
-@@||matsu-nsa.gov.tw
-@@||matsucc.gov.tw
-@@||moe.gov.tw
-@@||nankan.gov.tw
-@@||ncree.gov.tw
-@@||necoast-nsa.gov.tw
-@@||siraya-nsa.gov.tw
-@@||cromotc.nat.gov.tw
-@@||tax.nat.gov.tw
-@@||necoast-nsa.gov.tw
-@@||ner.gov.tw
-@@||nmmba.gov.tw
-@@||nmp.gov.tw
-@@||nmvttc.gov.tw
-@@||northguan-nsa.gov.tw
-@@||npm.gov.tw
-@@||nstm.gov.tw
-@@||ntdmh.gov.tw
-@@||ntl.gov.tw
-@@||ntsec.gov.tw
-@@||ntuh.gov.tw
-@@||nvri.gov.tw
-@@||penghu-nsa.gov.tw
-@@||post.gov.tw
-@@||siraya-nsa.gov.tw
-@@||stdtime.gov.tw
-@@||sunmoonlake.gov.tw
-@@||taitung-house.gov.tw
-@@||taoyuan.gov.tw
-@@||tphcc.gov.tw
-@@||trimt-nsa.gov.tw
-@@||vghtpe.gov.tw
-@@||vghks.gov.tw
-@@||vghtc.gov.tw
-@@||wanfang.gov.tw
-@@||yatsen.gov.tw
-@@||yda.gov.tw
-
-!--@@||4pppc.gov.tw
-!--@@||921.gov.tw
-!--@@||dmtip.gov.tw
-!--@@||etraining.gov.tw
-!--@@||gsn-cert.nat.gov.tw
-!--@@||nici.nat.gov.tw
-!--@@||hcc.gov.tw
-!--@@||hengchuen.gov.tw
-!--@@||khcc.gov.tw
-!--@@||khms.gov.tw
-!--@@||kk.gov.tw
-!--@@||klccab.gov.tw
-!--@@||klra.gov.tw
-!--@@||nmh.gov.tw
-!--@@||nmtl.gov.tw
-!--@@||pabp.gov.tw
-!--@@||pet.gov.tw
-!--@@||tchb.gov.tw
-!--@@||tcsac.gov.tw
-!--@@||tncsec.gov.tw
-||kinmen.org.tw
-
-!!---USA---
-|http://www.americorps.gov
-||jpl.nasa.gov
-||pds.nasa.gov
-||solarsystem.nasa.gov
-iipdigital.usembassy.gov
-||usfk.mil
-||usmc.mil
-|http://tarr.uspto.gov/
-||tsdr.uspto.gov
-
-!!---V2EX---
-||v2ex.com
-!--.v2ex.com
-!--Included in above rule: dns.v2ex.com
-!--@@|http://v2ex.com
-!--@@|http://cdn.v2ex.com
-!--@@|http://cn.v2ex.com
-!--@@|http://hk.v2ex.com
-!--@@|http://i.v2ex.com
-!--@@|http://lax.v2ex.com
-!--@@|http://neue.v2ex.com
-!--@@|http://pagespeed.v2ex.com
-!--@@|http://static.v2ex.com
-!--@@|http://workspace.v2ex.com
-!--@@|http://www.v2ex.com
-
-!!---VOA---
-cn.voa.mobi
-tw.voa.mobi
-||voacambodia.com
-.voachineseblog.com
-||voachineseblog.com
-.voacantonese.com
-||voacantonese.com
-voachinese.com
-||voachinese.com
-voagd.com
-||voaindonesia.com
-.voanews.com
-||voanews.com
-voatibetan.com
-||voatibetan.com
-.voatibetanenglish.com
-||voatibetanenglish.com
-
-!!---Wikia---
-||zh.ecdm.wikia.com
-||evchk.wikia.com
-fq.wikia.com
-zh.pttpedia.wikia.com/wiki/%E7%BF%92%E5%8C%85%E5%AD%90%E4%B9%8B%E4%BA%82
-cn.uncyclopedia.wikia.com
-zh.uncyclopedia.wikia.com
-
-!-------------Wikipedia Related-------------
-!!Emergency need only(IP/Port block usage)!!
-!------0------
-!--||mediawiki.org
-!--@@||m.mediawiki.org
-!------1------
-!--||wikidata.org
-!--@@||m.wikidata.org
-!------2------
-||wikimedia.org
-!--@@||lists.wikimedia.org
-!--@@||m.wikimedia.org
-!--@@||phabricator.wikimedia.org
-!--@@||upload.wikimedia.org
-!--@@||wikitech.wikimedia.org
-!------3------
-!--||wikibooks.org
-!--@@||m.wikibooks.org
-!------4------
-!--||wikiversity.org
-!--@@||m.wikiversity.org
-!------5------
-!--||wikisource.org
-!--@@||m.wikisource.org
-|http://zh.wikisource.org
-!------6------
-||zh.wikiquote.org
-!--@@||m.wikiquote.org
-!------7------
-!--||wikinews.org
-!--@@||m.wikinews.org
-||zh.wikinews.org
-!------8------
-!--||wikivoyage.org
-!--@@||m.wikivoyage.org
-!--|http://zh.wikivoyage.org
-!------9------
-!--||wiktionary.org
-!--@@||m.wiktionary.org
-!--|http://zh.wiktionary.org
-!-----10------
-!--||wikimediafoundation.org
-!--@@||m.wikimediafoundation.org
-!----Main-----
-!!--||en.wikipedia.org
-!--||wikipedia.org
-||ja.wikipedia.org
-!!--zh.wikipedia.org
-!--||zh.wikipedia.org
-!!--||ug.m.wikipedia.org
-!!--zh.m.wikipedia.org
-!!--|https://zh.m.wikipedia.org
-!--@@||m.wikipedia.org
-!!--|https://zh.wikipedia.org
-!--Other Languages of Wikipedia
-!!--wuu.wikipedia.org
-!!--|https://wuu.wikipedia.org
-!!--zh-yue.wikipedia.org
-!!--|https://zh-yue.wikipedia.org
-!!! Starting with !! are previous rules replaced by:
-||wikipedia.org
-
-!!---Yahoo---
-||data.flurry.com
-||page.bid.yahoo.com
-||tw.bid.yahoo.com
-||auctions.yahoo.co.jp
-||blogs.yahoo.co.jp
-||search.yahoo.co.jp
-||buy.yahoo.com.tw
-||hk.yahoo.com
-||hk.knowledge.yahoo.com
-||tw.money.yahoo.com
-||hk.myblog.yahoo.com
-news.yahoo.com/china-blocks-bbc
-||hk.news.yahoo.com
-hk.rd.yahoo.com
-hk.search.yahoo.com/search
-hk.video.news.yahoo.com/video
-meme.yahoo.com
-!--tw.yahoo.com
-tw.answers.yahoo.com
-|https://tw.answers.yahoo.com
-||tw.knowledge.yahoo.com
-||tw.mall.yahoo.com
-tw.yahoo.com
-||tw.mobi.yahoo.com
-tw.myblog.yahoo.com
-||tw.news.yahoo.com
-pulse.yahoo.com
-||search.yahoo.com
-upcoming.yahoo.com
-video.yahoo.com
-||yahoo.com.hk
-||duckduckgo-owned-server.yahoo.net
-
-!------------------Numerics---------------------
-||000webhost.com
-.030buy.com
-.0rz.tw
-|http://0rz.tw
-1-apple.com.tw
-||1-apple.com.tw
-.10.tt
-.100ke.org
-.1000giri.net
-||1000giri.net
-||10beasts.net
-.10conditionsoflove.com
-||10musume.com
-123rf.com
-.12bet.com
-||12bet.com
-.12vpn.com
-.12vpn.net
-||12vpn.com
-||12vpn.net
-||1337x.to
-.138.com
-141hongkong.com/forum
-||141jj.com
-.141tube.com
-.1688.com.au
-.173ng.com
-||173ng.com
-.177pic.info
-.17t17p.com
-||18board.com
-||18board.info
-18onlygirls.com
-.18p2p.com
-.18virginsex.com
-.1949er.org
-zhao.1984.city
-||zhao.1984.city
-1984bbs.com
-||1984bbs.com
-!--||1984blog.com
-.1984bbs.org
-||1984bbs.org
-.1991way.com
-||1991way.com
-.1998cdp.org
-.1bao.org
-|http://1bao.org
-.1eew.com
-.1mobile.com
-|http://*.1mobile.tw
-||1pondo.tv
-.2-hand.info
-.2000fun.com/bbs
-.2008xianzhang.info
-||2008xianzhang.info
-||2017.hk
-||2021hkcharter.com
-||2047.name
-21andy.com/blog
-.21join.com
-.21pron.com
-21sextury.com
-.228.net.tw
-||233abc.com
-||24hrs.ca
-24smile.org
-2lipstube.com
-.2shared.com
-30boxes.com
-.315lz.com
-||32red.com
-||36rain.com
-.3a5a.com
-3arabtv.com
-.3boys2girls.com
-.3proxy.ru
-.3ren.ca
-.3tui.net
-||404museum.com
-||4bluestones.biz
-.4chan.com
-!--||4chan.org
-.4everproxy.com
-||4everproxy.com
-||4rbtv.com
-||4shared.com
-taiwannation.50webs.com
-||51.ca
-||51jav.org
-.51luoben.com
-||51luoben.com
-||5278.cc
-.5299.tv
-5aimiku.com
-5i01.com
-.5isotoi5.org
-.5maodang.com
-||63i.com
-.64museum.org
-64tianwang.com
-64wiki.com
-.66.ca
-666kb.com
-||6do.news
-.6park.com
-||6park.com
-||6parkbbs.com
-||6parker.com
-||6parknews.com
-||7capture.com
-.7cow.com
-||7-zip.org
-.8-d.com
-|http://8-d.com
-85cc.net
-.85cc.us
-|http://85cc.us
-|http://85st.com
-.881903.com/page/zh-tw/
-||881903.com
-.888.com
-.888poker.com
-89.64.charter.constitutionalism.solutions
-89-64.org
-||89-64.org
-||8964museum.com
-.8news.com.tw
-.8z1.net
-||8z1.net
-.9001700.com
-|http://908taiwan.org/
-||91porn.com
-||91vps.club
-.92ccav.com
-.991.com
-|http://991.com
-.99btgc01.com
-||99btgc01.com
-.99cn.info
-|http://99cn.info
-||9bis.com
-||9bis.net
-||9news.com.au
-
-!--------------------AA-------------------------
-.tibet.a.se
-|http://tibet.a.se
-||a-normal-day.com
-a5.com.ru
-|http://aamacau.com
-!--|http://cdn*.abc.com/
-.abc.com
-.abc.net.au
-||abc.net.au
-.abchinese.com
-abclite.net
-|https://www.abclite.net
-.ablwang.com
-.aboluowang.com
-||aboluowang.com
-.aboutgfw.com
-.abs.edu
-.accim.org
-.aceros-de-hispania.com
-.acevpn.com
-||acevpn.com
-.acg18.me
-|http://acg18.me
-||acgbox.org
-||acgkj.com
-||acgnx.se
-.acmedia365.com
-.acnw.com.au
-actfortibet.org
-actimes.com.au
-activpn.com
-||activpn.com
-||aculo.us
-||addictedtocoffee.de
-||addyoutube.com
-.adelaidebbs.com/bbs
-.adpl.org.hk
-|http://adpl.org.hk
-.adult-sex-games.com
-||adult-sex-games.com
-adultfriendfinder.com
-adultkeep.net/peepshow/members/main.htm
-||advanscene.com
-||advertfan.com
-.ae.org
-||aenhancers.com
-||af.mil
-.afantibbs.com
-|http://afantibbs.com
-||afr.com
-.ai-kan.net
-||ai-kan.net
-ai-wen.net
-.aiph.net
-||aiph.net
-.airasia.com
-||airconsole.com
-|http://download.aircrack-ng.org
-.airvpn.org
-||airvpn.org
-.aisex.com
-||ait.org.tw
-aiweiwei.com
-.aiweiweiblog.com
-||aiweiweiblog.com
-||www.ajsands.com
-
-!!---Akamai---
-a248.e.akamai.net
-||a248.e.akamai.net
-
-rfalive1.akacast.akamaistream.net
-voa-11.akacast.akamaistream.net
-
-!!--403
-||abematv.akamaized.net
-||linear-abematv.akamaized.net
-||vod-abematv.akamaized.net
-
-|https://fbcdn*.akamaihd.net/
-!--||fbexternal-a.akamaihd.net
-!--||fbstatic-a.akamaihd.net
-!--|https://igcdn*.akamaihd.net
-rthklive2-lh.akamaihd.net
-
-.akademiye.org/ug
-|http://akademiye.org/ug
-||akiba-online.com
-||akow.org
-.al-islam.com
-||al-qimmah.net
-||alabout.com
-.alanhou.com
-|http://alanhou.com
-.alarab.qa
-||alasbarricadas.org
-alexlur.org
-||alforattv.net
-.alhayat.com
-.alicejapan.co.jp
-aliengu.com
-||alive.bar
-||alkasir.com
-||all4mom.org
-||allconnected.co
-.alldrawnsex.com
-||alldrawnsex.com
-.allervpn.com
-||allfinegirls.com
-.allgirlmassage.com
-allgirlsallowed.org
-.allgravure.com
-alliance.org.hk
-.allinfa.com
-||allinfa.com
-.alljackpotscasino.com
-||allmovie.com
-||almasdarnews.com
-.alphaporno.com
-||alternate-tools.com
-alternativeto.net/software
-alvinalexander.com
-alwaysdata.com
-||alwaysdata.com
-||alwaysdata.net
-.alwaysvpn.com
-||alwaysvpn.com
-||am730.com.hk
-ameblo.jp
-||ameblo.jp
-www1.american.edu/ted/ice/tibet
-||americangreencard.com
-||amiblockedornot.com
-.amigobbs.net
-.amitabhafoundation.us
-|http://amitabhafoundation.us
-.amnesty.org
-||amnesty.org
-||amnesty.org.hk
-.amnesty.tw
-.amnestyusa.org
-||amnestyusa.org
-.amnyemachen.org
-.amoiist.com
-.amtb-taipei.org
-androidplus.co/apk
-.andygod.com
-|http://andygod.com
-annatam.com/chinese
-||anchor.fm
-||anchorfree.com
-!--GHS
-||ancsconf.org
-||andfaraway.net
-||android-x86.org
-angelfire.com/hi/hayashi
-||angularjs.org
-animecrazy.net
-aniscartujo.com
-||aniscartujo.com
-||anobii.com
-anonymise.us
-.anonymitynetwork.com
-.anonymizer.com
-.anonymouse.org
-||anonymouse.org
-anontext.com
-.anpopo.com
-.answering-islam.org
-|http://www.antd.org
-||anthonycalzadilla.com
-.anti1984.com
-antichristendom.com
-.antiwave.net
-|http://antiwave.net
-.anyporn.com
-.anysex.com
-|http://anysex.com
-.ao3.org
-||ao3.org
-||aobo.com.au
-.aofriend.com
-|http://aofriend.com
-.aofriend.com.au
-.aojiao.org
-||aomiwang.com
-video.ap.org
-||apat1989.org
-.apetube.com
-||apiary.io
-.apigee.com
-||apigee.com
-||apk.support
-||apk-dl.com
-||apkcombo.com
-.apkmonk.com/app
-||apkmonk.com
-||apkplz.com
-apkpure.com
-||apkpure.com
-.aplusvpn.com
-!--||appannie.com
-||appbrain.com
-.appdownloader.net/Android
-.appledaily.com
-||appledaily.com
-appledaily.com.hk
-||appledaily.com.hk
-appledaily.com.tw
-||appledaily.com.tw
-.appshopper.com
-|http://appshopper.com
-||appsocks.net
-||appsto.re
-.aptoide.com
-||aptoide.com
-||archives.gov
-.archive.fo
-||archive.fo
-.archive.is
-||archive.is
-.archive.li
-||archive.li
-||archive.org
-||archive.ph
-archive.today
-|https://archive.today
-||archiveofourown.com
-||archiveofourown.org
-.arctosia.com
-|http://arctosia.com
-||areca-backup.org
-.arethusa.su
-||arethusa.su
-||arlingtoncemetery.mil
-||army.mil
-.art4tibet1998.org
-artofpeacefoundation.org
-artsy.net
-||asacp.org
-asdfg.jp/dabr
-asg.to
-.asia-gaming.com
-.asiaharvest.org
-||asiaharvest.org
-||asianage.com
-||asianews.it
-|http://japanfirst.asianfreeforum.com/
-||asiansexdiary.com
-||asianwomensfilm.de
-||asiaone.com
-.asiatgp.com
-.asiatoday.us
-||askstudent.com
-.askynz.net
-||askynz.net
-||aspi.org.au
-||aspistrategist.org.au
-||assembla.com
-||astrill.com
-||atc.org.au
-.atchinese.com
-|http://atchinese.com
-atgfw.org
-.atlaspost.com
-||atlaspost.com
-||atdmt.com
-.atlanta168.com
-||atlanta168.com
-.atnext.com
-||atnext.com
-ice.audionow.com
-.av.com
-||av.movie
-.av-e-body.com
-avaaz.org
-||avaaz.org
-!--||avast.com
-.avbody.tv
-.avcity.tv
-.avcool.com
-.avdb.in
-||avdb.in
-.avdb.tv
-||avdb.tv
-.avfantasy.com
-||avg.com
-.avgle.com
-||avgle.com
-||avidemux.org
-||avoision.com
-.avyahoo.com
-||axios.com
-||axureformac.com
-.azerbaycan.tv
-azerimix.com
-!--boxun.azurewebsites.net doesn't exist.
-boxun*.azurewebsites.net
-||boxun*.azurewebsites.net
-
-!--------------------BB-------------------------
-||b-ok.cc
-forum.baby-kingdom.com
-||babylonbee.com
-babynet.com.hk
-backchina.com
-||backchina.com
-.backpackers.com.tw/forum
-backtotiananmen.com
-.badiucao.com
-||badiucao.com
-.badjojo.com
-badoo.com
-|http://*2.bahamut.com.tw
-||baidu.jp
-.baijie.org
-|http://baijie.org
-||bailandaily.com
-||baixing.me
-||bakgeekhome.tk
-.banana-vpn.com
-||banana-vpn.com
-.band.us
-||bandcamp.com
-.bandwagonhost.com
-||bandwagonhost.com
-.bangbrosnetwork.com
-.bangchen.net
-|http://bangchen.net
-||bangkokpost.com
-||bangyoulater.com
-bannedbook.org
-||bannedbook.org
-.bannednews.org
-.baramangaonline.com
-|http://baramangaonline.com
-.barenakedislam.com
-||barnabu.co.uk
-||barton.de
-.bastillepost.com
-||bastillepost.com
-bayvoice.net
-||bayvoice.net
-dajusha.baywords.com
-||bbchat.tv
-||bb-chat.tv
-.bbg.gov
-.bbkz.com/forum
-.bbnradio.org
-bbs-tw.com
-.bbsdigest.com/thread
-||bbsfeed.com
-bbsland.com
-.bbsmo.com
-.bbsone.com
-bbtoystore.com
-.bcast.co.nz
-.bcc.com.tw/board
-.bcchinese.net
-.bcmorning.com
-bdsmvideos.net
-.beaconevents.com
-.bebo.com
-||bebo.com
-.beevpn.com
-||beevpn.com
-.behindkink.com
-||beijing1989.com
-||beijing2022.art
-beijingspring.com
-||beijingspring.com
-.beijingzx.org
-|http://beijingzx.org
-.belamionline.com
-.bell.wiki
-|http://bell.wiki
-bemywife.cc
-beric.me
-||berlinerbericht.de
-.berlintwitterwall.com
-||berlintwitterwall.com
-.berm.co.nz
-.bestforchina.org
-||bestforchina.org
-.bestgore.com
-.bestpornstardb.com
-||bestvpn.com
-.bestvpnanalysis.com
-.bestvpnserver.com
-.bestvpnservice.com
-.bestvpnusa.com
-||bet365.com
-.betfair.com
-||betternet.co
-.bettervpn.com
-||bettervpn.com
-.bettween.com
-||bettween.com
-||betvictor.com
-.bewww.net
-.beyondfirewall.com
-||bfnn.org
-||bfsh.hk
-.bgvpn.com
-||bgvpn.com
-.bianlei.com
-@@||bianlei.com
-biantailajiao.com
-biantailajiao.in
-.biblesforamerica.org
-|http://biblesforamerica.org
-.bic2011.org
-||biedian.me
-bigfools.com
-||bigjapanesesex.com
-.bignews.org
-||bignews.org
-.bigsound.org
-||bild.de
-.biliworld.com
-|http://biliworld.com
-|http://billypan.com/wiki
-.binux.me
-ai.binwang.me/couplet
-.bit.do
-|http://bit.do
-.bit.ly
-|http://bit.ly
-!--||bitbucket.org
-||bitchute.com
-||bitcointalk.org
-.bitshare.com
-||bitshare.com
-bitsnoop.com
-.bitvise.com
-||bitvise.com
-bizhat.com
-||bl-doujinsouko.com
-.bjnewlife.org
-.bjs.org
-bjzc.org
-||bjzc.org
-.blacklogic.com
-.blackvpn.com
-||blackvpn.com
-blewpass.com
-tor.blingblingsquad.net
-.blinkx.com
-||blinkx.com
-blinw.com
-.blip.tv
-||blip.tv/
-.blockcn.com
-||blockcn.com
-||blockedbyhk.com
-||blockless.com
-||blog.de
-.blog.jp
-|http://blog.jp
-@@||jpush.cn
-.blogcatalog.com
-||blogcatalog.com
-||blogcity.me
-.blogger.com
-||blogger.com
-blogimg.jp
-||blog.kangye.org
-.bloglines.com
-||bloglines.com
-||bloglovin.com
-rconversation.blogs.com
-blogtd.net
-.blogtd.org
-|http://blogtd.org
-||bloodshed.net
-!--403
-||assets.bwbx.io
-
-||bloomfortune.com
-blueangellive.com
-||blubrry.com
-.bmfinn.com
-.bnews.co
-||bnews.co
-||bnrmetal.com
-boardreader.com/thread
-||boardreader.com
-.bod.asia
-||bod.asia
-.bodog88.com
-.bolehvpn.net
-||bolehvpn.net
-bonbonme.com
-.bonbonsex.com
-.bonfoundation.org
-.bongacams.com
-||boobstagram.com
-||book.com.tw
-||bookdepository.com
-bookepub.com
-||books.com.tw
-||borgenmagazine.com
-||botanwang.com
-.bot.nu
-.bowenpress.com
-||bowenpress.com
-||app.box.com
-dl.box.net
-||dl.box.net
-.boxpn.com
-||boxpn.com
-boxun.com
-||boxun.com
-.boxun.tv
-||boxun.tv
-boxunblog.com
-||boxunblog.com
-.boxunclub.com
-boyangu.com
-.boyfriendtv.com
-.boysfood.com
-||br.st
-.brainyquote.com/quotes/authors/d/dalai_lama
-||brandonhutchinson.com
-||braumeister.org
-||brave.com
-.bravotube.net
-||bravotube.net
-.brazzers.com
-||brazzers.com
-.break.com
-||break.com
-breakgfw.com
-||breakgfw.com
-breaking911.com
-.breakingtweets.com
-||breakingtweets.com
-||breakwall.net
-briian.com/6511/freegate
-.briefdream.com/%E7%B4%A0%E6%A3%BA
-||brill.com
-brizzly.com
-||brizzly.com
-||brkmd.com
-broadbook.com
-.broadpressinc.com
-||broadpressinc.com
-bbs.brockbbs.com
-||brookings.edu
-brucewang.net
-.brutaltgp.com
-||brutaltgp.com
-.bt2mag.com
-||bt95.com
-.btaia.com
-.btbtav.com
-|http://btdigg.org
-.btku.me
-||btku.me
-||btku.org
-.btspread.com
-.btsynckeys.com
-.budaedu.org
-||budaedu.org
-.buddhanet.com.tw/zfrop/tibet
-.buddhistchannel.tv
-.buffered.com
-|http://buffered.com
-||bullguard.com
-.bullog.org
-||bullog.org
-.bullogger.com
-||bullogger.com
-||bunbunhk.com
-.busayari.com
-|http://busayari.com
-||business-humanrights.org
-.businessinsider.com/bing-could-be-censoring-search-results-2014
-.businessinsider.com/china-banks-preparing-for-debt-implosion-2014
-.businessinsider.com/hong-kong-activists-defy-police-tear-gas-as-protests-continue-overnight-2014
-.businessinsider.com/internet-outages-reported-in-north-korea-2014
-.businessinsider.com/iphone-6-is-approved-for-sale-in-china-2014
-.businessinsider.com/nfl-announcers-surface-tablets-2014
-.businessinsider.com/panama-papers
-.businessinsider.com/umbrella-man-hong-kong-2014
-|http://www.businessinsider.com.au/*
-.businesstoday.com.tw
-||businesstoday.com.tw
-.busu.org/news
-|http://busu.org/news
-busytrade.com
-.buugaa.com
-.buzzhand.com
-.buzzhand.net
-.buzzorange.com
-||buzzorange.com
-||bvpn.com
-||bwh1.net
-bwsj.hk
-||bx.tl
-||bypasscensorship.org
-
-!--------------------CC-------------------------
-||c-span.org
-.c-spanvideo.org
-||c-spanvideo.org
-||c-est-simple.com
-.c100tibet.org
-||cablegatesearch.net
-.cachinese.com
-.cacnw.com
-|http://cacnw.com
-.cactusvpn.com
-||cactusvpn.com
-.cafepress.com
-.cahr.org.tw
-.caijinglengyan.com
-||caijinglengyan.com
-.calameo.com/books
-.calgarychinese.ca
-.calgarychinese.com
-.calgarychinese.net
-|http://blog.calibre-ebook.com
-falun.caltech.edu
-.its.caltech.edu/~falun/
-.cam4.com
-.cam4.jp
-.cam4.sg
-.camfrog.com
-||camfrog.com
-||campaignforuyghurs.org
-||cams.com
-.cams.org.sg
-canadameet.com
-.canalporno.com
-|http://bbs.cantonese.asia/
-!--http://www.cantonese.asia/action-bbs.html
-.canyu.org
-||canyu.org
-.cao.im
-.caobian.info
-||caobian.info
-caochangqing.com
-||caochangqing.com
-.cap.org.hk
-||cap.org.hk
-.carabinasypistolas.com
-cardinalkungfoundation.org
-||posts.careerengine.us
-carmotorshow.com
-||carrd.co
-ss.carryzhou.com
-.cartoonmovement.com
-||cartoonmovement.com
-.casadeltibetbcn.org
-.casatibet.org.mx
-|http://casatibet.org.mx
-.cari.com.my
-||cari.com.my
-||caribbeancom.com
-.casinoking.com
-.casinoriva.com
-||catch22.net
-.catchgod.com
-|http://catchgod.com
-||catfightpayperview.xxx
-.catholic.org.hk
-||catholic.org.hk
-catholic.org.tw
-||catholic.org.tw
-.cathvoice.org.tw
-||cato.org
-||cattt.com
-.cbc.ca
-||cbc.ca
-.cbsnews.com/video
-.cbtc.org.hk
-||southpark.cc.com
-!-.ccc.de
-!-||ccc.de
-||cccat.cc
-||cccat.co
-.ccdtr.org
-||ccdtr.org
-.cchere.com
-||cchere.com
-.ccim.org
-.cclife.ca
-cclife.org
-||cclife.org
-cclifefl.org
-||cclifefl.org
-.ccthere.com
-||ccthere.com
-||ccthere.net
-.cctmweb.net
-.cctongbao.com/article/2078732
-ccue.ca
-ccue.com
-.ccvoice.ca
-.ccw.org.tw
-.cgdepot.org
-|http://cgdepot.org
-||cdbook.org
-.cdcparty.com
-.cdef.org
-||cdef.org
-||cdig.info
-cdjp.org
-||cdjp.org
-!--.cdn-apple.com
-!--||cdn-apple.com
-.cdnews.com.tw
-cdp1989.org
-cdp1998.org
-||cdp1998.org
-cdp2006.org
-||cdp2006.org
-.cdpa.url.tw
-cdpeu.org
-cdpusa.org
-cdpweb.org
-||cdpweb.org
-cdpwu.org
-||cdpwu.org
-||cdw.com
-.cecc.gov
-||cecc.gov
-||cellulo.info
-||cenews.eu
-||centerforhumanreprod.com
-||centralnation.com
-.centurys.net
-|http://centurys.net
-.cfhks.org.hk
-.cfos.de
-||cfr.org
-.cftfc.com
-.cgst.edu
-.change.org
-||change.org
-.changp.com
-||changp.com
-.changsa.net
-|http://changsa.net
-||channelnewsasia.com
-.chapm25.com
-.chaturbate.com
-||chaturbate.com
-.chuang-yen.org
-||checkgfw.com
-chengmingmag.com
-.chenguangcheng.com
-||chenguangcheng.com
-.chenpokong.com
-||chenpokong.com
-.chenpokong.net
-|http://chenpokong.net
-||chenpokongvip.com
-||cherrysave.com
-.chhongbi.org
-chicagoncmtv.com
-|http://chicagoncmtv.com
-.china-week.com
-china101.com
-||china101.com
-||china18.org
-||china21.com
-china21.org
-||china21.org
-.china5000.us
-chinaaffairs.org
-||chinaaffairs.org
-||chinaaid.me
-chinaaid.us
-chinaaid.org
-chinaaid.net
-||chinaaid.net
-chinacomments.org
-||chinacomments.org
-.chinachange.org
-||chinachange.org
-chinachannel.hk
-||chinachannel.hk
-.chinacitynews.be
-.chinadialogue.net
-.chinadigitaltimes.net
-||chinadigitaltimes.net
-.chinaelections.org
-||chinaelections.org
-.chinaeweekly.com
-||chinaeweekly.com
-||chinafreepress.org
-.chinagate.com
-chinageeks.org
-chinagfw.org
-||chinagfw.org
-.chinagonet.com
-.chinagreenparty.org
-||chinagreenparty.org
-.chinahorizon.org
-||chinahorizon.org
-.chinahush.com
-.chinainperspective.com
-||chinainterimgov.org
-chinalaborwatch.org
-chinalawtranslate.com
-.chinapost.com.tw/taiwan/national/national-news
-chinaxchina.com/howto
-chinalawandpolicy.com
-.chinamule.com
-||chinamule.com
-chinamz.org
-.chinanewscenter.com
-|https://chinanewscenter.com
-.chinapress.com.my
-||chinapress.com.my
-.china-review.com.ua
-|http://china-review.com.ua
-.chinarightsia.org
-chinasmile.net/forums
-chinasocialdemocraticparty.com
-||chinasocialdemocraticparty.com
-chinasoul.org
-||chinasoul.org
-.chinasucks.net
-||chinatopsex.com
-.chinatown.com.au
-chinatweeps.com
-chinaway.org
-.chinaworker.info
-||chinaworker.info
-chinayouth.org.hk
-chinayuanmin.org
-||chinayuanmin.org
-.chinese-hermit.net
-chinese-leaders.org
-chinese-memorial.org
-.chinesedaily.com
-||chinesedailynews.com
-.chinesedemocracy.com
-||chinesedemocracy.com
-||chinesegay.org
-.chinesen.de
-||chinesen.de
-.chinesenews.net.au/
-.chinesepen.org
-||chineseradioseattle.com
-.chinesetalks.net/ch
-||chineseupress.com
-.chingcheong.com
-||chingcheong.com
-.chinman.net
-|http://chinman.net
-chithu.org
-||cnnews.chosun.com
-.chrdnet.com
-|http://chrdnet.com
-.christianfreedom.org
-||christianfreedom.org
-christianstudy.com
-||christianstudy.com
-christusrex.org/www1/sdc
-.chubold.com
-chubun.com
-||christiantimes.org.hk
-.chrlawyers.hk
-||chrlawyers.hk
-.churchinhongkong.org/b5/index.php
-|http://churchinhongkong.org/b5/index.php
-.chushigangdrug.ch
-.cienen.com
-.cineastentreff.de
-.cipfg.org
-||circlethebayfortibet.org
-||cirosantilli.com
-.citizencn.com
-||citizencn.com
-||citizenlab.ca
-||citizenlab.org
-||citizenscommission.hk
-.citizenlab.org
-citizensradio.org
-.city365.ca
-|http://city365.ca
-city9x.com
-||citypopulation.de
-.citytalk.tw/event
-.civicparty.hk
-||civicparty.hk
-.civildisobediencemovement.org
-civilhrfront.org
-||civilhrfront.org
-.civiliangunner.com
-.civilmedia.tw
-||civilmedia.tw
-psiphon.civisec.org
-||vpn.cjb.net
-.ck101.com
-||ck101.com
-.clarionproject.org/news/islamic-state-isis-isil-propaganda
-||classicalguitarblog.net
-.clb.org.hk
-clearharmony.net
-clearwisdom.net
-||clinica-tibet.ru
-.clipfish.de
-cloakpoint.com
-||app.cloudcone.com
-||cloudflare-ipfs.com
-||club1069.com
-||clubhouseapi.com
-cmi.org.tw
-|http://www.cmoinc.org
-cmp.hku.hk
-hkupop.hku.hk
-||cmule.com
-||cmule.org
-||cms.gov
-|http://vpn.cmu.edu
-|http://vpn.sv.cmu.edu
-.cn6.eu
-.cna.com.tw
-||cna.com.tw
-.cnabc.com
-.cnd.org
-||cnd.org
-download.cnet.com
-.cnex.org.cn
-.cnineu.com
-wiki.cnitter.com
-.cnn.com/video
-.cnpolitics.org
-||cnpolitics.org
-.cn-proxy.com
-|http://cn-proxy.com
-.cnproxy.com
-blog.cnyes.com
-news.cnyes.com
-||coat.co.jp
-.cochina.co
-||cochina.co
-||cochina.org
-.code1984.com/64
-|http://goagent.codeplex.com
-||codeshare.io
-||codeskulptor.org
-||conoha.jp
-|http://tosh.comedycentral.com
-comefromchina.com
-||comefromchina.com
-.comic-mega.me
-commandarms.com
-||commentshk.com
-.communistcrimes.org
-||communistcrimes.org
-||communitychoicecu.com
-||comparitech.com
-||compileheart.com
-||conoha.jp
-.contactmagazine.net
-.convio.net
-.coobay.com
-|http://www.cool18.com/bbs*/
-.coolaler.com
-||coolaler.com
-coolder.com
-||coolder.com
-||coolloud.org.tw
-.coolncute.com
-||coolstuffinc.com
-corumcollege.com
-.cos-moe.com
-|http://cos-moe.com
-.cosplayjav.pl
-|http://cosplayjav.pl
-.cotweet.com
-||cotweet.com
-.coursehero.com
-||coursehero.com
-cpj.org
-||cpj.org
-.cq99.us
-|http://cq99.us
-crackle.com
-||crackle.com
-.crazys.cc
-.crazyshit.com
-||crazyshit.com
-||crchina.org
-crd-net.org
-creaders.net
-||creaders.net
-.creadersnet.com
-||cristyli.com
-.crocotube.com
-|http://crocotube.com
-.crossthewall.net
-||crossthewall.net
-.crossvpn.net
-||crossvpn.net
-||crucial.com
-||blog.cryptographyengineering.com
-csdparty.com
-||csdparty.com
-||csis.org
-||csmonitor.com
-||csuchen.de
-.csw.org.uk
-.ct.org.tw
-||ct.org.tw
-.ctao.org
-.ctfriend.net
-.ctitv.com.tw
-||ctowc.org
-.cts.com.tw
-||cts.com.tw
-||ctwant.com
-|http://library.usc.cuhk.edu.hk/
-|http://mjlsh.usc.cuhk.edu.hk/
-.cuhkacs.org/~benng
-.cuihua.org
-||cuihua.org
-.cuiweiping.net
-||cuiweiping.net
-||culture.tw
-.cumlouder.com
-||cumlouder.com
-||curvefish.com
-||cusp.hk
-.cusu.hk
-||cusu.hk
-.cutscenes.net
-||cutscenes.net
-.cw.com.tw
-||cw.com.tw
-|http://forum.cyberctm.com
-cyberghostvpn.com
-||cyberghostvpn.com
-||cynscribe.com
-cytode.us
-||ifan.cz.cc
-||mike.cz.cc
-||nic.cz.cc
-
-!--------------------DD-------------------------
-.d-fukyu.com
-|http://d-fukyu.com
-cl.d0z.net
-.d100.net
-||d100.net
-.d2bay.com
-|http://d2bay.com
-.dabr.co.uk
-||dabr.co.uk
-dabr.eu
-dabr.mobi
-||dabr.mobi
-||dabr.me
-dadazim.com
-||dadazim.com
-.dadi360.com
-.dafabet.com
-dafagood.com
-dafahao.com
-.dafoh.org
-.daftporn.com
-.dagelijksestandaard.nl
-.daidostup.ru
-|http://daidostup.ru
-.dailidaili.com
-||dailidaili.com
-||dailymail.co.uk
-.dailymotion.com
-||dailymotion.com
-||dailysabah.com
-daiphapinfo.net
-.dajiyuan.com
-||dajiyuan.de
-dajiyuan.eu
-dalailama.com
-.dalailama.mn
-|http://dalailama.mn
-.dalailama.ru
-||dalailama.ru
-dalailama80.org
-.dalailama-archives.org
-.dalailamacenter.org
-|http://dalailamacenter.org
-dalailamafellows.org
-.dalailamafilm.com
-.dalailamafoundation.org
-.dalailamahindi.com
-.dalailamainaustralia.org
-.dalailamajapanese.com
-.dalailamaprotesters.info
-.dalailamaquotes.org
-.dalailamatrust.org
-.dalailamavisit.org.nz
-.dalailamaworld.com
-||dalailamaworld.com
-dalianmeng.org
-||dalianmeng.org
-.daliulian.org
-||daliulian.org
-.danke4china.net
-||danke4china.net
-daolan.net
-darktoy.net
-||darrenliuwei.com
-||dastrassi.org
-||daum.net
-.david-kilgour.com
-|http://david-kilgour.com
-daxa.cn
-||daxa.cn
-cn.dayabook.com
-.daylife.com/topic/dalai_lama
-||db.tt
-.dbc.hk/main
-||dbgjd.com
-||dcard.tw
-dcmilitary.com
-.ddc.com.tw
-.ddhw.info
-||de-sci.org
-.de-sci.org
-||deadline.com
-||decodet.co
-
-!--Origin:cdn-i30$_
-!--Exception: Homepage access without rst
-!--Keyword is $_
-.definebabe.com
-
-||delcamp.net
-delicious.com/GFWbookmark
-.democrats.org
-||democrats.org
-.demosisto.hk
-||demosisto.hk
-||desc.se
-||dessci.com
-.destroy-china.jp
-||deutsche-welle.de
-||deviantart.com
-||deviantart.net
-||devio.us
-||devpn.com
-||dfas.mil
-dfn.org
-dharmakara.net
-.dharamsalanet.com
-.diaoyuislands.org
-||diaoyuislands.org
-.difangwenge.org
-|http://digiland.tw/
-||digitalnomadsproject.org
-.diigo.com
-||diigo.com
-||dilber.se
-||furl.net
-.dipity.com
-||directcreative.com
-!--||discogs.com
-!--@@||cdn.discogs.com
-.discuss.com.hk
-||discuss.com.hk
-.discuss4u.com
-disp.cc
-.disqus.com
-||disqus.com
-.dit-inc.us
-||dit-inc.us
-.dizhidizhi.com
-||dizhuzhishang.com
-djangosnippets.org
-.djorz.com
-||djorz.com
-||dl-laby.jp
-||dlive.tv
-||dlsite.com
-||dlyoutube.com
-||dmc.nico
-||dmcdn.net
-.dnscrypt.org
-||dnscrypt.org
-||dns2go.com
-||dnssec.net
-doctorvoice.org
-
-!--DogFartNetwork
-.dogfartnetwork.com/tour
-gloryhole.com
-
-.dojin.com
-.dok-forum.net
-||dolc.de
-||dolf.org.hk
-||dollf.com
-.domain.club.tw
-.domaintoday.com.au
-chinese.donga.com
-dongtaiwang.com
-||dongtaiwang.com
-.dongtaiwang.net
-||dongtaiwang.net
-.dongyangjing.com
-|http://danbooru.donmai.us
-.dontfilter.us
-||dontmovetochina.com
-.dorjeshugden.com
-.dotplane.com
-||dotplane.com
-||dotsub.com
-.dotvpn.com
-||dotvpn.com
-.doub.io
-||doub.io
-||dougscripts.com
-||douhokanko.net
-||doujincafe.com
-dowei.org
-|https://bartender.dowjones.com
-dphk.org
-dpp.org.tw
-||dpp.org.tw
-||dpr.info
-||dragonsprings.org
-!--||draw.io
-.dreamamateurs.com
-.drepung.org
-||drgan.net
-.drmingxia.org
-|http://drmingxia.org
-||dropbooks.tv
-||dropbox.com
-||api.dropboxapi.com
-||notify.dropboxapi.com
-||dropboxusercontent.com
-drsunacademy.com
-.drtuber.com
-.dscn.info
-|http://dscn.info
-.dstk.dk
-|http://dstk.dk
-||dtiblog.com
-||dtic.mil
-.dtwang.org
-.duanzhihu.com
-.duckdns.org
-|http://duckdns.org
-.duckduckgo.com
-||duckduckgo.com
-.duckload.com/download
-||duckmylife.com
-.duga.jp
-|http://duga.jp
-.duihua.org
-||duihua.org
-||duihuahrjournal.org
-.dunyabulteni.net
-.duoweitimes.com
-||duoweitimes.com
-duping.net
-||duplicati.com
-dupola.com
-dupola.net
-.dushi.ca
-||duyaoss.com
-||dvorak.org
-.dw.com
-||dw.com
-||dw.de
-.dw-world.com
-||dw-world.com
-.dw-world.de
-|http://dw-world.de
-www.dwheeler.com
-dwnews.com
-||dwnews.com
-dwnews.net
-||dwnews.net
-xys.dxiong.com
-||dynawebinc.com
-||dysfz.cc
-.dzze.com
-
-!--------------------EE-------------------------
-||e-classical.com.tw
-||e-gold.com
-.e-gold.com
-.e-hentai.org
-||e-hentai.org
-.e-hentaidb.com
-|http://e-hentaidb.com
-e-info.org.tw
-.e-traderland.net/board
-.e-zone.com.hk/discuz
-|http://e-zone.com.hk/discuz
-.e123.hk
-||e123.hk
-.earlytibet.com
-|http://earlytibet.com
-.earthcam.com
-.earthvpn.com
-||earthvpn.com
-eastern-ark.com
-.easternlightning.org
-.eastturkestan.com
-|http://www.eastturkistan.net/
-.eastturkistan-gov.org
-.eastturkistancc.org
-.eastturkistangovernmentinexile.us
-||eastturkistangovernmentinexile.us
-.easyca.ca
-.easypic.com
-||fnc.ebc.net.tw
-.ebony-beauty.com
-ebookbrowse.com
-ebookee.com
-||ecfa.org.tw
-ushuarencity.echainhost.com
-||ecimg.tw
-ecministry.net
-.economist.com
-bbs.ecstart.com
-edgecastcdn.net
-||edgecastcdn.net
-/twimg\.edgesuite\.net\/\/?appledaily/
-edicypages.com
-.edmontonchina.cn
-.edmontonservice.com
-edoors.com
-.edubridge.com
-||edubridge.com
-.edupro.org
-||eevpn.com
-efcc.org.hk
-.efukt.com
-|http://efukt.com
-||eic-av.com
-||eireinikotaerukai.com
-.eisbb.com
-.eksisozluk.com
-||eksisozluk.com
-electionsmeter.com
-||elgoog.im
-.ellawine.org
-.elpais.com
-||elpais.com
-.eltondisney.com
-.emaga.com/info/3407
-emilylau.org.hk
-.emanna.com/chineseTraditional
-bitc.bme.emory.edu/~lzhou/blogs
-.empfil.com
-.emule-ed2k.com
-|http://emule-ed2k.com
-.emulefans.com
-|http://emulefans.com
-.emuparadise.me
-.enanyang.my
-!--.enanyang.my/news/20170502/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%E5%A4%A7%E5%9C%B0%E9%9C%87%E3%80%8A%E8%8B%B9%E6%9E%9C%E3%80%8B%E7%8B%AC%E5%AE%B6
-||encrypt.me
-||enewstree.com
-.enfal.de
-chinese.engadget.com
-||engagedaily.org
-englishforeveryone.org
-||englishfromengland.co.uk
-englishpen.org
-.enlighten.org.tw
-||entermap.com
-||app.evozi.com
-.episcopalchurch.org
-.epochhk.com
-|http://epochhk.com
-epochtimes-bg.com
-||epochtimes-bg.com
-epochtimes-romania.com
-||epochtimes-romania.com
-epochtimes.co.il
-||epochtimes.co.il
-epochtimes.co.kr
-||epochtimes.co.kr
-epochtimes.com
-||epochtimes.com
-.epochtimes.cz
-epochtimes.de
-epochtimes.fr
-.epochtimes.ie
-.epochtimes.it
-epochtimes.jp
-epochtimes.ru
-epochtimes.se
-epochtimestr.com
-.epochweek.com
-||epochweek.com
-||epochweekly.com
-.eporner.com
-.equinenow.com
-erabaru.net
-.eracom.com.tw
-.eraysoft.com.tr
-.erepublik.com
-.erights.net
-||erights.net
-.erktv.com
-|http://erktv.com
-||ernestmandel.org
-||erodaizensyu.com
-||erodoujinlog.com
-||erodoujinworld.com
-||eromanga-kingdom.com
-||eromangadouzin.com
-.eromon.net
-|http://eromon.net
-.eroprofile.com
-.eroticsaloon.net
-.eslite.com
-||eslite.com
-!--.eslite.com/product
-!--.eslite.com/Search_BW.aspx?q
-wiki.esu.im/%E8%9B%A4%E8%9B%A4%E8%AF%AD%E5%BD%95
-||esu.dog
-.etaa.org.au
-.etadult.com
-etaiwannews.com
-||etizer.org
-||etokki.com
-||etsy.com
-!--.ettoday.net
-.ettoday.net/news/20151216/614081
-etvonline.hk
-.eu.org
-||eu.org
-.eucasino.com
-.eulam.com
-.eurekavpt.com
-||eurekavpt.com
-.euronews.com
-||euronews.com
-eeas.europa.eu/delegations/china/press_corner/all_news/news/2015/20150716_zh
-eeas.europa.eu/statements-eeas/2015/151022
-.evschool.net
-|http://evschool.net
-||exblog.jp
-||blog.exblog.co.jp
-@@||www.exblog.jp
-.exchristian.hk
-||exchristian.hk
-|http://blog.excite.co.jp
-||exhentai.org
-||exmormon.org
-||expatshield.com
-.expecthim.com
-||expecthim.com
-experts-univers.com
-||exploader.net
-.expressvpn.com
-||expressvpn.com
-.extremetube.com
-eyevio.jp
-||eyevio.jp
-.eyny.com
-||eyny.com
-.ezpc.tk/category/soft
-.ezpeer.com
-
-!--------------------FF-------------------------
-||facebookquotes4u.com
-.faceless.me
-||faceless.me
-|http://facesoftibetanselfimmolators.info
-||facesofnyfw.com
-||factpedia.org
-.faith100.org
-|http://faith100.org
-
-!--Enhancement:
-!--http://faithfuleye.com.detail.website/
-!--http://faithfuleye.com.ipaddress.com/
-.faithfuleye.com
-
-||faiththedog.info
-.fakku.net
-||fallenark.com
-.falsefire.com
-||falsefire.com
-falun-co.org
-falunart.org
-||falunasia.info
-|http://falunau.org
-.falunaz.net
-falundafa.org
-falundafa-dc.org
-||falundafa-florida.org
-||falundafa-nc.org
-||falundafa-pa.net
-||falundafa-sacramento.org
-falun-ny.net
-||falundafaindia.org
-falundafamuseum.org
-.falungong.club
-.falungong.de
-falungong.org.uk
-||falunhr.org
-faluninfo.de
-faluninfo.net
-.falunpilipinas.net
-||falunworld.net
-familyfed.org
-.fangeming.com
-||fanglizhi.info
-||fangong.org
-fangongheike.com
-||fanhaolou.com
-.fanqiang.tk
-fanqianghou.com
-||fanqianghou.com
-.fanqiangzhe.com
-||fanqiangzhe.com
-||fantv.hk
-fapdu.com
-faproxy.com
-!--.farxian.com
-.fawanghuihui.org
-fanqiangyakexi.net
-fail.hk
-||famunion.com
-.fan-qiang.com
-.fangbinxing.com
-||fangbinxing.com
-fangeming.com
-.fangmincn.org
-||fangmincn.org
-.fanhaodang.com
-||fanqiang.network
-||fanswong.com
-.fanyue.info
-.farwestchina.com
-
-!--Fastly
-en.favotter.net
-!--||rnw.global.ssl.fastly.net
-!--|https://*global.ssl.fastly.net/
-nytimes.map.fastly.net
-||nytimes.map.fastly.net
-||fast.wistia.com
-
-||fastestvpn.com
-||fastssh.com
-||faststone.org
-favstar.fm
-||favstar.fm
-faydao.com/weblog
-||faz.net
-.fc2.com
-.fc2china.com
-.fc2cn.com
-||fc2cn.com
-fc2blog.net
-|http://uygur.fc2web.com/
-video.fdbox.com
-.fdc64.de
-.fdc64.org
-.fdc89.jp
-||fourface.nodesnoop.com
-!--feedbooks.mobi
-||feeder.co
-||feelssh.com
-feer.com
-.feifeiss.com
-|http://feitianacademy.org
-.feitian-california.org
-||feixiaohao.com
-||feministteacher.com
-.fengzhenghu.com
-||fengzhenghu.com
-.fengzhenghu.net
-||fengzhenghu.net
-.fevernet.com
-|http://ff.im
-fffff.at
-fflick.com
-.ffvpn.com
-fgmtv.net
-.fgmtv.org
-.fhreports.net
-|http://fhreports.net
-.figprayer.com
-||figprayer.com
-.fileflyer.com
-||fileflyer.com
-|http://feeds.fileforum.com
-.files2me.com
-.fileserve.com/file
-fillthesquare.org
-filmingfortibet.org
-.filthdump.com
-.finchvpn.com
-||finchvpn.com
-!--findbook.tw
-findmespot.com
-||findyoutube.com
-||findyoutube.net
-.fingerdaily.com
-finler.net
-.firearmsworld.net
-|http://firearmsworld.net
-.fireofliberty.org
-||fireofliberty.org
-.firetweet.io
-||firetweet.io
-||firstpost.com
-!--||flagfox.net
-.flagsonline.it
-fleshbot.com
-.fleursdeslettres.com
-|http://fleursdeslettres.com
-||flgg.us
-||flgjustice.org
-
-!--||farm6.staticflickr.com
-!--.flickr.com/photos/46231077@N06
-!--.flickr.com/groups/aiweiwei
-!--.flickr.com/photos/digitalboy100
-!--.flickr.com/photos/fzhenghu
-!--.flickr.com/photos/lonelyfox
-!--flickr.com/photos/vanvan/529925157
-!--.flickr.com/photos/winterkanal
-!--.flickr.com/photos/zola
-||flickr.com
-||staticflickr.com
-
-flickrhivemind.net
-.flickriver.com
-.fling.com
-||flipkart.com
-||flog.tw
-.flyvpn.com
-||flyvpn.com
-|http://cn.fmnnow.com
-fofldfradio.org
-blog.foolsmountain.com
-.forum4hk.com
-fangong.forums-free.com
-pioneer-worker.forums-free.com
-!--foursquare.com
-!--|http://4sq.com
-|https://ss*.4sqi.net
-video.foxbusiness.com
-|http://foxgay.com
-||fringenetwork.com
-||flecheinthepeche.fr
-.fochk.org
-||fochk.org
-||focustaiwan.tw
-.focusvpn.com
-||fofg.org
-.fofg-europe.net
-.fooooo.com
-||fooooo.com
-||foreignaffairs.com
-.fotile.me
-||fourthinternational.org
-||foxdie.us
-||foxsub.com
-foxtang.com
-.fpmt.org
-|http://fpmt.org
-.fpmt.tw
-.fpmt-osel.org
-||fpmtmexico.org
-fqok.org
-||fqrouter.com
-||franklc.com
-.freakshare.com
-|http://freakshare.com
-||free4u.com.ar
-free-gate.org
-.free-hada-now.org
-free-proxy.cz
-.free.fr/adsl
-kineox.free.fr
-tibetlibre.free.fr
-||freealim.com
-whitebear.freebearblog.org
-||freebrowser.org
-.freechal.com
-.freedomchina.info
-||freedomchina.info
-.freedomhouse.org
-||freedomhouse.org
-.freedomsherald.org
-||freedomsherald.org
-.freefq.com
-.freefuckvids.com
-.freegao.com
-||freegao.com
-freeilhamtohti.org
-||freekazakhs.org
-.freekwonpyong.org
-||saveliuxiaobo.com
-.freelotto.com
-||freelotto.com
-freeman2.com
-.freeopenvpn.com
-freemoren.com
-freemorenews.com
-freemuse.org/archives/789
-freenet-china.org
-freenewscn.com
-cn.freeones.com
-.freeoz.org/bbs
-||freeoz.org
-||freessh.us
-free4u.com.ar
-.free-ssh.com
-||free-ssh.com
-||freebeacon.com
-.freechina.news
-||freechinaforum.org
-||freechinaweibo.com
-.freedomcollection.org/interviews/rebiya_kadeer
-.freeforums.org
-||freenetproject.org
-.freeoz.org
-.freetibet.net
-||freetibet.org
-.freetibetanheroes.org
-|http://freetibetanheroes.org
-||freetribe.me
-.freeviewmovies.com
-.freevpn.me
-|http://freevpn.me
-||freewallpaper4.me
-.freewebs.com
-.freewechat.com
-||freewechat.com
-freeweibo.com
-||freeweibo.com
-.freexinwen.com
-.freeyoutubeproxy.net
-||freeyoutubeproxy.net
-friendfeed.com
-friendfeed-media.com/e99a4ebe2fb4c1985c2a58775eb4422961aa5a2e
-friends-of-tibet.org
-.friendsoftibet.org
-freechina.net
-|http://www.zensur.freerk.com/
-freevpn.nl
-freeyellow.com
-hk.frienddy.com/hk
-|http://adult.friendfinder.com/
-.fring.com
-||fring.com
-.fromchinatousa.net
-||frommel.net
-.frontlinedefenders.org
-||frontlinedefenders.org
-.frootvpn.com
-||frootvpn.com
-||fscked.org
-.fsurf.com
-.ftv.com.tw
-||ftv.com.tw
-||ftvnews.com.tw
-fucd.com
-.fuckcnnic.net
-||fuckcnnic.net
-fuckgfw.org
-.fulione.com
-|https://fulione.com
-||fullerconsideration.com
-fulue.com
-.funf.tw
-funp.com
-.fuq.com
-.furhhdl.org
-||furinkan.com
-.futurechinaforum.org
-||futuremessage.org
-.fux.com
-.fuyin.net
-.fuyindiantai.org
-.fuyu.org.tw
-||fw.cm
-.fxcm-chinese.com
-||fxcm-chinese.com
-fzh999.com
-fzh999.net
-fzlm.com
-
-!--------------------GG-------------------------
-.g6hentai.com
-|http://g6hentai.com
-||g-queen.com
-||gab.com
-||gabocorp.com
-.gaeproxy.com
-.gaforum.org
-.gagaoolala.com
-||gagaoolala.com
-.galaxymacau.com
-||galenwu.com
-.galstars.net
-||game735.com
-gamebase.com.tw
-gamejolt.com
-|http://wiki.gamerp.jp
-||gamer.com.tw
-.gamer.com.tw
-.gamez.com.tw
-||gamez.com.tw
-.gamousa.com
-.gaoming.net
-||gaoming.net
-ganges.com
-.gaopi.net
-|http://gaopi.net
-.gaozhisheng.org
-.gaozhisheng.net
-gardennetworks.com
-||gardennetworks.org
-!--IP of Garden Network
-72.52.81.22
-||gartlive.com
-||gate-project.com
-||gather.com
-.gatherproxy.com
-gati.org.tw
-.gaybubble.com
-.gaycn.net
-.gayhub.com
-||gaymap.cc
-.gaymenring.com
-.gaytube.com
-!--||gaytube.com
-||images-gaytube.com
-.gaywatch.com
-|http://gaywatch.com
-.gazotube.com
-||gazotube.com
-||gcc.org.hk
-||gclooney.com
-||gclubs.com
-||gcmasia.com
-.gcpnews.com
-|http://gcpnews.com
-.gdbt.net/forum
-gdzf.org
-||geek-art.net
-geekerhome.com/2010/03/xixiang-project-cross-gfw
-||geekheart.info
-.gekikame.com
-|http://gekikame.com
-.gelbooru.com
-|http://gelbooru.com
-||genius.com
-!--||genuitec.com
-.geocities.co.jp
-.geocities.com/SiliconValley/Circuit/5683/download.html
-hk.geocities.com
-geocities.jp
-||geph.io
-.gerefoundation.org
-||getastrill.com
-.getchu.com
-.getcloak.com
-||getcloak.com
-||getfoxyproxy.org
-.getfreedur.com
-||getgom.com
-.geti2p.net
-||geti2p.net
-getiton.com
-.getjetso.com/forum
-.getlantern.org
-||getlantern.org
-||getmalus.com
-.getsocialscope.com
-||getsync.com
-||gettr.com
-gfbv.de
-.gfgold.com.hk
-.gfsale.com
-||gfsale.com
-gfw.org.ua
-.gfw.press
-||gfw.press
-||gfw.report
-.ggssl.com
-||ggssl.com
-!--||ghost.org
-.ghostpath.com
-||ghostpath.com
-||ghut.org
-.giantessnight.com
-|http://giantessnight.com
-.gifree.com
-||giga-web.jp
-tw.gigacircle.com
-|http://cn.giganews.com/
-gigporno.ru
-||girlbanker.com
-.git.io
-||git.io
-|http://softwaredownload.gitbooks.io
-||raw.githack.com
-
-!---GitHub---
-||github.blog
-||github.com
-!--github.com/getlantern
-!--|https://gist.github.com
-!--http://cthlo.github.io/hktv
-!--hahaxixi.github.io
-!--|https://hahaxixi.github.io
-!--||haoel.github.io
-!--|http://onionhacker.github.io
-!--||rg3.github.io
-!--||sikaozhe1997.github.io
-!--||sodatea.github.io
-!--||terminus2049.github.io
-!--||toutyrater.github.io
-!--wsgzao.github.io
-!--|https://wsgzao.github.io
-.github.io
-||github.io
-||githubusercontent.com
-||githubassets.com
-
-.gizlen.net
-||gizlen.net
-.gjczz.com
-||gjczz.com
-globaljihad.net
-globalmediaoutreach.com
-globalmuseumoncommunism.org
-||globalrescue.net
-.globaltm.org
-.globalvoicesonline.org
-||globalvoicesonline.org
-||globalvpn.net
-.glock.com
-gluckman.com/DalaiLama
-||gmgard.com
-||gmhz.org
-|http://www.gmiddle.com
-|http://www.gmiddle.net
-.gmll.org
-||suche.gmx.net
-||gnci.org.hk
-||gnews.org
-go-pki.com
-||goagent.biz
-||goagentplus.com
-gobet.cc
-godfootsteps.org
-||godfootsteps.org
-godns.work
-godsdirectcontact.co.uk
-.godsdirectcontact.org
-godsdirectcontact.org.tw
-.godsimmediatecontact.com
-||gofundme.com
-.gogotunnel.com
-||gohappy.com.tw
-.gokbayrak.com
-.goldbet.com
-||goldbetsports.com
-||golden-ages.org
-||goldeneyevault.com
-.goldenfrog.com
-||goldenfrog.com
-.goldjizz.com
-|http://goldjizz.com
-.goldstep.net
-||goldwave.com
-gongmeng.info
-gongm.in
-gongminliliang.com
-.gongwt.com
-|http://gongwt.com
-blog.goo.ne.jp/duck-tail_2009
-.gooday.xyz
-||gooday.xyz
-||goodhope.school
-.goodreads.com
-||goodreads.com
-.goodreaders.com
-||goodreaders.com
-.goodtv.com.tw
-.goodtv.tv
-||goofind.com
-.googlesile.com
-.gopetition.com
-||gopetition.com
-.goproxing.net
-||goreforum.com
-.gotrusted.com
-||gotrusted.com
-||gotw.ca
-||grammaly.com
-grandtrial.org
-.graphis.ne.jp
-||graphis.ne.jp
-||graphql.org
-||gravatar.com
-greatfirewall.biz
-||greatfirewallofchina.net
-.greatfirewallofchina.org
-||greatfirewallofchina.org
-||greenfieldbookstore.com.hk
-.greenparty.org.tw
-||greenpeace.org
-.greenreadings.com/forum
-great-firewall.com
-great-roc.org
-greatroc.org
-greatzhonghua.org
-.greenpeace.com.tw
-.greenvpn.net
-||greenvpn.net
-.greenvpn.org
-||grotty-monday.com
-gs-discuss.com
-||gsearch.media
-||gtricks.com
-guancha.org
-guaneryu.com
-.guardster.com
-.gun-world.net
-gunsandammo.com
-||gutteruncensored.com
-||gvm.com.tw
-||gwins.org
-.gzm.tv
-||gzone-anime.info
-
-!-------------GHS-----
-!-||feeds.cbsnews.com
-!-||www.chinesealbumart.com
-||clementine-player.org
-!-||clemesha.org
-!-||www.cloudgirlfriend.com
-!-||cocoawithlove.com
-!-||blog.controlspace.org
-!-D
-!-||www.dailygyan.com
-!-||dailytodo.org
-!-||blog.danmarner.com
-!-||github.danmarner.com
-!-||design-seeds.com
-!-||designers-artists.com
-!-||mail.diyang.org
-!-||blog.doughellmann.com
-!-||downforeveryoneorjustme.com
-!-||droidsecurity.com
-!-||www.dropmocks.com
-!-||dumblittleman.com
-!-E
-echofon.com
-!-||echofon.com
-!-||epc-jav.com
-!-||everdark.info
-!-||evhead.com
-!-F
-!-||facilelogin.com
-!-||*.fatduck.org
-!-||blog.fdcn.org
-!-||fftogo.com
-!-||flightsimtalk.com
-!-||mclee.foolme.net
-!-||www.frienddeck.com
-!-||fringespoilers.com
-!-||fringetelevision.com
-!-||funpea.com
-!-G
-!-||blog.gatein.org
-!-||feeds.gawker.com
-!-||geektang.com
-!-||geohot.us
-!-||getaround.com
-!-||gmer.net
-!-||www.gmote.org
-!-||blog.go2web20.net
-!-||google-melange.com
-!-||fame.gonzolabs.org
-!-||govecn.org
-!-||gqueues.com
-!-||graphycalc.com
-||greasespot.net
-!-||blog.growlforwindows.com
-!-H
-!-||hcm.com.tw
-!-||blog.headius.com
-!-||hogbaysoftware.com
-!-||blog.hotot.org
-!-||feeds.howstuffworks.com
-!-||huhaitai.com
-!-||blog.humanrightsfirst.org
-!-I
-!-||site.icu-project.org
-!-||igorware.com
-!-||ihas1337code.com
-!-||inknouveau.com
-!-||inote.tw
-!-||ironhelmet.com
-!-||iwfwcf.com
-!-J
-!-||blog.jangmt.com
-!-||blog.jayfields.com
-!-||blog.joint.net
-!-||blog.jsquaredjavascript.com
-!-||blog.jtbworld.com
-!-K
-!-||kathyschwalbe.com
-!-||tomatovpn.keithmoyer.com
-!-||www.keithmoyer.com
-!-||kendalvandyke.com
-!-||blog.kengao.tw
-!-||log.keso.cn
-!-||www.khanacademy.org
-||www.klip.me
-!-||usbloadergx.koureio.net
-!-||blog.kowalczyk.info
-!-L
-!-||labyrinth2.com
-!-||larsgeorge.com
-!-||blog.lastpass.com
-!-||docs.latexlab.org
-!-||leanessays.com
-!-||blog.lidaobing.info
-!-||log.lightory.net
-!-||feeds.limi.net
-!-||www.liteapplications.com
-!-||blog.liukangxu.info
-!-||twitter.liukangxu.info
-!-||oasisnewsroom.live4ever.us
-!-||www.lockergnome.com
-!-||locql.com
-@@||site.locql.com
-!-||feeds.loiclemeur.com
-!-||blog.louisgray.com
-!-M
-!-||madebysofa.com
-!-||mademoisellerobot.com
-!-||masamixes.com
-!-||www.metamuse.net
-!-||blog.metasploit.com
-!-||milazi.com
-!-||www.miniweather.com
-!-||twitter.missiu.com
-!-||plurktop-button.mmdays.com
-!-||feeds.mobileread.com
-!-||www.modernizr.com
-!-||www.modk.it
-!-||mytwishirt.com
-!-N
-!-||blog.netflix.com
-!-||blog.nihilogic.dk
-!-||ntlk.org
-!-||nvquan.org
-!-||nogoodatcoding.com
-!-||blog.notdot.net
-!-||www.notify.io
-!-O
-!-||blog.obvious.com
-!-||onebigfluke.com
-!-||overstimulate.com
-!-P
-!-||pcgeekblog.com
-!-||feeds.pdfchm.net
-!-||feeds.people.com
-!-||blog.persistent.info
-!-||chrome.plantsvszombies.com
-!-||portablesoft.org.ru
-!-||prasannatech.net
-!-||talk.news.pts.org.tw
-!-||python-excel.org
-!-Q
-!-R
-!-||r-chart.com
-!-||rameshsubramanian.org
-!-||rapid.pk
-!-||blog.renanse.com
-!-||robertmao.com
-!-||www.romeo-foxtrot.com
-!-S
-!-||salmiyuck.com
-!-||samsal.com
-!-||blog.seeminglee.com
-!-||blog.sflow.com
-!-||blog.sigfpe.com
-!-||simpletext.ws
-!-||www.skulpt.org
-!-||rss.slashdot.org
-!-||snippetsapp.com
-!-||w.sns.ly
-!-||www.socialnmobile.com
-!-||www.socialwhois.com
-!-||spiritjb.org
-!-||ssbook.com
-!-||sshforwarding.com
-!-||stationeria.com
-||stephaniered.com
-!-||sunjidong.net
-!-||syniumsoftware.com
-@@||download.syniumsoftware.com
-!-T
-!-||tagxedo.com
-!-||blog.tatoeba.org
-!-||www.techfob.com
-!-||teachparentstech.org
-!-||the8pen.com
-!-||theiphonewiki.com
-!-||blog.thesilentnumber.me
-!-||thesponty.com
-!-||theultralinx.com
-!-||blog.think-async.com
-!-||tornadoweb.org
-!-||transparentuptime.com
-!-||triangulationblog.com
-!-||blog.tsunanet.net
-!-||en.tuxero.com
-!-||twazzup.com
-!-||tweetswell.com
-!-||twibes.com
-!-||art.twgg.org
-!-||twivert.com
-!-U
-|http://ub0.cc
-!-||jonny.ubuntu-tw.net
-!-||blog.umonkey.net
-!-V
-!-||tp.vbap.com.au
-!-||www.virtuousrom.com
-!-||blog.visibotech.com
-!-W
-!-||waveprotocol.org
-!-||www.wavesandbox.com
-!-||webfee.org.ru
-!-||blog.webmproject.org
-!-||webupd8.org
-!-||www.whatbrowser.org
-!-||www.wheredoyougo.net
-!-||willhains.com
-!-||feeds.wired.com
-!-||wisemapping.org
-wozy.in
-!-||wozy.in/
-!-||blog.wundercounter.com
-!-X
-!-||xdelta.org
-!-||xiaogaozi.org
-!-||xilou.us
-!-||xzy.org.ru
-!-Y
-!-||yooper.be
-!-||tsong.yunxi.net
-!-Z
-
-gospelherald.com
-||gospelherald.com
-|http://hk.gradconnection.com/
-||grangorz.org
-greatfire.org
-||greatfire.org
-greatfirewallofchina.org
-||greatroc.tw
-.gts-vpn.com
-|http://gts-vpn.com
-||gtv.org
-||gtv1.org
-.gu-chu-sum.org
-|http://gu-chu-sum.org
-.guaguass.com
-|http://guaguass.com
-.guaguass.org
-|http://guaguass.org
-.guangming.com.my
-guishan.org
-||guishan.org
-.gumroad.com
-||gumroad.com
-||gunsamerica.com
-guruonline.hk
-|http://gvlib.com
-.gyalwarinpoche.com
-.gyatsostudio.com
-
-!--------------------HH-------------------------
-.h528.com
-.h5dm.com
-.h5galgame.me
-||h-china.org
-.h-moe.com
-|http://h-moe.com
-h1n1china.org
-.hacg.club
-||hacg.club
-.hacg.in
-|http://hacg.in
-.hacg.li
-|http://hacg.li
-.hacg.me
-|http://hacg.me
-.hacg.red
-|http://hacg.red
-.hacken.cc/bbs
-.hacker.org
-||hackmd.io
-||hackthatphone.net
-hahlo.com
-||hakkatv.org.tw
-.handcraftedsoftware.org
-|http://bbs.hanminzu.org/
-.hanunyi.com
-.hao.news/news
-|http://ae.hao123.com
-|http://ar.hao123.com
-|http://br.hao123.com
-|http://en.hao123.com
-|http://id.hao123.com
-|http://jp.hao123.com
-|http://ma.hao123.com
-|http://mx.hao123.com
-|http://sa.hao123.com
-|http://th.hao123.com
-|http://tw.hao123.com
-|http://vn.hao123.com
-|http://hk.hao123img.com
-|http://ld.hao123img.com
-||happy-vpn.com
-.haproxy.org
-||hardsextube.com
-.harunyahya.com
-|http://harunyahya.com
-bbs.hasi.wang
-have8.com
-@@||haygo.com
-.hclips.com
-||hdlt.me
-||hdtvb.net
-.hdzog.com
-|http://hdzog.com
-||ordns.he.net
-||heartyit.com
-.heavy-r.com
-.hec.su
-|http://hec.su
-.hecaitou.net
-||hecaitou.net
-.hechaji.com
-||hechaji.com
-||heeact.edu.tw
-.hegre-art.com
-|http://hegre-art.com
-||cdn.helixstudios.net
-||helplinfen.com
-||helpuyghursnow.org
-||helloandroid.com
-||helloqueer.com
-.helloss.pw
-hellotxt.com
-||hellotxt.com
-.hentai.to
-.hellouk.org/forum/lofiversion
-.helpeachpeople.com
-||helpeachpeople.com
-||helpster.de
-.helpzhuling.org
-hentaitube.tv
-.hentaivideoworld.com
-
-!###########--Heroku--##########
-!--||getcloudapp.com
-!--||cl.ly
-!--@@||f.cl.ly
-!--EC2 DNS Poisoned
-||id.heroku.com
-
-heqinglian.net
-||heqinglian.net
-||heritage.org
-||heungkongdiscuss.com
-.hexieshe.com
-||hexieshe.com
-||hexieshe.xyz
-!--Google employee within Google IP
-||hexxeh.net
-||heyuedi.com
-app.heywire.com
-.heyzo.com
-.hgseav.com
-.hhdcb3office.org
-.hhthesakyatrizin.org
-hi-on.org.tw
-hidden-advent.org
-||hidden-advent.org
-hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
-||hide.me
-.hidein.net
-.hideipvpn.com
-||hideipvpn.com
-.hideman.net
-||hideman.net
-hideme.nl
-||hidemy.name
-.hidemyass.com
-||hidemyass.com
-hidemycomp.com
-||hidemycomp.com
-.hihiforum.com
-.hihistory.net
-||hihistory.net
-.higfw.com
-highpeakspureearth.com
-||highrockmedia.com
-||hiitch.com
-||hikinggfw.org
-.hilive.tv
-.himalayan-foundation.org
-||himalayan-foundation.org
-himalayanglacier.com
-.himemix.com
-||himemix.com
-.himemix.net
-times.hinet.net
-.hitomi.la
-|http://hitomi.la
-.hiwifi.com
-@@||hiwifi.com
-hizbuttahrir.org
-hizb-ut-tahrir.info
-hizb-ut-tahrir.org
-.hjclub.info
-.hk-pub.com/forum
-|http://hk-pub.com
-.hk01.com
-||hk01.com
-.hk32168.com
-||hk32168.com
-||hkacg.com
-||hkacg.net
-.hkatvnews.com
-hkbc.net
-.hkbf.org
-.hkbookcity.com
-||hkbookcity.com
-||hkchronicles.com
-.hkchurch.org
-hkci.org.hk
-.hkcmi.edu
-||hkcnews.com
-||hkcoc.com
-||hkctu.org.hk
-hkday.net
-.hkdailynews.com.hk/china.php
-||hkdc.us
-hkdf.org
-.hkej.com
-.hkepc.com/forum/viewthread.php?tid=1153322
-||hket.com
-||hkfaa.com
-hkfreezone.com
-hkfront.org
-m.hkgalden.com
-|https://m.hkgalden.com
-.hkgreenradio.org/home
-||hkgpao.com
-.hkheadline.com*blog
-.hkheadline.com/instantnews
-hkhkhk.com
-hkhrc.org.hk
-hkhrm.org.hk
-||hkip.org.uk
-1989report.hkja.org.hk
-hkjc.com
-.hkjp.org
-.hklft.com
-.hklts.org.hk
-||hklts.org.hk
-||hkmap.live
-||hkopentv.com
-||hkpeanut.com
-hkptu.org
-.hkreporter.com
-||hkreporter.com
-|http://hkupop.hku.hk/
-.hkusu.net
-||hkusu.net
-.hkvwet.com
-.hkwcc.org.hk
-||hkzone.org
-.hmonghot.com
-|http://hmonghot.com
-.hmv.co.jp/
-hnjhj.com
-||hnjhj.com
-.hnntube.com
-||hola.com
-||hola.org
-holymountaincn.com
-holyspiritspeaks.org
-||holyspiritspeaks.org
-||derekhsu.homeip.net
-.homeperversion.com
-|http://homeservershow.com
-|http://old.honeynet.org/scans/scan31/sub/doug_eric/spam_translation.html
-.hongkongfp.com
-||hongkongfp.com
-hongmeimei.com
-||hongzhi.li
-||honven.xyz
-.hootsuite.com
-||hootsuite.com
-||hoover.org
-.hopedialogue.org
-|http://hopedialogue.org
-.hopto.org
-.hornygamer.com
-.hornytrip.com
-|http://hornytrip.com
-||horrorporn.com
-||hotair.com
-.hotav.tv
-.hotels.cn
-hotfrog.com.tw
-hotgoo.com
-.hotpornshow.com
-hotpot.hk
-.hotshame.com
-||hotspotshield.com
-||hottg.com
-.hotvpn.com
-||hotvpn.com
-||hougaige.com
-||howtoforge.com
-||hoxx.com
-.hqcdp.org
-||hqcdp.org
-||hqjapanesesex.com
-hqmovies.com
-.hrcir.com
-.hrcchina.org
-.hrea.org
-.hrichina.org
-||hrichina.org
-.hrtsea.com
-.hrw.org
-||hrw.org
-hrweb.org
-||hsjp.net
-||hsselite.com
-|http://hst.net.tw
-.hstern.net
-.hstt.net
-.htkou.net
-||htkou.net
-.hua-yue.net
-.huaglad.com
-||huaglad.com
-.huanghuagang.org
-||huanghuagang.org
-.huangyiyu.com
-.huaren.us
-||huaren.us
-.huaren4us.com
-.huashangnews.com
-|http://huashangnews.com
-bbs.huasing.org
-huaxia-news.com
-huaxiabao.org
-huaxin.ph
-||huayuworld.org
-.huffingtonpost.com/rebiya-kadeer
-||hugoroy.eu
-||huhaitai.com
-||huhamhire.com
-.huhangfei.com
-||huhangfei.com
-huiyi.in
-.hulkshare.com
-||hung-ya.com
-||hungerstrikeforaids.org
-||huping.net
-hurgokbayrak.com
-.hurriyet.com.tr
-.hut2.ru
-||hutianyi.net
-hutong9.net
-huyandex.com
-.hwadzan.tw
-||hwayue.org.tw
-||hwinfo.com
-||hxwk.org
-hxwq.org
-||hyperrate.com
-ebook.hyread.com.tw
-||ebook.hyread.com.tw
-
-!--------------------II-------------------------
-||i1.hk
-||i2p2.de
-||i2runner.com
-||i818hk.com
-.i-cable.com
-.i-part.com.tw
-.iamtopone.com
-iask.ca
-||iask.ca
-iask.bz
-||iask.bz
-.iav19.com
-ibiblio.org/pub/packages/ccic
-||ibit.am
-.iblist.com
-||iblogserv-f.net
-ibros.org
-|http://cn.ibtimes.com
-.ibvpn.com
-||ibvpn.com
-icams.com
-blogs.icerocket.com/tag
-.icij.org
-||icij.org
-||icl-fi.org
-.icoco.com
-||icoco.com
-
-!--38.103.165.50
-||furbo.org
-!--||iconfactory.com
-||warbler.iconfactory.net
-
-||iconpaper.org
-!-- Google Pages
-||icu-project.org
-w.idaiwan.com/forum
-idemocracy.asia
-.identi.ca
-||identi.ca
-||idiomconnection.com
-|http://www.idlcoyote.com
-.idouga.com
-.idreamx.com
-forum.idsam.com
-.idv.tw
-.ieasy5.com
-|http://ieasy5.com
-.ied2k.net
-.ienergy1.com
-||iepl.us
-||ift.tt
-ifanqiang.com
-.ifcss.org
-||ifcss.org
-ifjc.org
-.ift.tt
-|http://ift.tt
-||ifreewares.com
-||igcd.net
-.igfw.net
-||igfw.net
-.igfw.tech
-||igfw.tech
-.igmg.de
-||ignitedetroit.net
-.igotmail.com.tw
-||igvita.com
-||ihakka.net
-.ihao.org/dz5
-||iicns.com
-.ikstar.com
-||ilhamtohtiinstitute.org
-||illusionfactory.com
-||ilove80.be
-||im.tv
-@@||myvlog.im.tv
-||im88.tw
-.imgchili.net
-|http://imgchili.net
-.imageab.com
-.imagefap.com
-||imagefap.com
-||imageflea.com
-imageshack.us
-||imagevenue.com
-||imagezilla.net
-.imb.org
-|http://imb.org
-
-!--IMDB
-|http://www.imdb.com/name/nm0482730
-.imdb.com/title/tt0819354
-.imdb.com/title/tt1540068
-.imdb.com/title/tt4908644
-
-.img.ly
-||img.ly
-.imgur.com
-||imgur.com
-.imkev.com
-||imkev.com
-.imlive.com
-.immoral.jp
-impact.org.au
-impp.mn
-|http://tech2.in.com/video/
-in99.org
-in-disguise.com
-.incapdns.net
-.incloak.com
-||incloak.com
-||incredibox.fr
-||independent.co.uk
-||indiablooms.com
-||indiandefensenews.in
-||indianarrative.com
-||timesofindia.indiatimes.com
-.indiemerch.com
-||indiemerch.com
-info-graf.fr
-website.informer.com
-||initiativesforchina.org
-.inkui.com
-.inmediahk.net
-||inmediahk.net
-||innermongolia.org
-||inoreader.com
-.inote.tw
-.insecam.org
-|http://insecam.org
-||insidevoa.com
-.institut-tibetain.org
-|http://internet.org/
-internetdefenseleague.org
-internetfreedom.org
-!--||interpol.int
-||internetpopculture.com
-.inthenameofconfuciusmovie.com
-||inthenameofconfuciusmovie.com
-inxian.com
-||inxian.com
-ipalter.com
-!--||ipcf.org.tw
-.ipfire.org
-||iphone4hongkong.com
-||iphonehacks.com
-||iphonetaiwan.org
-||iphonix.fr
-||ipicture.ru
-.ipjetable.net
-||ipjetable.net
-.ipobar.com/read.php?
-ipoock.com/img
-.iportal.me
-|http://iportal.me
-||ippotv.com
-.ipredator.se
-||ipredator.se
-.iptv.com.tw
-||iptvbin.com
-||ipvanish.com
-iredmail.org
-chinese.irib.ir
-||ironbigfools.compython.net
-||ironpython.net
-.ironsocket.com
-||ironsocket.com
-.is.gd
-.islahhaber.net
-.islam.org.hk
-|http://islam.org.hk
-.islamawareness.net/Asia/China
-.islamhouse.com
-||islamhouse.com
-.islamicity.com
-.islamicpluralism.org
-.islamtoday.net
-.isaacmao.com
-||isaacmao.com
-||isgreat.org
-||ismaelan.com
-.ismalltits.com
-||ismprofessional.net
-isohunt.com
-||israbox.com
-.issuu.com
-||issuu.com
-.istars.co.nz
-oversea.istarshine.com
-||oversea.istarshine.com
-blog.istef.info/2007/10/21/myentunnel
-.istiqlalhewer.com
-.istockphoto.com
-isunaffairs.com
-isuntv.com
-||isupportuyghurs.org
-itaboo.info
-||itaboo.info
-.italiatibet.org
-download.ithome.com.tw
-ithelp.ithome.com.tw
-||itshidden.com
-.itsky.it
-.itweet.net
-|http://itweet.net
-.iu45.com
-.iuhrdf.org
-||iuhrdf.org
-.iuksky.com
-.ivacy.com
-||ivacy.com
-.iverycd.com
-.ivpn.net
-!--||ivpn.net
-||ixquick.com
-.ixxx.com
-.iyouport.com
-||iyouport.com
-||iyouport.org
-.izaobao.us
-||gmozomg.izihost.org
-.izles.net
-.izlesem.org
-
-!--------------------JJ-------------------------
-||j.mp
-||jable.tv
-blog.jackjia.com
-jamaat.org
-||jamestown.org
-.jamyangnorbu.com
-|http://jamyangnorbu.com
-.jandyx.com
-||janwongphoto.com
-||japan-whores.com
-.jav.com
-.jav101.com
-.jav2be.com
-||jav2be.com
-.jav68.tv
-.javakiba.org
-|http://javakiba.org
-.javbus.com
-||javbus.com
-||javfor.me
-.javhd.com
-.javhip.com
-.javmobile.net
-|http://javmobile.net
-.javmoo.com
-.javseen.com
-|http://javseen.com
-jbtalks.cc
-jbtalks.com
-jbtalks.my
-.jdwsy.com
-jeanyim.com
-||jfqu36.club
-||jfqu37.xyz
-||jgoodies.com
-.jiangweiping.com
-||jiangweiping.com
-||jiaoyou8.com
-.jiehua.cz
-||hk.jiepang.com
-||tw.jiepang.com
-jieshibaobao.com
-.jigglegifs.com
-56cun04.jigsy.com
-jigong1024.com
-daodu14.jigsy.com
-specxinzl.jigsy.com
-wlcnew.jigsy.com
-.jihadology.net
-|http://jihadology.net
-jinbushe.org
-||jinbushe.org
-.jingsim.org
-zhao.jinhai.de
-jingpin.org
-||jingpin.org
-jinpianwang.com
-.jinroukong.com
-ac.jiruan.net
-||jitouch.com
-.jizzthis.com
-jjgirls.com
-.jkb.cc
-|http://jkb.cc
-jkforum.net
-||jma.go.jp
-research.jmsc.hku.hk/social
-weiboscope.jmsc.hku.hk
-.jmscult.com
-|http://jmscult.com
-||joachims.org
-||jobso.tv
-.sunwinism.joinbbs.net
-||joinclubhouse.com
-.journalchretien.net
-||journalofdemocracy.org
-.joymiihub.com
-.joyourself.com
-jpopforum.net
-||fiddle.jshell.net
-.jubushoushen.com
-||jubushoushen.com
-!--Doamin parking
-.juhuaren.com
-||juliereyc.com
-||junauza.com
-.june4commemoration.org
-.junefourth-20.net
-||junefourth-20.net
-||bbs.junglobal.net
-.juoaa.com
-|http://juoaa.com
-justfreevpn.com
-.justicefortenzin.org
-justpaste.it
-||justmysocks1.net
-justtristan.com
-juyuange.org
-juziyue.com
-||juziyue.com
-||jwmusic.org
-@@||music.jwmusic.org
-.jyxf.net
-
-!--------------------KK-------------------------
-||k-doujin.net
-||ka-wai.com
-||kadokawa.co.jp
-.kagyu.org
-||kagyu.org.za
-.kagyumonlam.org
-.kagyunews.com.hk
-.kagyuoffice.org
-||kagyuoffice.org
-||kagyuoffice.org.tw
-.kaiyuan.de
-.kakao.com
-||kakao.com
-.kalachakralugano.org
-.kankan.today
-.kannewyork.com
-||kannewyork.com
-.kanshifang.com
-||kanshifang.com
-||kantie.org
-kanzhongguo.com
-kanzhongguo.eu
-.kaotic.com
-||kaotic.com
-||karayou.com
-karkhung.com
-.karmapa.org
-.karmapa-teachings.org
-||kawase.com
-.kba-tx.org
-.kcoolonline.com
-.kebrum.com
-||kebrum.com
-.kechara.com
-.keepandshare.com/visit/visit_page.php?i=688154
-!--||keepvid.com
-.keezmovies.com
-.kendincos.net
-.kenengba.com
-||kenengba.com
-||keontech.net
-.kepard.com
-||kepard.com
-wiki.keso.cn/Home
-||keycdn.com
-.khabdha.org
-.khmusic.com.tw
-||kichiku-doujinko.com
-.kik.com
-||kik.com
-bbs.kimy.com.tw
-.kindleren.com
-|http://kindleren.com
-|http://www.kindleren.com
-.kingdomsalvation.org
-||kingdomsalvation.org
-kinghost.com
-!--.kingstone.com.tw/book/
-||kingstone.com.tw
-.kink.com
-.kinokuniya.com
-||kinokuniya.com
-killwall.com
-||killwall.com
-||kinmen.travel
-.kir.jp
-.kissbbao.cn
-|http://kiwi.kz
-||kk-whys.co.jp
-!--||kmt.org.tw
-.kmuh.org.tw
-.knowledgerush.com/kr/encyclopedia
-||knowyourmeme.com
-.kobo.com
-||kobo.com
-.kobobooks.com
-||kobobooks.com
-||kodingen.com
-@@||www.kodingen.com
-||kompozer.net
-.konachan.com
-||konachan.com
-.kone.com
-||koolsolutions.com
-.koornk.com
-||koornk.com
-||koranmandarin.com
-.korenan2.com
-||kqes.net
-|http://gojet.krtco.com.tw
-.ksdl.org
-.ksnews.com.tw
-||ktzhk.com
-.kui.name/event
-||kukuku.uk
-kun.im
-.kurashsultan.com
-||kurtmunger.com
-kusocity.com
-||kwcg.ca
-||kwok7.com
-.kwongwah.com.my
-||kwongwah.com.my
-.kxsw.life
-||kxsw.life
-.kyofun.com
-kyohk.net
-||kyoyue.com
-.kyzyhello.com
-||kyzyhello.com
-.kzeng.info
-||kzeng.info
-
-!--------------------LL-------------------------
-la-forum.org
-ladbrokes.com
-||labiennale.org
-.lagranepoca.com
-||lagranepoca.com
-||lala.im
-.lalulalu.com
-.lama.com.tw
-||lama.com.tw
-.lamayeshe.com
-|http://lamayeshe.com
-|http://www.lamenhu.com
-.lamnia.co.uk
-||lamnia.co.uk
-lamrim.com
-||landofhope.tv
-.lanterncn.cn
-|http://lanterncn.cn
-.lantosfoundation.org
-.laod.cn
-|http://laod.cn
-laogai.org
-||laogai.org
-||laogairesearch.org
-laomiu.com
-.laoyang.info
-|http://laoyang.info
-||laptoplockdown.com
-.laqingdan.net
-||laqingdan.net
-||larsgeorge.com
-.lastcombat.com
-|http://lastcombat.com
-||lastfm.es
-latelinenews.com
-||lausan.hk
-||le-vpn.com
-.leafyvpn.net
-||leafyvpn.net
-leeao.com.cn/bbs/forum.php
-!--||leecheukyan.org
-lefora.com
-||left21.hk
-.legalporno.com
-.legsjapan.com
-|http://leirentv.ca
-leisurecafe.ca
-||lematin.ch
-.lemonde.fr
-||lenwhite.com
-||leorockwell.com
-lerosua.org
-||lerosua.org
-blog.lester850.info
-||lesoir.be
-.letou.com
-letscorp.net
-||letscorp.net
-||ocsp.int-x3.letsencrypt.org
-||ss.levyhsu.com
-!69.16.175.42
-||cdn.assets.lfpcontent.com
-.lhakar.org
-|http://lhakar.org
-.lhasocialwork.org
-.liangyou.net
-||liangyou.net
-.lianyue.net
-||liaowangxizang.net
-.liaowangxizang.net
-||liberal.org.hk
-.libertytimes.com.tw
-blogs.libraryinformationtechnology.com/jxyz
-.lidecheng.com/blog/fucking-gfw
-.lighten.org.tw
-.lightnovel.cn
-@@|https://www.lightnovel.cn
-limiao.net
-linkuswell.com
-abitno.linpie.com/use-ipv6-to-fuck-gfw
-||line.me
-||line-apps.com
-.linglingfa.com
-||lingvodics.com
-.link-o-rama.com
-|http://link-o-rama.com
-||linkedin.com
-.linkideo.com
-||api.linksalpha.com
-||apidocs.linksalpha.com
-||www.linksalpha.com
-||help.linksalpha.com
-||linux.org.hk
-linuxtoy.org/archives/installing-west-chamber-on-ubuntu
-.lionsroar.com
-.lipuman.com
-||liquidvpn.com
-||greatfire.us7.list-manage.com
-||listennotes.com
-||listentoyoutube.com
-listorious.com
-.liu-xiaobo.org
-||liudejun.com
-.liuhanyu.com
-.liujianshu.com
-||liujianshu.com
-.liuxiaobo.net
-|http://liuxiaobo.net
-liuxiaotong.com
-||liuxiaotong.com
-.livedoor.jp
-.liveleak.com
-||liveleak.com
-||livemint.com
-.livestation.com
-livestream.com
-||livestream.com
-||livingonline.us
-||livingstream.com
-||livevideo.com
-.livevideo.com
-.liwangyang.com
-lizhizhuangbi.com
-lkcn.net
-.llss.me/
-||lncn.org
-.load.to
-.lobsangwangyal.com
-.localdomain.ws
-||localdomain.ws
-localpresshk.com
-||lockestek.com
-logbot.net
-||logiqx.com
-secure.logmein.com
-||secure.logmein.com
-||logos.com.hk
-.londonchinese.ca
-.longhair.hk
-longmusic.com
-||longtermly.net
-||lookpic.com
-.looktoronto.com
-|http://looktoronto.com
-.lotsawahouse.org/tibetan-masters/fourteenth-dalai-lama
-.lotuslight.org.hk
-.lotuslight.org.tw
-hkreporter.loved.hk
-!--403?
-||lpsg.com
-||lrfz.com
-.lrip.org
-||lrip.org
-.lsd.org.hk
-||lsd.org.hk
-lsforum.net
-.lsm.org
-||lsm.org
-.lsmchinese.org
-||lsmchinese.org
-.lsmkorean.org
-||lsmkorean.org
-.lsmradio.com/rad_archives
-.lsmwebcast.com
-.ltn.com.tw
-||ltn.com.tw
-||luckydesigner.space
-.luke54.com
-.luke54.org
-.lupm.org
-||lupm.org
-||lushstories.com
-luxebc.com
-lvhai.org
-||lvhai.org
-||lvv2.com
-.lyfhk.net
-|http://lyfhk.net
-||lzjscript.com
-.lzmtnews.org
-||lzmtnews.org
-
-!--------------------MM-------------------------
-http://*.m-team.cc
-!--m-team.cc/forum
-.macrovpn.com
-macts.com.tw
-||mad-ar.ch
-||madrau.com
-||madthumbs.com
-||magic-net.info
-mahabodhi.org
-my.mail.ru
-.maiplus.com
-|http://maiplus.com
-.maizhong.org
-makkahnewspaper.com
-.mamingzhe.com
-manicur4ik.ru
-||manyvoices.news
-.maplew.com
-|http://maplew.com
-||marc.info
-marguerite.su
-||martincartoons.com
-maskedip.com
-.maiio.net
-.mail-archive.com
-.malaysiakini.com
-||makemymood.com
-.manchukuo.net
-.maniash.com
-|http://maniash.com
-.mansion.com
-.mansionpoker.com
-!--||marines.mil
-!--markmail.org*message
-||martau.com
-|http://blog.martinoei.com
-.martsangkagyuofficial.org
-|http://martsangkagyuofficial.org
-maruta.be/forget
-.marxist.com
-||marxist.net
-.marxists.org/chinese
-!--||mashable.com
-||matainja.com
-||mathable.io
-||mathiew-badimon.com
-||matrix.org
-||matsushimakaede.com
-|http://maturejp.com
-mayimayi.com
-.maxing.jp
-.mcaf.ee
-|http://mcaf.ee
-||mcadforums.com
-mcfog.com
-mcreasite.com
-.md-t.org
-||md-t.org
-||meansys.com
-.media.org.hk
-.mediachinese.com
-||mediachinese.com
-.mediafire.com/?
-.mediafire.com/download
-.mediafreakcity.com
-||mediafreakcity.com
-.medium.com
-||medium.com
-.meetav.com
-||meetup.com
-mefeedia.com
-jihadintel.meforum.org
-||mega.co.nz
-||mega.io
-||mega.nz
-||megaproxy.com
-||megarotic.com
-megavideo.com
-||megurineluka.com
-meirixiaochao.com
-.meltoday.com
-.memehk.com
-||memehk.com
-memorybbs.com
-.memri.org
-.memrijttm.org
-||mercdn.net
-.mercyprophet.org
-|http://mercyprophet.org
-||mergersandinquisitions.org
-.meridian-trust.org
-|http://meridian-trust.org
-.meripet.biz
-|http://meripet.biz
-.meripet.com
-|http://meripet.com
-merit-times.com.tw
-meshrep.com
-.mesotw.com/bbs
-metacafe.com/watch
-||metafilter.com
-||meteorshowersonline.com
-|http://www.metro.taipei/
-.metrohk.com.hk/?cmd=detail&categoryID=2
-||metrolife.ca
-.metroradio.com.hk
-|http://metroradio.com.hk
-||mewe.com
-meyou.jp
-.meyul.com
-||mgoon.com
-||mgstage.com
-||mh4u.org
-mhradio.org
-|http://michaelanti.com
-||michaelmarketl.com
-|http://bbs.mikocon.com
-.microvpn.com
-|http://microvpn.com
-middle-way.net
-.mihk.hk/forum
-.mihr.com
-mihua.org
-!--IP
-||mikesoltys.com
-.milph.net
-|http://milph.net
-.milsurps.com
-mimiai.net
-.mimivip.com
-.mimivv.com
-.mindrolling.org
-|http://mindrolling.org
-||mingdemedia.org
-.minghui.or.kr
-|http://minghui.or.kr
-minghui.org
-||minghui.org
-minghui-a.org
-minghui-b.org
-minghui-school.org
-.mingjinglishi.com
-||mingjinglishi.com
-mingjingnews.com
-||mingjingtimes.com
-.mingpao.com
-||mingpao.com
-.mingpaocanada.com
-.mingpaomonthly.com
-|http://mingpaomonthly.com
-mingpaonews.com
-.mingpaony.com
-.mingpaosf.com
-.mingpaotor.com
-.mingpaovan.com
-.mingshengbao.com
-.minhhue.net
-.miniforum.org
-.ministrybooks.org
-.minzhuhua.net
-||minzhuhua.net
-minzhuzhanxian.com
-minzhuzhongguo.org
-||miroguide.com
-mirrorbooks.com
-||mirrormedia.mg
-.mist.vip
-||thecenter.mit.edu
-||scratch.mit.edu
-.mitao.com.tw
-.mitbbs.com
-||mitbbs.com
-mitbbsau.com
-.mixero.com
-||mixero.com
-||mixi.jp
-mixpod.com
-.mixx.com
-||mixx.com
-||mizzmona.com
-.mk5000.com
-.mlcool.com
-||mlzs.work
-.mm-cg.com
-||mmaaxx.com
-.mmmca.com
-mnewstv.com
-||mobatek.net
-.mobile01.com
-||mobile01.com
-||mobileways.de
-.mobypicture.com
-|http://moby.to
-||mod.io
-||modernchinastudies.org
-||moeerolibrary.com
-wiki.moegirl.org
-.mofaxiehui.com
-.mofos.com
-||mog.com
-||mohu.rocks
-molihua.org
-||mondex.org
-.money-link.com.tw
-|http://money-link.com.tw
-|http://www.monlamit.org
-||moon.fm
-.moonbbs.com
-||moonbbs.com
-||moptt.tw
-||monitorchina.org
-bbs.morbell.com
-||morningsun.org
-||moroneta.com
-.motherless.com
-|http://motherless.com
-motor4ik.ru
-.mousebreaker.com
-!--||movabletype.com
-.movements.org
-||movements.org
-||moviefap.com
-||www.moztw.org
-.mp3buscador.com
-||mpettis.com
-.mpfinance.com
-||mpfinance.com
-.mpinews.com
-||mpinews.com
-mponline.hk
-.mqxd.org
-|http://mqxd.org
-mrtweet.com
-||mrtweet.com
-news.hk.msn.com
-news.msn.com.tw
-msguancha.com
-.mswe1.org
-|http://mswe1.org
-||mthruf.com
-||mubi.com
-muchosucko.com
-||multiply.com
-multiproxy.org
-multiupload.com
-.mullvad.net
-||mullvad.net
-.mummysgold.com
-.murmur.tw
-|http://murmur.tw
-.musicade.net
-.muslimvideo.com
-||muzi.com
-||muzi.net
-||mx981.com
-.my-formosa.com
-.my-proxy.com
-.my-private-network.co.uk
-||my-private-network.co.uk
-forum.my903.com
-.myactimes.com/actimes
-||myanniu.com
-.myaudiocast.com
-||myaudiocast.com
-.myav.com.tw/bbs
-.mybbs.us
-.myca168.com
-.mycanadanow.com
-||bbs.mychat.to
-||mychinamyhome.com
-.mychinamyhome.com
-.mychinanet.com
-.mychinanews.com
-||mychinanews.com
-.mychinese.news
-||mycnnews.com
-||mykomica.org
-mycould.com/discuz
-.myeasytv.com
-||myeclipseide.com
-.myforum.com.hk
-||myforum.com.hk
-||myforum.com.uk
-.myfreecams.com
-.myfreepaysite.com
-.myfreshnet.com
-.myiphide.com
-||myiphide.com
-forum.mymaji.com
-mymediarom.com/files/box
-||mymoe.moe
-||mymusic.net.tw
-||myparagliding.com
-||mypopescu.com
-myradio.hk/podcast
-.myreadingmanga.info
-mysinablog.com
-.myspace.com
-!--.blogs.myspace.com
-!--||blogs.myspace.com
-!--vids.myspace.com/index.cfm?fuseaction=vids.
-!--viewmorepics.myspace.com
-||myspacecdn.com
-.mytalkbox.com
-.mytizi.com
-
-!--------------------NN-------------------------
-||naacoalition.org
-old.nabble.com
-||naitik.net
-.nakido.com
-||nakido.com
-.nakuz.com/bbs
-||nalandabodhi.org
-||nalandawest.org
-.namgyal.org
-namgyalmonastery.org
-||namsisi.com
-.nanyang.com
-||nanyang.com
-.nanyangpost.com
-||nanyangpost.com
-.nanzao.com
-!--.nanzao.com/sc/china/20223
-!--.nanzao.com/sc/hk-macau-tw
-.naol.ca
-.naol.cc
-uighur.narod.ru
-.nat.moe
-||nat.moe
-cyberghost.natado.com
-||national-lottery.co.uk
-||nationalawakening.org
-||nationalinterest.org
-news.nationalgeographic.com/news/2014/06/140603-tiananmen-square
-||nationalreview.com
-.nationsonline.org/oneworld/tibet
-||line.naver.jp
-||navyfamily.navy.mil
-||navyreserve.navy.mil
-||nko.navy.mil
-||usno.navy.mil
-naweeklytimes.com
-||nbcnews.com
-.nbtvpn.com
-|http://nbtvpn.com
-nccwatch.org.tw
-.nch.com.tw
-.ncn.org
-||nchrd.org
-||ncn.org
-||etools.ncol.com
-.nde.de
-||ndi.org
-.ndr.de
-.ned.org
-||nekoslovakia.net
-||neowin.net
-||nepusoku.com
-||net-fits.pro
-||netalert.me
-!--bbsnew.netbig.com
-bbs.netbig.com
-.netbirds.com
-netcolony.com
-bolin.netfirms.com
-||netflav.com
-||netme.cc
-netsneak.com
-.network54.com
-networkedblogs.com
-.networktunnel.net
-neverforget8964.org
-new-3lunch.net
-.new-akiba.com
-.new96.ca
-.newcenturymc.com
-|http://newcenturymc.com
-newcenturynews.com
-||newchen.com
-.newchen.com
-.newgrounds.com
-||newhighlandvision.com
-newipnow.com
-.newlandmagazine.com.au
-.newnews.ca
-news100.com.tw
-newschinacomment.org
-.newscn.org
-||newscn.org
-newspeak.cc/story
-.newsancai.com
-||newsancai.com
-.newsdetox.ca
-.newsdh.com
-||newsmax.com
-||newstamago.com
-||newstapa.org
-||newstatesman.com
-newstarnet.com
-||newsweek.com
-.newtaiwan.com.tw
-newtalk.tw
-||newtalk.tw
-||newyorker.com
-newyorktimes.com
-||nexon.com
-.next11.co.jp
-||nextdigital.com.hk
-.nextmag.com.tw
-
-!--hk*.nextmedia.com
-!--tw*.nextmedia.com
-!--static*.nextmedia.com
-.nextmedia.com
-
-||nexton-net.jp
-nexttv.com.tw
-.nfjtyd.com
-||co.ng.mil
-||nga.mil
-ngensis.com
-||ngodupdongchung.com
-.nhentai.net
-|http://nhentai.net
-.nhk-ondemand.jp
-.nicovideo.jp/watch
-||nicovideo.jp
-||nighost.org
-av.nightlife141.com
-ninecommentaries.com
-.ninjacloak.com
-||ninjaproxy.ninja
-nintendium.com
-taiwanyes.ning.com
-usmgtcg.ning.com/forum
-||niusnews.com
-||njactb.org
-njuice.com
-||njuice.com
-||nlfreevpn.com
-||nmsl.website
-||nnews.eu
-
-!--no-ip.com#NOIP
-.ddns.net/
-.gooddns.info
-||gotdns.ch
-.maildns.xyz
-.no-ip.org
-.opendn.xyz
-.servehttp.com
-sytes.net
-.whodns.xyz
-.zapto.org
-|http://dynupdate.no-ip.com/
-
-||nobel.se
-!--.nobelprize.org
-!--|http://nobelprize.org
-nobelprize.org/nobel_prizes/peace/laureates/1989
-nobelprize.org/nobel_prizes/peace/laureates/2010
-nobodycanstop.us
-||nobodycanstop.us
-||nokogiri.org
-||nokola.com
-noodlevpn.com
-.norbulingka.org
-nordvpn.com
-||nordvpn.com
-||notepad-plus-plus.org
-||novelasia.com
-.news.now.com
-|http://news.now.com
-!--|http://news.now.com/home*
-news.now.com%2Fhome
-||nownews.com
-.nowtorrents.com
-.noypf.com
-||noypf.com
-||npa.go.jp
-.npnt.me
-|http://npnt.me
-.nps.gov
-.nradio.me
-|http://nradio.me
-.nrk.no
-||nrk.no
-.ntd.tv
-||ntd.tv
-.ntdtv.com
-||ntdtv.com
-||ntdtv.com.tw
-.ntdtv.co.kr
-ntdtv.ca
-ntdtv.org
-ntdtv.ru
-ntdtvla.com
-.ntrfun.com
-||cbs.ntu.edu.tw
-||media.nu.nl
-.nubiles.net
-||nuexpo.com
-.nukistream.com
-||nurgo-software.com
-||nutaku.net
-||nutsvpn.work
-.nuvid.com
-||nvdst.com
-nuzcom.com
-.nvquan.org
-.nvtongzhisheng.org
-|http://nvtongzhisheng.org
-.nwtca.org
-|http://nyaa.eu
-||nyaa.si
-||nybooks.com
-.nydus.ca
-nylon-angel.com
-nylonstockingsonline.com
-||nypost.com
-!--nysingtao.com
-.nzchinese.com
-||nzchinese.net.nz
-
-!--------------------OO-------------------------
-observechina.net
-.obutu.com
-ocaspro.com
-occupytiananmen.com
-oclp.hk
-.ocreampies.com
-||october-review.org
-||odysee.com
-offbeatchina.com
-||officeoftibet.com
-|http://ofile.org
-||ogaoga.org
-twtr2src.ogaoga.org
-.ogate.org
-||ogate.org
-www2.ohchr.org/english/bodies/cat/docs/ngos/II_China_41.pdf
-||ohmyrss.com
-.oikos.com.tw/v4
-.oiktv.com
-oizoblog.com
-.ok.ru
-||ok.ru
-.okayfreedom.com
-||okayfreedom.com
-okk.tw
-|http://filmy.olabloga.pl/player
-old-cat.net
-||olevod.com
-||olumpo.com
-.olympicwatch.org
-||omct.org
-omgili.com
-||omnitalk.com
-||omnitalk.org
-||omny.fm
-cling.omy.sg
-forum.omy.sg
-news.omy.sg
-showbiz.omy.sg
-||on.cc
-||onedrive.live.com
-||onion.city
-.onlinecha.com
-||onlineyoutube.com
-||onlygayvideo.com
-.onlytweets.com
-|http://onlytweets.com
-onmoon.net
-onmoon.com
-.onthehunt.com
-|http://onthehunt.com
-.oopsforum.com
-open.com.hk
-openallweb.com
-opendemocracy.net
-||opendemocracy.net
-.openervpn.in
-openid.net
-||openid.net
-.openleaks.org
-||openleaks.org
-||opentech.fund
-openvpn.net
-||openvpn.net
-||openwebster.com
-.openwrt.org.cn
-@@||openwrt.org.cn
-my.opera.com/dahema
-||demo.opera-mini.net
-.opus-gaming.com
-|http://opus-gaming.com
-www.orchidbbs.com
-.organcare.org.tw
-organharvestinvestigation.net
-.orgasm.com
-.orgfree.com
-||orient-doll.com
-orientaldaily.com.my
-||orientaldaily.com.my
-!--orientaldaily.on.cc
-||orn.jp
-t.orzdream.com
-||t.orzdream.com
-tui.orzdream.com
-||orzistic.org
-||osfoora.com
-.otnd.org
-||otnd.org
-||otto.de
-||ourdearamy.com
-oursogo.com
-.oursteps.com.au
-||oursteps.com.au
-.oursweb.net
-||ourtv.hk
-xinqimeng.over-blog.com
-||overdaily.org
-||overplay.net
-share.ovi.com/media
-||ovpn.com
-|http://owl.li
-|http://ht.ly
-|http://htl.li
-|http://mash.to
-www.owind.com
-||owltail.com
-||oxfordscholarship.com
-|http://www.oxid.it
-oyax.com
-oyghan.com/wps
-.ozchinese.com/bbs
-||ow.ly
-bbs.ozchinese.com
-.ozvoice.org
-||ozvoice.org
-.ozxw.com
-.ozyoyo.com
-
-!--------------------PP-------------------------
-||pachosting.com
-.pacificpoker.com
-.packetix.net
-||pacopacomama.com
-.padmanet.com
-page2rss.com
-||pagodabox.com
-.palacemoon.com
-forum.palmislife.com
-||eriversoft.com
-.paldengyal.com
-paljorpublications.com
-.paltalk.com
-!--||pangci.net
-||pandapow.co
-.pandapow.net
-.pandavpn-jp.com
-||pandavpn-jp.com
-||pandavpnpro.com
-.panluan.net
-||panluan.net
-||pao-pao.net
-paper.li
-paperb.us
-.paradisehill.cc
-.paradisepoker.com
-||parler.com
-||parsevideo.com
-.partycasino.com
-.partypoker.com
-.passion.com
-||passion.com
-.passiontimes.hk
-pastebin.com
-.pastie.org
-||pastie.org
-||blog.pathtosharepoint.com
-pbs.org/wgbh/pages/frontline/tankman
-pbs.org/wgbh/pages/frontline/tibet
-video.pbs.org
-
-!--Pbwiki
-pbwiki.com
-||pbworks.com
-||developers.box.net
-||wiki.oauth.net
-||wiki.phonegap.com
-||wiki.jqueryui.com
-
-||pbxes.com
-||pbxes.org
-pcdvd.com.tw
-.pchome.com.tw
-|http://pcij.org
-.pcstore.com.tw
-||pct.org.tw
-pdetails.com
-||pdproxy.com
-||peace.ca
-peacefire.org
-peacehall.com
-||peacehall.com
-|http://pearlher.org
-.peeasian.com
-||peing.net
-.pekingduck.org
-||pekingduck.org
-.pemulihan.or.id
-|http://pemulihan.or.id
-||pen.io
-penchinese.com
-||penchinese.net
-.penchinese.net
-pengyulong.com
-penisbot.com
-||blog.pentalogic.net
-.penthouse.com
-.pentoy.hk/%E4%B8%AD%E5%9C%8B
-.pentoy.hk/%E6%99%82%E4%BA%8B
-.peoplebookcafe.com
-.peoplenews.tw
-||peoplenews.tw
-.peopo.org
-||peopo.org
-.percy.in
-.perfectgirls.net
-perfectvpn.net
-.persecutionblog.com
-.persiankitty.com
-pfd.org.hk
-phapluan.org
-.phayul.com
-||phayul.com
-philborges.com
-philly.com
-||phncdn.com
-||photodharma.net
-||photofocus.com
-||phuquocservices.com
-||picacomiccn.com
-.picidae.net
-||img*.picturedip.com
-picturesocial.com
-||pin-cong.com
-.pin6.com
-||pin6.com
-.ping.fm
-||ping.fm
-||pinimg.com
-.pinkrod.com
-||pinoy-n.com
-||pinterest.at
-||pinterest.ca
-||pinterest.co.kr
-||pinterest.co.uk
-.pinterest.com
-||pinterest.com
-||pinterest.com.mx
-||pinterest.de
-||pinterest.dk
-||pinterest.fr
-||pinterest.jp
-||pinterest.nl
-||pinterest.se
-.pipii.tv
-.piposay.com
-piraattilahti.org
-.piring.com
-||pixelqi.com
-||css.pixnet.in
-||pixnet.net
-.pixnet.net
-.pk.com
-||placemix.com
-!--.planetsuzy.org
-|http://pictures.playboy.com
-||playboy.com
-.playboyplus.com
-||playboyplus.com
-||player.fm
-.playno1.com
-||playno1.com
-||playpcesor.com
-plays.com.tw
-||plexvpn.pro
-||m.plixi.com
-plm.org.hk
-plunder.com
-.plurk.com
-||plurk.com
-.plus28.com
-.plusbb.com
-.pmatehunter.com
-||pmatehunter.com
-.pmates.com
-||po2b.com
-pobieramy.top
-!--||pocoo.org
-||podbean.com
-||podictionary.com
-.pokerstars.com
-||pokerstars.com
-.pokerstars.net
-zh.pokerstrategy.com
-politicalchina.org
-politicalconsultation.org
-.politiscales.net
-||poloniex.com
-.polymerhk.com
-|http://polymerhk.com
-.popo.tw
-!--||popularpages.net
-||popvote.hk
-||popxi.click
-.popyard.com
-||popyard.org
-.porn.com
-.porn2.com
-.porn5.com
-.pornbase.org
-.pornerbros.com
-||pornhd.com
-.pornhost.com
-.pornhub.com
-||pornhub.com
-.pornhubdeutsch.net
-|http://pornhubdeutsch.net
-||pornmm.net
-.pornoxo.com
-.pornrapidshare.com
-||pornrapidshare.com
-.pornsharing.com
-|http://pornsharing.com
-.pornsocket.com
-.pornstarclub.com
-||pornstarclub.com
-.porntube.com
-.porntubenews.com
-.porntvblog.com
-||porntvblog.com
-.pornvisit.com
-.portablevpn.nl
-||poskotanews.com
-.post01.com
-.post76.com
-||post76.com
-.post852.com
-||post852.com
-postadult.com
-.postimg.org
-||potvpn.com
-||powercx.com
-.powerphoto.org
-||www.powerpointninja.com
-||presidentlee.tw
-||cdn.printfriendly.com
-.pritunl.com
-provpnaccounts.com
-||provpnaccounts.com
-.proxfree.com
-||proxfree.com
-proxyanonimo.es
-.proxynetwork.org.uk
-||proxynetwork.org.uk
-||pts.org.tw
-.pttvan.org
-pubu.com.tw
-puffinbrowser.com
-pureinsight.org
-.pushchinawall.com
-.putty.org
-||putty.org
-
-!-------------Posterous-----
-||calebelston.com
-||blog.fizzik.com
-||nf.id.au
-||sogrady.me
-||vatn.org
-||ventureswell.com
-||whereiswerner.com
-
-.power.com
-||power.com
-powerapple.com
-||powerapple.com
-||abc.pp.ru
-heix.pp.ru
-||prayforchina.net
-||premeforwindows7.com
-||presentationzen.com
-||prestige-av.com
-prisoner-state-secret-journal-premier
-.prisoneralert.com
-||pritunl.com
-||privacybox.de
-.private.com/home
-||privateinternetaccess.com
-privatepaste.com
-||privatepaste.com
-privatetunnel.com
-||privatetunnel.com
-||privatevpn.com
-||privoxy.org
-||procopytips.com
-||project-syndicate.org
-provideocoalition.com
-||prosiben.de
-proxifier.com
-api.proxlet.com
-||proxomitron.info
-.proxpn.com
-||proxpn.com
-.proxylist.org.uk
-||proxylist.org.uk
-.proxypy.net
-||proxypy.net
-proxyroad.com
-.proxytunnel.net
-!--403 maybe
-||proyectoclubes.com
-prozz.net
-psblog.name
-||psblog.name
-||pshvpn.com
-||psiphon.ca
-.psiphon3.com
-||psiphon3.com
-.psiphontoday.com
-||pt.im
-.ptt.cc
-||ptt.cc
-||pttgame.com
-.puffstore.com
-.puuko.com
-||pullfolio.com
-.punyu.com/puny
-||pureconcepts.net
-||pureinsight.org
-||purepdf.com
-||purevpn.com
-.purplelotus.org
-.pursuestar.com
-||pursuestar.com
-||nitter.pussthecat.org
-.pussyspace.com
-.putihome.org
-.putlocker.com/file
-pwned.com
-||pximg.net
-python.com
-.python.com.tw
-|http://python.com.tw
-pythonhackers.com/p
-ss.pythonic.life/
-
-!--------------------QQ-------------------------
-.qanote.com
-||qanote.com
-.qgirl.com.tw
-||qianbai.tw
-||qiandao.today
-||qiangwaikan.com
-.qi-gong.me
-||qi-gong.me
-!--#921
-||qiangyou.org
-.qidian.ca
-.qienkuen.org
-||qienkuen.org
-||qiwen.lu
-qixianglu.cn
-bbs.qmzdd.com
-.qkshare.com
-qoos.com
-||qoos.com
-blog.qooza.hk/dafengqixi
-||efksoft.com
-||qstatus.com
-||qtweeter.com
-||qtrac.eu
-.quannengshen.org
-|http://quannengshen.org
-quantumbooter.net
-||quitccp.net
-.quitccp.net
-||quitccp.org
-.quitccp.org
-.quora.com/Chinas-Future
-.quran.com
-|http://quran.com
-.quranexplorer.com
-qusi8.net
-.qvodzy.org
-nemesis2.qx.net/pages/MyEnTunnel
-qxbbs.org
-
-!--------------------RR-------------------------
-||r0.ru
-.ra.gg
-|http://ra.gg/
-.radicalparty.org
-||rael.org
-radicalparty.org
-||radio.garden
-radioaustralia.net.au
-.radiohilight.net
-||radiohilight.net
-||radioline.co
-opml.radiotime.com
-||radiovaticana.org
-||radiovncr.com
-||raggedbanner.com
-||raidcall.com.tw
-.raidtalk.com.tw
-.rainbowplan.org/bbs
-|https://raindrop.io/
-.raizoji.or.jp
-|http://raizoji.or.jp
-rangwang.biz
-rangzen.com
-rangzen.net
-rangzen.org
-|http://blog.ranxiang.com/
-ranyunfei.com
-||ranyunfei.com
-.rapbull.net
-|http://rapidgator.net/
-||rapidmoviez.com
-rapidvpn.com
-||rapidvpn.com
-||rarbgprx.org
-.raremovie.cc
-|http://raremovie.cc
-.raremovie.net
-|http://raremovie.net
-||rationalwiki.org
-||rawgit.com
-||rawgithub.com
-!--.rayfme.com/bbs
-||razyboard.com
-rcinet.ca
-.read100.com
-.readingtimes.com.tw
-||readingtimes.com.tw
-||readmoo.com
-.readydown.com
-|http://readydown.com
-.realcourage.org
-.realitykings.com
-||realitykings.com
-.realraptalk.com
-.realsexpass.com
-||reason.com
-.recordhistory.org
-.recovery.org.tw
-|http://online.recoveryversion.org
-||recoveryversion.com.tw
-||red-lang.org
-redballoonsolidarity.org
-||redbubble.com
-.redchinacn.net
-|http://redchinacn.net
-redchinacn.org
-redtube.com
-referer.us
-||referer.us
-||reflectivecode.com
-relaxbbs.com
-.relay.com.tw
-.releaseinternational.org
-||religionnews.com
-religioustolerance.org
-renminbao.com
-||renminbao.com
-.renyurenquan.org
-||renyurenquan.org
-|http://certificate.revocationcheck.com
-subacme.rerouted.org
-||resilio.com
-.reuters.com
-||reuters.com
-||reutersmedia.net
-.revleft.com
-||resistchina.org
-retweetist.com
-||retweetrank.com
-!--connectedchina.reuters.com
-!--|http://www.reuters.com/news/video
-revver.com
-.rfa.org
-||rfa.org
-.rfachina.com
-.rfamobile.org
-rfaweb.org
-||rferl.org
-.rfi.fr
-||rfi.fr
-|http://rfi.my/
-!--.rhcloud.com
-!--Edgecast
-|http://vds.rightster.com/
-.rigpa.org
-.rileyguide.com
-riku.me/
-.ritouki.jp
-||ritter.vg
-.rlwlw.com
-||rlwlw.com
-.rmjdw.com
-.rmjdw132.info
-.roadshow.hk
-.roboforex.com
-||robustnessiskey.com
-!--||roc-taiwan.org
-||rocket-inc.net
-|http://www2.rocketbbs.com/11/bbs.cgi?id=5mus
-|http://www2.rocketbbs.com/11/bbs.cgi?id=freemgl
-!--||rocmp.org
-||rojo.com
-||ronjoneswriter.com
-||rolfoundation.org
-||rolia.net
-||rolsociety.org
-.roodo.com
-.rosechina.net
-.rotten.com
-.rsf.org
-||rsf.org
-.rsf-chinese.org
-||rsf-chinese.org
-.rsgamen.org
-||rsshub.app
-||phosphation13.rssing.com
-.rssmeme.com
-||rssmeme.com
-||rtalabel.org
-.rthk.hk
-||rthk.hk
-.rthk.org.hk
-||rthk.org.hk
-.rti.org.tw
-||rti.org.tw
-||rti.tw
-.rtycminnesota.org
-.ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
-rukor.org
-||rule34.xxx
-.runbtx.com
-.rushbee.com
-||rusvpn.com
-.ruten.com.tw
-||ruten.com.tw
-||rutracker.net
-rutube.ru
-.ruyiseek.com
-.rxhj.net
-|http://rxhj.net
-
-!--------------------SS-------------------------
-.s1s1s1.com
-||s-cute.com
-.s-dragon.org
-||s1heng.com
-|http://www.s4miniarchive.com
-||s8forum.com
-cdn1.lp.saboom.com
-||sacks.com
-sacom.hk
-||sacom.hk
-||sadpanda.us
-||safechat.com
-||safeguarddefenders.com
-.safervpn.com
-||safervpn.com
-.saintyculture.com
-|http://saintyculture.com
-.saiq.me
-||saiq.me
-||sakuralive.com
-.sakya.org
-.salvation.org.hk
-||salvation.org.hk
-.samair.ru/proxy/type-01
-.sambhota.org
-.cn.sandscotaicentral.com
-|http://cn.sandscotaicentral.com
-||sankei.com
-.sanmin.com.tw
-sapikachu.net
-savemedia.com
-||savethesounds.info
-.savetibet.de
-||savetibet.de
-savetibet.fr
-savetibet.nl
-.savetibet.org
-||savetibet.org
-savetibet.ru
-.savetibetstore.org
-||savetibetstore.org
-||saveuighur.org
-savevid.com
-||say2.info
-.sbme.me
-|http://sbme.me
-.sbs.com.au/yourlanguage
-.scasino.com
-|http://www.sciencemag.org/content/344/6187/953
-.sciencenets.com
-.scmp.com
-||scmp.com
-.scmpchinese.com
-||scramble.io
-.scribd.com
-||scribd.com
-||scriptspot.com
-||search.com
-.searchtruth.com
-||searx.me
-||seattlefdc.com
-.secretchina.com
-||secretchina.com
-||secretgarden.no
-.secretsline.biz
-||secretsline.biz
-||secureservercdn.net
-||securetunnel.com
-securityinabox.org
-|https://securityinabox.org
-.securitykiss.com
-||securitykiss.com
-||seed4.me
-news.seehua.com
-seesmic.com
-||seevpn.com
-||seezone.net
-sejie.com
-.sendspace.com
-|http://tweets.seraph.me/
-sesawe.net
-||sesawe.net
-.sesawe.org
-||sethwklein.net
-.setn.com
-.settv.com.tw
-forum.setty.com.tw
-.sevenload.com
-||sevenload.com
-.sex.com
-.sex-11.com
-||sex3.com
-||sex8.cc
-.sexandsubmission.com
-.sexbot.com
-.sexhu.com
-.sexhuang.com
-sexinsex.net
-||sexinsex.net
-.sextvx.com
-
-!--IP of SexInSex
-67.220.91.15
-67.220.91.18
-67.220.91.23
-
-|http://*.sf.net
-.sfileydy.com
-||sfshibao.com
-.sftindia.org
-.sftuk.org
-||sftuk.org
-||shadeyouvpn.com
-shadow.ma
-.shadowsky.xyz
-.shadowsocks.asia
-||www.shadowsocks.com
-.shadowsocks.com
-||shadowsocks.com.hk
-.shadowsocks.org
-||shadowsocks.org
-||shadowsocks-r.com
-|http://cn.shafaqna.com
-||shahit.biz
-.shambalapost.com
-.shambhalasun.com
-.shangfang.org
-||shangfang.org
-shapeservices.com
-.sharebee.com
-||sharecool.org
-!--||sharkdolphin.com
-sharpdaily.com.hk
-||sharpdaily.com.hk
-.sharpdaily.hk
-.sharpdaily.tw
-.shat-tibet.com
-sheikyermami.com
-.shellfire.de
-||shellfire.de
-.shenshou.org
-shenyun.com
-shenyunperformingarts.org
-||shenyunperformingarts.org
-||shenyunshop.com
-shenzhoufilm.com
-||shenzhoufilm.com
-||shenzhouzhengdao.org
-||sherabgyaltsen.com
-.shiatv.net
-.shicheng.org
-shinychan.com
-shipcamouflage.com
-.shireyishunjian.com
-.shitaotv.org
-||shixiao.org
-||shizhao.org
-shizhao.org
-shkspr.mobi/dabr
-||shodanhq.com
-||shooshtime.com
-.shop2000.com.tw
-||shopee.tw
-.shopping.com
-.showhaotu.com
-.showtime.jp
-||showwe.tw
-.shutterstock.com
-||shutterstock.com
-ch.shvoong.com
-.shwchurch.org
-||shwchurch.org
-.shwchurch3.com
-|http://shwchurch3.com
-.siddharthasintent.org
-||sidelinesnews.com
-.sidelinessportseatery.com
-||signal.org
-.sijihuisuo.club
-.sijihuisuo.com
-.silkbook.com
-||simbolostwitter.com
-simplecd.org
-||simplecd.org
-@@||simplecd.me
-simpleproductivityblog.com
-bbs.sina.com/
-bbs.sina.com%2F
-blog.sina.com.tw
-dailynews.sina.com/
-dailynews.sina.com%2F
-forum.sina.com.hk
-home.sina.com
-||magazines.sina.com.tw
-news.sina.com.hk
-news.sina.com.tw
-news.sinchew.com.my
-.sinchew.com.my/node/
-.sinchew.com.my/taxonomy/term
-.singaporepools.com.sg
-||singaporepools.com.sg
-.singfortibet.com
-.singpao.com.hk
-singtao.com
-||singtao.com
-news.singtao.ca
-.singtaousa.com
-||singtaousa.com
-!--||cdp.sinica.edu.tw
-sino-monthly.com
-||sinoca.com
-||sinocast.com
-sinocism.com
-sinomontreal.ca
-.sinonet.ca
-.sinopitt.info
-.sinoants.com
-||sinoants.com
-||sinoinsider.com
-.sinoquebec.com
-.sierrafriendsoftibet.org
-sis.xxx
-||sis001.com
-sis001.us
-.site2unblock.com
-||site90.net
-.sitebro.tw
-||sitekreator.com
-||siteks.uk.to
-||sitemaps.org
-.sjrt.org
-|http://sjrt.org
-||sjum.cn
-||sketchappsources.com
-||skimtube.com
-||lab.skk.moe
-||skybet.com
-|http://users.skynet.be/reves/tibethome.html
-.skyking.com.tw
-bbs.skykiwi.com
-|http://www.skype.com/intl/
-|http://www.skype.com/zh-Hant
-||skyvegas.com
-.xskywalker.com
-||xskywalker.com
-||skyxvpn.com
-m.slandr.net
-.slaytizle.com
-.sleazydream.com
-||slheng.com
-||slideshare.net
-forum.slime.com.tw
-.slinkset.com
-||slickvpn.com
-.slutload.com
-||smartdnsproxy.com
-.smarthide.com
-||app.smartmailcloud.com
-smchbooks.com
-.smh.com.au/world/death-of-chinese-playboy-leaves-fresh-scratches-in-party-paintwork-20120903-25a8v
-smhric.org
-.smith.edu/dalailama
-.smyxy.org
-!--TODO-no-homepage
-||snapchat.com
-.snaptu.com
-||snaptu.com
-||sndcdn.com
-sneakme.net
-snowlionpub.com
-home.so-net.net.tw/yisa_tsai
-||soc.mil
-||socialblade.com
-.socks-proxy.net
-||socks-proxy.net
-.sockscap64.com
-||sockslist.net
-.socrec.org
-|http://socrec.org
-.sod.co.jp
-.softether.org
-||softether.org
-.softether-download.com
-||softether-download.com
-||cdn.softlayer.net
-||sogclub.com
-sohcradio.com
-||sohcradio.com
-.sokmil.com
-||sorting-algorithms.com
-.sostibet.org
-.soumo.info
-||soup.io
-@@||static.soup.io
-.sobees.com
-||sobees.com
-socialwhale.com
-.softether.co.jp
-||softwarebychuck.com
-blog.sogoo.org
-soh.tw
-||soh.tw
-sohfrance.org
-||sohfrance.org
-chinese.soifind.com
-sokamonline.com
-.solidaritetibet.org
-.solidfiles.com
-||somee.com
-.songjianjun.com
-||songjianjun.com
-.sonicbbs.cc
-.sonidodelaesperanza.org
-.sopcast.com
-.sopcast.org
-||nakedsecurity.sophos.com
-.sorazone.net
-||sos.org
-bbs.sou-tong.org
-.soubory.com
-|http://soubory.com
-.soul-plus.net
-.soulcaliburhentai.net
-||soulcaliburhentai.net
-||soundcloud.com
-!--|https://soundcloud.com/punkgod
-.soundofhope.kr
-soundofhope.org
-||soundofhope.org
-||soupofmedia.com
-!--.sourceforge.net
-!-|http://sourceforge.net
-|http://sourceforge.net/p*/shadowsocksgui/
-.sourcewadio.com
-||south-plus.org
-southnews.com.tw
-sowers.org.hk
-||wlx.sowiki.net
-||spankbang.com
-.spankingtube.com
-.spankwire.com
-||spb.com
-||speakerdeck.com
-||speedify.com
-spem.at
-||spencertipping.com
-||spendee.com
-||spicevpn.com
-.spideroak.com
-||spideroak.com
-.spike.com
-.spotflux.com
-||spotflux.com
-.spring4u.info
-|http://spring4u.info
-||sproutcore.com
-||sproxy.info
-||squirrelvpn.com
-||srocket.us
-.ss-link.com
-||ss-link.com
-.ssglobal.co/wp
-|http://ssglobal.co
-.ssglobal.me
-||ssh91.com
-.sspro.ml
-|http://sspro.ml
-.ssrshare.com
-||ssrshare.com
-||sss.camp
-!--|http://cdn.sstatic.net/
-||sstm.moe
-||sstmlt.moe
-sstmlt.net
-||sstmlt.net
-|http://stackoverflow.com/users/895245
-.stage64.hk
-||stage64.hk
-||standupfortibet.org
-||standwithhk.org
-stanford.edu/group/falun
-usinfo.state.gov
-||statueofdemocracy.org
-.starfishfx.com
-.starp2p.com
-||starp2p.com
-.startpage.com
-||startpage.com
-.startuplivingchina.com
-|http://startuplivingchina.com
-||static-economist.com
-||stboy.net
-||stc.com.sa
-||steel-storm.com
-.steganos.com
-||steganos.com
-.steganos.net
-.stepchina.com
-!--||stepmania.com
-ny.stgloballink.com
-hd.stheadline.com/news/realtime
-sthoo.com
-||sthoo.com
-.stickam.com
-stickeraction.com/sesawe
-.stileproject.com
-.sto.cc
-.stoporganharvesting.org
-||storagenewsletter.com
-.storm.mg
-||storm.mg
-.stoptibetcrisis.net
-||stoptibetcrisis.net
-||storify.com
-.stormmediagroup.com
-||stoweboyd.com
-||straitstimes.com
-stranabg.com
-||straplessdildo.com
-||streamable.com
-||streamate.com
-||streamingthe.net
-streema.com/tv/NTDTV_Chinese
-cn.streetvoice.com/article
-cn.streetvoice.com/diary
-cn2.streetvoice.com
-tw.streetvoice.com
-.strikingly.com
-||strongvpn.com
-.strongwindpress.com
-.student.tw/db
-||studentsforafreetibet.org
-||stumbleupon.com
-stupidvideos.com
-.successfn.com
-panamapapers.sueddeutsche.de
-.sugarsync.com
-||sugarsync.com
-.sugobbs.com
-||sugumiru18.com
-||suissl.com
-summify.com
-.sumrando.com
-||sumrando.com
-sun1911.com
-||sundayguardianlive.com
-.sunporno.com
-||sunmedia.ca
-||sunporno.com
-.sunskyforum.com
-.sunta.com.tw
-.sunvpn.net
-.suoluo.org
-.superfreevpn.com
-.supervpn.net
-||supervpn.net
-.superzooi.com
-|http://superzooi.com
-.suppig.net
-.suprememastertv.com
-|http://suprememastertv.com
-.surfeasy.com
-||surfeasy.com
-.surfeasy.com.au
-|http://surfeasy.com.au
-||surfshark.com
-||surrenderat20.net
-.svsfx.com
-.swissinfo.ch
-||swissinfo.ch
-.swissvpn.net
-||swissvpn.net
-switchvpn.net
-||switchvpn.net
-.sydneytoday.com
-||sydneytoday.com
-.sylfoundation.org
-||sylfoundation.org
-||syncback.com
-sysresccd.org
-.sytes.net
-blog.syx86.com/2009/09/puff
-blog.syx86.cn/2009/09/puff
-.szbbs.net
-.szetowah.org.hk
-
-!--------------------TT-------------------------
-||t-g.com
-.t35.com
-.t66y.com
-||t66y.com
-||esg.t91y.com
-.taa-usa.org
-|http://taa-usa.org
-.taaze.tw
-||taaze.tw
-|http://www.tablesgenerator.com/
-tabtter.jp
-.tacem.org
-.taconet.com.tw
-||taedp.org.tw
-.tafm.org
-.tagwa.org.au
-tagwalk.com
-||tagwalk.com
-tahr.org.tw
-.taipeisociety.org
-||taipeisociety.org
-||taipeitimes.com
-.taiwanbible.com
-.taiwancon.com
-.taiwandaily.net
-||taiwandaily.net
-.taiwandc.org
-!--||taiwanembassy.org
-||taiwanhot.net
-.taiwanjustice.com
-taiwankiss.com
-taiwannation.com
-taiwannation.com.tw
-||taiwanncf.org.tw
-||taiwannews.com.tw
-|http://www.taiwanonline.cc/
-!--||taiwantoday.tw
-taiwantp.net
-||taiwantt.org.tw
-taiwanus.net
-taiwanyes.com
-taiwan-sex.com
-.talk853.com
-.talkboxapp.com
-||talkboxapp.com
-.talkcc.com
-||talkcc.com
-.talkonly.net
-||talkonly.net
-||tamiaode.tk
-||tanc.org
-tangben.com
-.tangren.us
-.taoism.net
-|http://taoism.net
-.taolun.info
-||taolun.info
-.tapatalk.com
-||tapatalk.com
-blog.taragana.com
-.tascn.com.au
-||taup.net
-|http://www.taup.org.tw
-.taweet.com
-||taweet.com
-.tbcollege.org
-||tbcollege.org
-.tbi.org.hk
-.tbicn.org
-.tbjyt.org
-||tbpic.info
-.tbrc.org
-tbs-rainbow.org
-.tbsec.org
-||tbsec.org
-tbskkinabalu.page.tl
-.tbsmalaysia.org
-.tbsn.org
-||tbsn.org
-.tbsseattle.org
-.tbssqh.org
-|http://tbssqh.org
-tbswd.org
-.tbtemple.org.uk
-.tbthouston.org
-.tccwonline.org
-.tcewf.org
-tchrd.org
-tcnynj.org
-||tcpspeed.co
-.tcpspeed.com
-||tcpspeed.com
-.tcsofbc.org
-.tcsovi.org
-.tdm.com.mo
-teamamericany.com
-||techspot.com
-!--OVH
-||techviz.net
-||teck.in
-.teeniefuck.net
-teensinasia.com
-||tehrantimes.com
-.telecomspace.com
-||telegraph.co.uk
-||telegra.ph
-.tenacy.com
-||tenzinpalmo.com
-.tew.org
-||tew.org
-||tfiflve.com
-.thaicn.com
-||theatlantic.com
-||theatrum-belli.com
-||cn.theaustralian.com.au
-theblemish.com
-||thebcomplex.com
-||theblaze.com
-.thebobs.com
-||thebobs.com
-.thechinabeat.org
-||thechinacollection.org
-|http://www.thechinastory.org/yearbooks/yearbook-2012/
-||theconversation.com
-.thedalailamamovie.com
-|http://thedalailamamovie.com
-||thediplomat.com
-||thedw.us
-!--||thefreeland.club
-thefrontier.hk/tf
-||theguardian.com
-||thegay.com
-|http://thegioitinhoc.vn/
-.thegly.com
-.thehots.info
-thehousenews.com
-||thehun.net
-.theinitium.com
-||theinitium.com
-||themoviedb.org
-.thenewslens.com
-||thenewslens.com
-.thepiratebay.org
-||thepiratebay.org
-!--||thepiratebay.se
-.theporndude.com
-||theporndude.com
-||theportalwiki.com
-||theprint.in
-thereallove.kr
-therock.net.nz
-||thesaturdaypaper.com.au
-||thestandnews.com
-thetibetcenter.org
-thetibetconnection.org
-.thetibetmuseum.org
-.thetibetpost.com
-||thetibetpost.com
-!--Tor
-||thetinhat.com
-thetrotskymovie.com
-||thetvdb.com
-thevivekspot.com
-||thewgo.org
-.theync.com
-|http://theync.com
-.thinkingtaiwan.com
-||thinkingtaiwan.com
-.thisav.com
-|http://thisav.com
-.thlib.org
-||thomasbernhard.org
-.thongdreams.com
-threatchaos.com
-||throughnightsfire.com
-.thumbzilla.com
-||thywords.com
-.thywords.com.tw
-tiananmenmother.org
-.tiananmenduizhi.com
-||tiananmenduizhi.com
-||tiananmenuniv.com
-||tiananmenuniv.net
-||tiandixing.org
-.tianhuayuan.com
-.tianlawoffice.com
-||tianti.io
-tiantibooks.org
-||tiantibooks.org
-tianyantong.org.cn
-.tianzhu.org
-.tibet.at
-tibet.ca
-.tibet.com
-||tibet.com
-tibet.fr
-.tibet.net
-||tibet.net
-tibet.nu
-.tibet.org
-||tibet.org
-.tibet.sk
-tibet.org.tw
-.tibet.to
-.tibet-envoy.eu
-||tibet-envoy.eu
-.tibet-foundation.org
-.tibet-house-trust.co.uk
-||tibet-initiative.de
-.tibet-munich.de
-.tibet3rdpole.org
-|http://tibet3rdpole.org
-tibetaction.net
-||tibetaction.net
-.tibetaid.org
-tibetalk.com
-.tibetan.fr
-tibetan-alliance.org
-.tibetanarts.org
-.tibetanbuddhistinstitute.org
-||tibetanbuddhistinstitute.org
-||tibetancommunity.org
-||tibetanentrepreneurs.org
-||tibetanhealth.org
-.tibetanjournal.com
-.tibetanlanguage.org
-.tibetanliberation.org
-||tibetanliberation.org
-.tibetcollection.com
-.tibetanaidproject.org
-.tibetancommunityuk.net
-|http://tibetancommunityuk.net
-tibetanculture.org
-tibetanfeministcollective.org
-.tibetanpaintings.com
-.tibetanphotoproject.com
-.tibetanpoliticalreview.org
-.tibetanreview.net
-|http://tibetansports.org
-.tibetanwomen.org
-|http://tibetanwomen.org
-.tibetanyouth.org
-.tibetanyouthcongress.org
-||tibetanyouthcongress.org
-.tibetcharity.dk
-tibetcharity.in
-.tibetchild.org
-.tibetcity.com
-||tibetcorps.org
-||tibetexpress.net
-||tibetfocus.com
-||tibetfund.org
-.tibetgermany.com
-||tibetgermany.de
-.tibethaus.com
-.tibetheritagefund.org
-||tibethouse.jp
-||tibethouse.org
-||tibethouse.us
-.tibetinfonet.net
-.tibetjustice.org
-.tibetkomite.dk
-||tibetmuseum.org
-||tibetnetwork.org
-.tibetoffice.ch
-|http://tibetoffice.ch
-tibetoffice.eu
-||tibetoffice.org
-tibetonline.com
-||tibetonline.com
-.tibetoffice.com.au
-|http://tibetoffice.com.au
-||tibetonline.tv
-.tibetonline.tv
-.tibetoralhistory.org
-|http://tibetoralhistory.org
-.tibetpolicy.eu
-.tibetrelieffund.co.uk
-tibetsites.com
-.tibetsociety.com
-||tibetsociety.com
-.tibetsun.com
-.tibetsupportgroup.org
-|http://tibetsupportgroup.org
-.tibetswiss.ch
-.tibettelegraph.com
-tibettimes.net
-||tibetwrites.org
-.ticket.com.tw
-.tigervpn.com
-||tigervpn.com
-.timdir.com
-|http://timdir.com
-.time.com
-|http://time.com
-!--.time.com/time/time100/leaders/profile/rebel
-!--.time.com/time/specials/packages/article/0,28804
-!--.time.com/time/magazine
-||timesnownews.com
-.timsah.com
-||timtales.com
-||blog.tiney.com
-tintuc101.com
-.tiny.cc
-|http://tiny.cc
-tinychat.com
-||tinypaste.com
-||tipas.net
-.tistory.com
-||tkcs-collins.com
-.tmagazine.com
-||tmagazine.com
-.tmdfish.com
-|http://tmi.me
-.tmpp.org
-|http://tmpp.org
-.tnaflix.com
-||tnaflix.com
-.tngrnow.com
-.tngrnow.net
-.tnp.org
-|http://tnp.org
-.to-porno.com
-||to-porno.com
-togetter.com
-.tokyo-247.com
-.tokyo-hot.com
-||tokyo-porn-tube.com
-||tokyocn.com
-tw.tomonews.net
-.tongil.or.kr
-.tono-oka.jp
-tonyyan.net
-.toodoc.com
-toonel.net
-top81.ws
-.topnews.in
-.toppornsites.com
-|http://toppornsites.com
-.torguard.net
-||torguard.net
-||top.tv
-.topshareware.com
-.topsy.com
-||topsy.com
-||toptip.ca
-tora.to
-.torcn.com
-||torlock.com
-.torproject.org
-||torproject.org
-||torrentkitty.tv
-torrentprivacy.com
-||torrentprivacy.com
-|http://torrentproject.se
-||torrenty.org
-||torrentz.eu
-||torvpn.com
-||totalvpn.com
-.toutiaoabc.com
-towngain.com
-toypark.in
-toytractorshow.com
-.tparents.org
-.tpi.org.tw
-||tpi.org.tw
-||tradingview.com
-||transparency.org
-||treemall.com.tw
-trendsmap.com
-||trendsmap.com
-.trialofccp.org
-||trialofccp.org
-.trimondi.de/SDLE
-.trouw.nl
-||trouw.nl
-.trt.net.tr
-||trt.net.tr
-trtc.com.tw
-.truebuddha-md.org
-||truebuddha-md.org
-trulyergonomic.com
-.truth101.co.tv
-||truth101.co.tv
-.truthontour.org
-||truthontour.org
-||truthsocial.com
-.truveo.com
-.tsctv.net
-.tsemtulku.com
-tsquare.tv
-.tsu.org.tw
-tsunagarumon.com
-!--|http://www.tsuru-bird.net/
-.tsctv.net
-||tt1069.com
-.tttan.com
-||tttan.com
-bb.ttv.com.tw/bb
-tu8964.com
-.tubaholic.com
-.tube.com
-tube8.com
-||tube8.com
-.tube911.com
-||tube911.com
-.tubecup.com
-.tubegals.com
-.tubeislam.com
-|http://tubeislam.com
-.tubestack.com
-||tubewolf.com
-.tuibeitu.net
-tuidang.net
-.tuidang.org
-||tuidang.org
-.tuidang.se
-bbs.tuitui.info
-.tumutanzi.com
-|http://tumutanzi.com
-||tumview.com
-.tunein.com
-|http://tunein.com
-||tunnelbear.com
-||tunnelblick.net
-.tunnelr.com
-||tunnelr.com
-||tunsafe.com
-tuitwit.com
-.turansam.org
-.turbobit.net
-||turbobit.net
-.turbohide.com
-||turbohide.com
-||turkistantimes.com
-.tushycash.com
-|http://tushycash.com
-||app.tutanota.com
-.tuvpn.com
-||tuvpn.com
-|http://tuzaijidi.com
-|http://*.tuzaijidi.com
-.tw01.org
-|http://tw01.org
-
-!---Tumblr---
-.tumblr.com
-||tumblr.com
-!--@@||assets.tumblr.com
-!--@@||data.tumblr.com
-!--@@||media.tumblr.com
-!--@@||static.tumblr.com
-!--@@||www.tumblr.com
-||lecloud.net
-|http://cosmic.monar.ch
-||slutmoonbeam.com
-|http://blog.soylent.com
-
-.tv.com
-|http://tv.com
-tvants.com
-forum.tvb.com
-news.tvb.com/list/world
-news.tvb.com/local
-news.tvbs.com.tw
-.tvboxnow.com
-|http://tvboxnow.com/
-tvider.com
-.tvmost.com.hk
-.tvplayvideos.com
-||tvunetworks.com
-.tw-blog.com
-|https://tw-blog.com
-.tw-npo.org
-.twaitter.com
-twapperkeeper.com
-||twapperkeeper.com
-||twaud.io
-.twaud.io
-.twavi.com
-.twbbs.net.tw
-twbbs.org
-twbbs.tw
-||twblogger.com
-tweepmag.com
-.tweepml.org
-||tweepml.org
-.tweetbackup.com
-||tweetbackup.com
-tweetboard.com
-||tweetboard.com
-.tweetboner.biz
-||tweetboner.biz
-.tweetcs.com
-|http://tweetcs.com
-|http://deck.ly
-!-- Operation discontinued
-!--||tweete.net
-!--m.tweete.net
-||mtw.tl
-||tweetedtimes.com
-!-- Operation discontinued
-!--tweetmeme.com
-||tweetmylast.fm
-tweetphoto.com
-||tweetphoto.com
-||tweetrans.com
-tweetree.com
-||tweetree.com
-.tweettunnel.com
-||tweettunnel.com
-||tweetwally.com
-tweetymail.com
-||twelve.today
-.tweez.net
-|http://tweez.net
-||twftp.org
-||twgreatdaily.com
-twibase.com
-.twibble.de
-||twibble.de
-twibbon.com
-||twibs.com
-.twicountry.org
-|http://twicountry.org
-twicsy.com
-.twiends.com
-|http://twiends.com
-.twifan.com
-|http://twifan.com
-twiffo.com
-||twiffo.com
-.twilightsex.com
-twilog.org
-twimbow.com
-||twindexx.com
-twipple.jp
-||twipple.jp
-||twip.me
-twishort.com
-||twishort.com
-twistar.cc
-||twister.net.co
-||twisterio.com
-twisternow.com
-twistory.net
-twitbrowser.net
-||twitcause.com
-||twitgether.com
-||twiggit.org
-twitgoo.com
-twitiq.com
-||twitiq.com
-.twitlonger.com
-||twitlonger.com
-|http://tl.gd/
-twitmania.com
-twitoaster.com
-||twitoaster.com
-||twitonmsn.com
-!--Same IP
-.twit2d.com
-||twit2d.com
-.twitstat.com
-||twitstat.com
-||firstfivefollowers.com
-||retweeteffect.com
-||tweeplike.me
-||tweepguide.com
-||turbotwitter.com
-.twitvid.com
-||twitvid.com
-|http://twt.tl
-twittbot.net
-||ads-twitter.com
-||twttr.com
-||twitter4j.org
-.twittercounter.com
-||twittercounter.com
-twitterfeed.com
-.twittergadget.com
-||twittergadget.com
-.twitterkr.com
-||twitterkr.com
-||twittermail.com
-||twitterrific.com
-twittertim.es
-||twittertim.es
-twitthat.com
-||twitturk.com
-.twitturly.com
-||twitturly.com
-.twitzap.com
-twiyia.com
-||twstar.net
-.twtkr.com
-|http://twtkr.com
-.twnorth.org.tw
-||twreporter.org
-twskype.com
-twtrland.com
-twurl.nl
-.twyac.org
-||twyac.org
-.txxx.com
-.tycool.com
-||tycool.com
-
-!--typepad
-||typepad.com
-@@||www.typepad.com
-@@||static.typepad.com
-||blog.expofutures.com
-||legaltech.law.com
-||blogs.tampabay.com
-||contests.twilio.com
-!-lawprofessors.typepad.com/china_law_prof
-||typora.io
-
-!--------------------UU-------------------------
-.u9un.com
-||u9un.com
-.ubddns.org
-|http://ubddns.org
-||uberproxy.net
-.uc-japan.org
-||uc-japan.org
-.srcf.ucam.org/salon/
-|http://china.ucanews.com/
-||ucdc1998.org
-|http://hum*.uchicago.edu/faculty/ywang/history
-||uderzo.it
-.udn.com
-||udn.com
-||udn.com.tw
-udnbkk.com/bbs
-||uforadio.com.tw
-ufreevpn.com
-.ugo.com
-!--ghs
-||uhdwallpapers.org
-||uhrp.org
-.uighur.nl
-||uighur.nl
-uighurbiz.net
-.ulike.net
-ukcdp.co.uk
-ukliferadio.co.uk
-||ukliferadio.co.uk
-ultravpn.fr
-||ultravpn.fr
-ultraxs.com
-umich.edu/~falun
-||unblock.cn.com
-.unblocker.yt
-unblock-us.com
-||unblock-us.com
-.unblockdmm.com
-|http://unblockdmm.com
-||unblocksit.es
-uncyclomedia.org
-.uncyclopedia.hk/wiki
-|http://uncyclopedia.hk
-!--uncyclopedia.info
-|http://uncyclopedia.tw
-underwoodammo.com
-||underwoodammo.com
-||unholyknight.com
-.uni.cc
-||cldr.unicode.org
-.unification.net
-.unification.org.tw
-||unirule.cloud
-.unitedsocialpress.com
-.unix100.com
-||unknownspace.org
-.unodedos.com
-unpo.org
-||unstable.icu
-.untraceable.us
-|http://untraceable.us
-||uocn.org
-tor.updatestar.com
-||upghsbc.com
-.upholdjustice.org
-.upload4u.info
-uploaded.net/file
-|http://uploaded.net/file
-|http://uploaded.to/file
-.uploadstation.com/file
-.upmedia.mg
-||upmedia.mg
-.upornia.com
-|http://upornia.com
-||uproxy.org
-||uptodown.com
-.upwill.org
-ur7s.com
-||urbandictionary.com
-||urbansurvival.com
-myshare.url.com.tw/
-||urlborg.com
-||urlparser.com
-us.to
-||usacn.com
-.usaip.eu
-||usaip.eu
-dalailama.usc.edu
-||usma.edu
-.usocctn.com
-||ustibetcommittee.org
-.ustream.tv
-||ustream.tv
-usus.cc
-.utopianpal.com
-||utopianpal.com
-.uu-gg.com
-.uvwxyz.xyz
-||uvwxyz.xyz
-.uwants.com
-||uwants.com
-.uwants.net
-uyghur.co.uk
-|http://uyghur-j.org
-||uyghuraa.org
-||uyghuramerican.org
-||uyghurbiz.org
-||uyghurcanadian.ca
-||uyghurcongress.org
-||uyghurpen.org
-||uyghurpress.com
-||uyghurstudies.org
-||uyghurtribunal.com
-uygur.org
-|http://uymaarip.com/
-
-!--------------------VV-------------------------
-||v2fly.org
-.v2ray.com
-||v2ray.com
-||v2raycn.com
-||v2raytech.com
-||valeursactuelles.com
-.van001.com
-.van698.com
-.vanemu.cn
-.vanilla-jp.com
-.vanpeople.com
-vansky.com
-||vaticannews.va
-||vcf-online.org
-||vcfbuilder.org
-.vegasred.com
-.velkaepocha.sk
-.venbbs.com
-.venchina.com
-.venetianmacao.com
-||venetianmacao.com
-veoh.com
-mysite.verizon.net
-vermonttibet.org
-.versavpn.com
-||versavpn.com
-||verybs.com
-.vft.com.tw
-.viber.com
-||viber.com
-.vica.info
-.victimsofcommunism.org
-|http://victimsofcommunism.org
-||vid.me
-||vidble.com
-videobam.com
-||videobam.com
-.videodetective.com
-.videomega.tv
-||videomega.tv
-.videomo.com
-videopediaworld.com
-.videopress.com
-.vidinfo.org/video
-vietdaikynguyen.com
-.vijayatemple.org
-||vilavpn.com
-vimeo.com
-||vimeo.com
-||vimperator.org
-||vincnd.com
-||vinniev.com
-|http://www.lib.virginia.edu/area-studies/Tibet/tibet.html
-.virtualrealporn.com
-||virtualrealporn.com
-visibletweets.com
-|http://ny.visiontimes.com
-.vital247.org
-||viu.com
-.vivahentai4u.net
-.vivatube.com
-.vivthomas.com
-||vivthomas.com
-.vjav.com
-||vjav.com
-.vjmedia.com.hk
-.vllcs.org
-|http://vllcs.org
-||vmixcore.com
-||vnet.link
-.vocativ.com
-vocn.tv
-||vocus.cc
-||voicettank.org
-.vot.org
-||vot.org
-.vovo2000.com
-|http://vovo2000.com
-.voxer.com
-||voxer.com
-.voy.com
-||vpn.ac
-.vpn4all.com
-||vpn4all.com
-.vpnaccount.org
-|http://vpnaccount.org
-.vpnaccounts.com
-||vpnaccounts.com
-.vpncomparison.org
-.vpncup.com
-||vpncup.com
-vpnbook.com
-.vpncoupons.com
-|http://vpncoupons.com
-.vpndada.com
-||vpndada.com
-.vpnfan.com
-vpnfire.com
-.vpnfires.biz
-.vpnforgame.net
-||vpnforgame.net
-||vpngate.jp
-.vpngate.net
-||vpngate.net
-.vpngratis.net
-vpnhq.com
-||vpnhub.com
-.vpnmaster.com
-||vpnmaster.com
-.vpnmentor.com
-||vpnmentor.com
-.vpninja.net
-||vpninja.net
-.vpnintouch.com
-||vpnintouch.net
-vpnjack.com
-||vpnjack.com
-.vpnpick.com
-||vpnpick.com
-||vpnpop.com
-||vpnpronet.com
-.vpnreactor.com
-||vpnreactor.com
-||vpnreviewz.com
-.vpnsecure.me
-||vpnsecure.me
-.vpnshazam.com
-||vpnshazam.com
-.vpnshieldapp.com
-||vpnshieldapp.com
-.vpnsp.com
-.vpntraffic.com
-.vpntunnel.com
-||vpntunnel.com
-.vpnuk.info
-||vpnuk.info
-||vpnunlimitedapp.com
-.vpnvip.com
-||vpnvip.com
-.vpnworldwide.com
-.vporn.com
-||vporn.com
-.vpser.net
-@@||vpser.net
-vraiesagesse.net
-.vrmtr.com
-||vtunnel.com
-||vuku.cc
-
-!--------------------WW-------------------------
-lists.w3.org/archives/public
-||w3schools.com
-||waffle1999.com
-.wahas.com
-.waigaobu.com
-waikeung.org/php_wind
-.wailaike.net
-||wainao.me
-.waiwaier.com
-|http://waiwaier.com
-||wallmama.com
-wallornot.org
-||wallpapercasa.com
-.wallproxy.com
-@@||wallproxy.com.cn
-||wallsttv.com
-||waltermartin.com
-||waltermartin.org
-||www.wan-press.org
-||wanderinghorse.net
-||wangafu.net
-||wangjinbo.org
-.wangjinbo.org
-wanglixiong.com
-.wango.org
-||wango.org
-wangruoshui.net
-www.wangruowang.org
-||want-daily.com
-wapedia.mobi/zhsimp
-||warroom.org
-||waselpro.com
-.watchinese.com
-||watchout.tw
-.wattpad.com
-||wattpad.com
-.makzhou.warehouse333.com
-washeng.net
-.watch8x.com
-||watchmygf.net
-||wav.tv
-.wdf5.com
-.wearehairy.com
-.wearn.com
-||wearn.com
-|http://hkcoc.weather.com.hk
-||hudatoriq.web.id
-||web2project.net
-webbang.net
-.webevader.org
-.webfreer.com
-weblagu.com
-.webjb.org
-.webrush.net
-webs-tv.net
-.websitepulse.com/help/testtools.china-test
-|http://www.websnapr.com
-.webwarper.net
-|http://webwarper.net
-webworkerdaily.com
-||wechatlawsuit.com
-.weekmag.info
-||wefightcensorship.org
-.wefong.com
-weiboleak.com
-.weihuo.org
-weijingsheng.org
-.weiming.info
-||weiming.info
-weiquanwang.org
-|http://weisuo.ws
-.welovecock.com
-||welt.de
-.wemigrate.org
-|http://wemigrate.org
-wengewang.com
-||wengewang.org
-.wenhui.ch
-|http://trans.wenweipo.com/gb/
-.wenxuecity.com
-||wenxuecity.com
-.wenyunchao.com
-||wenyunchao.com
-.westca.com
-||westca.com
-||westernwolves.com
-.westkit.net
-||westpoint.edu
-.westernshugdensociety.org
-wetpussygames.com
-.wetplace.com
-wexiaobo.org
-||wexiaobo.org
-wezhiyong.org
-||wezone.net
-.wforum.com
-||wforum.com/
-.whatblocked.com
-||whatblocked.com
-.wheatseeds.org
-||wheelockslatin.com
-.whippedass.com
-!--|http://who.is/
-.whoer.net
-||whoer.net
-whotalking.com
-whylover.com
-||whyx.org
-||wikileaks.ch
-||wikileaks.com
-||wikileaks.de
-||wikileaks.eu
-||wikileaks.lu
-.wikileaks.org
-||wikileaks.org
-||wikileaks.pl
-.wikileaks-forum.com
-wildammo.com
-.williamhill.com
-||collateralmurder.com
-||collateralmurder.org
-wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
-||wikimapia.org
-.wikiwand.com
-||wikiwand.com
-||wikiwiki.jp
-||casino.williamhill.com
-||sports.williamhill.com
-||vegas.williamhill.com
-||willw.net
-||windowsphoneme.com
-.windscribe.com
-||windscribe.com
-||community.windy.com
-||wingy.site
-.winning11.com
-winwhispers.info
-||wionews.com
-||wiredbytes.com
-||wiredpen.com
-||wireguard.com
-!--||wireshark.org
-.wisdompubs.org
-.wisevid.com
-||wisevid.com
-||whispersystems.org
-.witnessleeteaching.com
-.witopia.net
-.wjbk.org
-||wjbk.org
-|http://wn.com
-.wnacg.com
-.wnacg.org
-.wo.tc
-||woeser.com
-|http://woesermiddle-way.net/
-.wokar.org
-|http://wokar.org
-wolfax.com
-||wolfax.com
-||wombo.ai
-||woolyss.com
-woopie.jp
-||woopie.jp
-woopie.tv
-||woopie.tv
-||workatruna.com
-.workerdemo.org.hk
-.workerempowerment.org
-||workersthebig.net
-.worldcat.org
-worldjournal.com
-.worldvpn.net
-||worldvpn.net
-
-||videopress.com
-.wordpress.com
-|http://*.wordpress.com
-||chenshan20042005.wordpress.com
-||chinaview.wordpress.com
-||cnbbnews.wordpress.com
-||freedominfonetweb.wordpress.com
-||hka8964.wordpress.com
-||hkanews.wordpress.com
-||hqsbnet.wordpress.com
-||hqsbonline.wordpress.com
-||investigating.wordpress.com
-||jobnewera.wordpress.com
-||matthewdgreen.wordpress.com
-||minghuiyw.wordpress.com
-||wo3ttt.wordpress.com
-||sujiatun.wordpress.com
-||xijie.wordpress.com
-||wp.com
-
-!-||wormsculptor.com
-.wow.com
-.wow-life.net
-||wowlegacy.ml
-||wowporn.com
-||wowgirls.com
-.wowrk.com
-woxinghuiguo.com
-.woyaolian.org
-|http://woyaolian.org
-.wpoforum.com
-||wpoforum.com
-.wqyd.org
-||wqyd.org
-wrchina.org
-wretch.cc
-!-cn.wsj.com/gb/20130215/tec113853.asp
-.wsj.com
-||wsj.com
-.wsj.net
-||wsj.net
-.wsjhk.com
-.wtbn.org
-.wtfpeople.com
-wuerkaixi.com
-||wufafangwen.com
-wufi.org.tw
-||wuguoguang.com
-wujie.net
-wujieliulan.com
-||wujieliulan.com
-wukangrui.net
-||wuw.red
-||wuyanblog.com
-.wwitv.com
-||wwitv.com
-wzyboy.im/post/160
-
-!--------------------XX-------------------------
-||x.co
-.x-berry.com
-||x-berry.com
-||x-art.com
-||x-wall.org
-x1949x.com
-x365x.com
-xanga.com
-||xbabe.com
-.xbookcn.com
-||xbookcn.com
-||xcafe.in
-||xcity.jp
-.xcritic.com
-|http://cdn*.xda-developers.com
-.xerotica.com
-destiny.xfiles.to/ubbthreads
-.xfm.pp.ru
-.xgmyd.com
-||xgmyd.com
-xhamster.com
-||xhamster.com
-.xianba.net
-.xianchawang.net
-.xianjian.tw
-|http://xianjian.tw
-.xianqiao.net
-.xiaobaiwu.com
-.xiaochuncnjp.com
-.xiaod.in
-.xiaohexie.com
-||xiaolan.me
-||xiaoma.org
-||xiaohexie.com
-||xiaxiaoqiang.net
-xiezhua.com
-.xihua.es
-forum.xinbao.de/forum
-.xing.com
-|http://xing.com
-.xinmiao.com.hk
-||xinmiao.com.hk
-xinsheng.net
-xinshijue.com
-xinhuanet.org
-|http://xinyubbs.net
-.xiongpian.com
-.xiuren.org
-||xixicui.icu
-xizang-zhiye.org
-xjp.cc
-||xjp.cc
-||xjtravelguide.com
-xlfmtalk.com
-||xlfmwz.info
-||xml-training-guide.com
-xmovies.com
-||xnxx.com
-!--||xnxx-cdn.com
-xpdo.net
-||xpud.org
-.xrentdvd.com
-.xskywalker.net
-||xtube.com
-blog.xuite.net
-vlog.xuite.net
-xuzhiyong.net
-||xuchao.org
-xuchao.net
-||xuchao.net
-xvideo.cc
-.xvideos.com
-||xvideos.com
-||xvideos-cdn.com
-||xvideos.es
-||xvbelink.com
-||xvinlink.com
-.xkiwi.tk/
-||xsden.info
-.xxbbx.com
-.xxlmovies.com
-||xxx.com
-.xxx.xxx
-|http://xxx.xxx
-.xxxfuckmom.com
-||xxxx.com.au
-.xxxymovies.com
-|http://xxxymovies.com
-xys.org
-xysblogs.org
-xyy69.com
-xyy69.info
-
-!--------------------YY-------------------------
-||y2mate.com
-||yadi.sk
-||yakbutterblues.com
-||yam.com
-||yam.org.tw
-||yande.re
-||disk.yandex.com
-.yanghengjun.com
-yangjianli.com
-.yasni.co.uk
-||yasni.co.uk
-!--||yasukuni.or.jp
-.yayabay.com/forum
-||news.ycombinator.com
-.ydy.com
-.yeahteentube.com
-||yeahteentube.com
-||yecl.net
-||yeelou.com
-||yeeyi.com
-yegle.net
-||yegle.net
-.yes.xxx
-||yes123.com.tw
-||yesasia.com
-||yesasia.com.hk
-.yes-news.com
-|http://yes-news.com
-.yespornplease.com
-||yespornplease.com
-|http://yeyeclub.com
-!--yfrog.com
-||yhcw.net
-.yibada.com
-.yibaochina.com
-.yidio.com
-||yidio.com
-||yigeni.com
-yilubbs.com
-xa.yimg.com
-.yingsuoss.com
-.yipub.com
-||yipub.com
-yinlei.org/mt
-||yiyechat.com
-.yizhihongxing.com
-.yobt.com
-.yobt.tv
-||yobt.tv
-.yogichen.org
-||yogichen.org
-.yolasite.com
-.yomiuri.co.jp
-yong.hu
-.yorkbbs.ca
-||youxu.info
-.youjizz.com
-||youjizz.com
-.youmaker.com
-||youmaker.com
-.youngpornvideos.com
-youngspiration.hk
-.youpai.org
-||youpai.org
-.your-freedom.net
-||yourepeat.com
-.yourprivatevpn.com
-||yourprivatevpn.com
-.yousendit.com
-||yousendit.com
-||youthforfreechina.org
-.youthnetradio.org/tmit/forum
-blog.youthwant.com.tw
-me.youthwant.com.tw
-share.youthwant.com.tw
-topic.youthwant.com.tw
-.youporn.com
-||youporn.com
-.youporngay.com
-||youporngay.com
-.yourlisten.com
-|http://yourlisten.com
-.yourlust.com
-|http://yourlust.com
-youshun12.com
-.youtubecn.com
-youversion.com
-||youversion.com
-blog.youxu.info/2010/03/14/west-chamber
-ytht.net
-yuanming.net
-.yuanzhengtang.org
-.yulghun.com
-||yunchao.net
-||yuntipub.com
-.yuvutu.com
-||yvesgeleyn.com
-.ywpw.com/forums/history/post/A0/p0/html/227
-yx51.net
-.yyii.org
-||yyii.org
-||yyjlymb.xyz
-.yzzk.com
-||yzzk.com
-
-!--------------------ZZ-------------------------
-||z-lib.org
-zacebook.com
-.zalmos.com
-||zalmos.com
-||zannel.com
-.zaobao.com
-||zaobao.com
-|http://zaobao.com.sg
-||zaobao.com.sg
-.zaozon.com
-||zdnet.com.tw
-.zello.com
-||zello.com
-.zengjinyan.org
-.zenmate.com
-||zenmate.com
-||zenmate.com.ru
-||zerohedge.com
-||zeronet.io
-||zeutch.com
-!--www.zfreet.com/post/usejump-browns.html
-.zfreet.com
-.zgsddh.com
-zgzcjj.net
-.zhanbin.net
-||zhanbin.net
-.zhangboli.net
-||zhangtianliang.com
-||zhanlve.org
-zhenghui.org
-.zhengjian.org
-||zhengjian.org
-zhengwunet.org
-zhenlibu.info
-||zhenlibu.info
-.zhenlibu1984.com
-||zhenlibu1984.com
-|http://zhenxiang.biz
-.zhinengluyou.com
-zhongguo.ca
-|http://zhongguorenquan.org
-zhongguotese.net
-||zhongguotese.net
-||zhongmeng.org
-.zhoushuguang.com
-||zhreader.com
-.zhuangbi.me
-||zhuangbi.me
-.zhuanxing.cn
-||zhuatieba.com
-zhuichaguoji.org
-||zhuichaguoji.org
-||zi.media
-|http://book.zi5.me
-.ziddu.com/download
-||zillionk.com
-.zinio.com
-||zinio.com
-.ziporn.com
-.zippyshare.com
-.zkaip.com
-||zkaip.com
-realforum.zkiz.com
-!--||zlib.net
-||zmw.cn
-.zodgame.us
-zomobo.net
-.zonaeuropa.com
-||zonaeuropa.com
-||zonghexinwen.com
-.zonghexinwen.net
-||zoogvpn.com
-||zootool.com
-.zoozle.net
-||zophar.net
-writer.zoho.com
-||zorrovpn.com
-||zpn.im
-||zspeeder.me
-.zsrhao.com
-.zuo.la
-||zuo.la
-||zuobiao.me
-.zuola.com
-||zuola.com
-||zvereff.com
-||zyxel.com
-.zynaima.com
-zyzc9.com
-.zzcartoon.com
-!##############General List End#################
-
-!###########Supplemental List Start#############
-!-----------------URL Keywords------------------
-64memo
-aHR0cHM6Ly95ZWNsLm5ldA
-freenet
-.google.*/falun
-phobos.apple.com*/video
-q=freedom
-q%3Dfreedom
-remembering_tiananmen_20_years
-search*safeweb
-q=triangle
-q%3DTriangle
-ultrareach
-ultrasurf
-!#############Supplemental List End#############
-
-!################Whitelist Start################
-@@||aliyun.com
-@@||baidu.com
-!--@@||bing.com
-@@||chinaso.com
-@@||chinaz.com
-@@|http://nrch.culture.tw/
-
-!---Some are powered by GuXiang (BGP), please comment off if
-!---you encounter connectivity issues.
-@@||adservice.google.com
-!--ISP cache works sometimes, verified at drpeng + gehua.
-@@||dl.google.com
-@@||kh.google.com
-@@||khm.google.com
-@@||khm0.google.com
-@@||khm1.google.com
-@@||khm2.google.com
-@@||khm3.google.com
-@@||khmdb.google.com
-@@||tools.google.com
-@@||clientservices.googleapis.com
-@@||fonts.googleapis.com
-@@||khm.googleapis.com
-@@||khm0.googleapis.com
-@@||khm1.googleapis.com
-@@||khm2.googleapis.com
-@@||khm3.googleapis.com
-@@||khmdb.googleapis.com
-@@||storage.googleapis.com
-@@||translate.googleapis.com
-@@||update.googleapis.com
-@@||safebrowsing.googleapis.com
-@@||cn.gravatar.com
-@@||connectivitycheck.gstatic.com
-@@||csi.gstatic.com
-@@||fonts.gstatic.com
-@@||ssl.gstatic.com
-@@||haosou.com
-@@||ip.cn
-@@||jike.com
-@@|http://translate.google.cn
-@@|http://www.google.cn/maps
-@@||http2.golang.org
-@@||gov.cn
-@@||qq.com
-@@||sina.cn
-@@||sina.com.cn
-@@||sogou.com
-@@||so.com
-@@||soso.com
-@@||uluai.com.cn
-@@||weibo.com
-@@||yahoo.cn
-@@||youdao.com
-@@||zhongsou.com
-@@|http://ime.baidu.jp
-!################Whitelist End##################
-!---------------------EOF-----------------------
+// Generated by gfwlist2pac
+// https://github.com/clowwindy/gfwlist2pac
+
+var proxy = "SOCKS5 127.0.0.1:1080;";
+
+var domains = {
+  "000webhost.com": 1,
+  "030buy.com": 1,
+  "0rz.tw": 1,
+  "1-apple.com.tw": 1,
+  "10.tt": 1,
+  "1000giri.net": 1,
+  "100ke.org": 1,
+  "10beasts.net": 1,
+  "10conditionsoflove.com": 1,
+  "10musume.com": 1,
+  "123rf.com": 1,
+  "12bet.com": 1,
+  "12vpn.com": 1,
+  "12vpn.net": 1,
+  "1337x.to": 1,
+  "138.com": 1,
+  "141hongkong.com": 1,
+  "141jj.com": 1,
+  "141tube.com": 1,
+  "1688.com.au": 1,
+  "173ng.com": 1,
+  "177pic.info": 1,
+  "17t17p.com": 1,
+  "18board.com": 1,
+  "18board.info": 1,
+  "18onlygirls.com": 1,
+  "18p2p.com": 1,
+  "18virginsex.com": 1,
+  "1949er.org": 1,
+  "1984bbs.com": 1,
+  "1984bbs.org": 1,
+  "1991way.com": 1,
+  "1998cdp.org": 1,
+  "1bao.org": 1,
+  "1dumb.com": 1,
+  "1e100.net": 1,
+  "1eew.com": 1,
+  "1mobile.com": 1,
+  "1pondo.tv": 1,
+  "2-hand.info": 1,
+  "2000fun.com": 1,
+  "2008xianzhang.info": 1,
+  "2017.hk": 1,
+  "2021hkcharter.com": 1,
+  "2047.name": 1,
+  "21andy.com": 1,
+  "21join.com": 1,
+  "21pron.com": 1,
+  "21sextury.com": 1,
+  "228.net.tw": 1,
+  "233abc.com": 1,
+  "24hrs.ca": 1,
+  "24smile.org": 1,
+  "25u.com": 1,
+  "2lipstube.com": 1,
+  "2shared.com": 1,
+  "2waky.com": 1,
+  "3-a.net": 1,
+  "30boxes.com": 1,
+  "315lz.com": 1,
+  "32red.com": 1,
+  "36rain.com": 1,
+  "3a5a.com": 1,
+  "3arabtv.com": 1,
+  "3boys2girls.com": 1,
+  "3d-game.com": 1,
+  "3proxy.ru": 1,
+  "3ren.ca": 1,
+  "3tui.net": 1,
+  "404museum.com": 1,
+  "43110.cf": 1,
+  "466453.com": 1,
+  "4bluestones.biz": 1,
+  "4chan.com": 1,
+  "4dq.com": 1,
+  "4everproxy.com": 1,
+  "4irc.com": 1,
+  "4mydomain.com": 1,
+  "4pu.com": 1,
+  "4rbtv.com": 1,
+  "4shared.com": 1,
+  "50webs.com": 1,
+  "51.ca": 1,
+  "51jav.org": 1,
+  "51luoben.com": 1,
+  "5278.cc": 1,
+  "5299.tv": 1,
+  "5aimiku.com": 1,
+  "5i01.com": 1,
+  "5isotoi5.org": 1,
+  "5maodang.com": 1,
+  "63i.com": 1,
+  "64museum.org": 1,
+  "64tianwang.com": 1,
+  "64wiki.com": 1,
+  "66.ca": 1,
+  "666kb.com": 1,
+  "6park.com": 1,
+  "6parkbbs.com": 1,
+  "6parker.com": 1,
+  "6parknews.com": 1,
+  "7-zip.org": 1,
+  "7capture.com": 1,
+  "7cow.com": 1,
+  "8-d.com": 1,
+  "85cc.net": 1,
+  "85cc.us": 1,
+  "85st.com": 1,
+  "881903.com": 1,
+  "888.com": 1,
+  "888poker.com": 1,
+  "89-64.org": 1,
+  "8964museum.com": 1,
+  "8news.com.tw": 1,
+  "8z1.net": 1,
+  "9001700.com": 1,
+  "908taiwan.org": 1,
+  "91porn.com": 1,
+  "91vps.club": 1,
+  "92ccav.com": 1,
+  "991.com": 1,
+  "99btgc01.com": 1,
+  "99cn.info": 1,
+  "9bis.com": 1,
+  "9bis.net": 1,
+  "9cache.com": 1,
+  "9gag.com": 1,
+  "9news.com.au": 1,
+  "a-normal-day.com": 1,
+  "a5.com.ru": 1,
+  "aamacau.com": 1,
+  "abc.com": 1,
+  "abc.net.au": 1,
+  "abc.pp.ru": 1,
+  "abc.xyz": 1,
+  "abchinese.com": 1,
+  "abclite.net": 1,
+  "abebooks.com": 1,
+  "ablwang.com": 1,
+  "aboluowang.com": 1,
+  "aboutgfw.com": 1,
+  "abs.edu": 1,
+  "accim.org": 1,
+  "accountkit.com": 1,
+  "aceros-de-hispania.com": 1,
+  "acevpn.com": 1,
+  "acg18.me": 1,
+  "acgbox.org": 1,
+  "acgkj.com": 1,
+  "acgnx.se": 1,
+  "acmedia365.com": 1,
+  "acmetoy.com": 1,
+  "acnw.com.au": 1,
+  "actfortibet.org": 1,
+  "actimes.com.au": 1,
+  "activpn.com": 1,
+  "aculo.us": 1,
+  "adcex.com": 1,
+  "addictedtocoffee.de": 1,
+  "addyoutube.com": 1,
+  "adelaidebbs.com": 1,
+  "admob.com": 1,
+  "adpl.org.hk": 1,
+  "ads-twitter.com": 1,
+  "adsense.com": 1,
+  "adult-sex-games.com": 1,
+  "adultfriendfinder.com": 1,
+  "adultkeep.net": 1,
+  "advanscene.com": 1,
+  "advertfan.com": 1,
+  "advertisercommunity.com": 1,
+  "ae.org": 1,
+  "aenhancers.com": 1,
+  "aex.com": 1,
+  "af.mil": 1,
+  "afantibbs.com": 1,
+  "afr.com": 1,
+  "afreecatv.com": 1,
+  "agnesb.fr": 1,
+  "agoogleaday.com": 1,
+  "agro.hk": 1,
+  "ai-kan.net": 1,
+  "ai-wen.net": 1,
+  "aiph.net": 1,
+  "airasia.com": 1,
+  "airconsole.com": 1,
+  "aircrack-ng.org": 1,
+  "airvpn.org": 1,
+  "aisex.com": 1,
+  "ait.org.tw": 1,
+  "aiweiwei.com": 1,
+  "aiweiweiblog.com": 1,
+  "ajsands.com": 1,
+  "akademiye.org": 1,
+  "akamai.net": 1,
+  "akamaihd.net": 1,
+  "akamaistream.net": 1,
+  "akamaized.net": 1,
+  "akiba-online.com": 1,
+  "akiba-web.com": 1,
+  "akow.org": 1,
+  "al-islam.com": 1,
+  "al-qimmah.net": 1,
+  "alabout.com": 1,
+  "alanhou.com": 1,
+  "alarab.qa": 1,
+  "alasbarricadas.org": 1,
+  "alexlur.org": 1,
+  "alforattv.net": 1,
+  "alhayat.com": 1,
+  "alicejapan.co.jp": 1,
+  "aliengu.com": 1,
+  "alive.bar": 1,
+  "alkasir.com": 1,
+  "all4mom.org": 1,
+  "allcoin.com": 1,
+  "allconnected.co": 1,
+  "alldrawnsex.com": 1,
+  "allervpn.com": 1,
+  "allfinegirls.com": 1,
+  "allgirlmassage.com": 1,
+  "allgirlsallowed.org": 1,
+  "allgravure.com": 1,
+  "alliance.org.hk": 1,
+  "allinfa.com": 1,
+  "alljackpotscasino.com": 1,
+  "allmovie.com": 1,
+  "allowed.org": 1,
+  "almasdarnews.com": 1,
+  "almostmy.com": 1,
+  "alphaporno.com": 1,
+  "alternate-tools.com": 1,
+  "alternativeto.net": 1,
+  "altrec.com": 1,
+  "alvinalexander.com": 1,
+  "alwaysdata.com": 1,
+  "alwaysdata.net": 1,
+  "alwaysvpn.com": 1,
+  "am730.com.hk": 1,
+  "amazon.co.jp": 1,
+  "amazon.com": 1,
+  "amazonaws.com": 1,
+  "ameblo.jp": 1,
+  "america.gov": 1,
+  "american.edu": 1,
+  "americangreencard.com": 1,
+  "americanunfinished.com": 1,
+  "americorps.gov": 1,
+  "amiblockedornot.com": 1,
+  "amigobbs.net": 1,
+  "amitabhafoundation.us": 1,
+  "amnesty.org": 1,
+  "amnesty.org.hk": 1,
+  "amnesty.tw": 1,
+  "amnestyusa.org": 1,
+  "amnyemachen.org": 1,
+  "amoiist.com": 1,
+  "ampproject.org": 1,
+  "amtb-taipei.org": 1,
+  "anchor.fm": 1,
+  "anchorfree.com": 1,
+  "ancsconf.org": 1,
+  "andfaraway.net": 1,
+  "android-x86.org": 1,
+  "android.com": 1,
+  "androidify.com": 1,
+  "androidplus.co": 1,
+  "androidtv.com": 1,
+  "andygod.com": 1,
+  "angela-merkel.de": 1,
+  "angelfire.com": 1,
+  "angola.org": 1,
+  "angularjs.org": 1,
+  "animecrazy.net": 1,
+  "aniscartujo.com": 1,
+  "annatam.com": 1,
+  "anobii.com": 1,
+  "anontext.com": 1,
+  "anonymise.us": 1,
+  "anonymitynetwork.com": 1,
+  "anonymizer.com": 1,
+  "anonymouse.org": 1,
+  "anpopo.com": 1,
+  "answering-islam.org": 1,
+  "antd.org": 1,
+  "anthonycalzadilla.com": 1,
+  "anti1984.com": 1,
+  "antichristendom.com": 1,
+  "antiwave.net": 1,
+  "anyporn.com": 1,
+  "anysex.com": 1,
+  "ao3.org": 1,
+  "aobo.com.au": 1,
+  "aofriend.com": 1,
+  "aofriend.com.au": 1,
+  "aojiao.org": 1,
+  "aol.ca": 1,
+  "aol.com": 1,
+  "aolnews.com": 1,
+  "aomiwang.com": 1,
+  "ap.org": 1,
+  "apartmentratings.com": 1,
+  "apartments.com": 1,
+  "apat1989.org": 1,
+  "apetube.com": 1,
+  "api.ai": 1,
+  "apiary.io": 1,
+  "apigee.com": 1,
+  "apk-dl.com": 1,
+  "apk.support": 1,
+  "apkcombo.com": 1,
+  "apkmirror.com": 1,
+  "apkmonk.com": 1,
+  "apkplz.com": 1,
+  "apkpure.com": 1,
+  "aplusvpn.com": 1,
+  "appbrain.com": 1,
+  "appdownloader.net": 1,
+  "apple.com": 1,
+  "appledaily.com": 1,
+  "appledaily.com.hk": 1,
+  "appledaily.com.tw": 1,
+  "appshopper.com": 1,
+  "appsocks.net": 1,
+  "appspot.com": 1,
+  "appsto.re": 1,
+  "aptoide.com": 1,
+  "archive.fo": 1,
+  "archive.is": 1,
+  "archive.li": 1,
+  "archive.org": 1,
+  "archive.ph": 1,
+  "archive.today": 1,
+  "archiveofourown.com": 1,
+  "archiveofourown.org": 1,
+  "archives.gov": 1,
+  "arctosia.com": 1,
+  "areca-backup.org": 1,
+  "arethusa.su": 1,
+  "arlingtoncemetery.mil": 1,
+  "army.mil": 1,
+  "art4tibet1998.org": 1,
+  "arte.tv": 1,
+  "artofpeacefoundation.org": 1,
+  "artstation.com": 1,
+  "artsy.net": 1,
+  "asacp.org": 1,
+  "asdfg.jp": 1,
+  "asg.to": 1,
+  "asia-gaming.com": 1,
+  "asiaharvest.org": 1,
+  "asianage.com": 1,
+  "asianews.it": 1,
+  "asianfreeforum.com": 1,
+  "asiansexdiary.com": 1,
+  "asianspiss.com": 1,
+  "asianwomensfilm.de": 1,
+  "asiaone.com": 1,
+  "asiatgp.com": 1,
+  "asiatoday.us": 1,
+  "askstudent.com": 1,
+  "askynz.net": 1,
+  "aspi.org.au": 1,
+  "aspistrategist.org.au": 1,
+  "assembla.com": 1,
+  "assimp.org": 1,
+  "astrill.com": 1,
+  "atc.org.au": 1,
+  "atchinese.com": 1,
+  "atdmt.com": 1,
+  "atgfw.org": 1,
+  "athenaeizou.com": 1,
+  "atlanta168.com": 1,
+  "atlaspost.com": 1,
+  "atnext.com": 1,
+  "audionow.com": 1,
+  "authorizeddns.net": 1,
+  "authorizeddns.org": 1,
+  "authorizeddns.us": 1,
+  "autodraw.com": 1,
+  "av-e-body.com": 1,
+  "av.com": 1,
+  "avaaz.org": 1,
+  "avbody.tv": 1,
+  "avcity.tv": 1,
+  "avcool.com": 1,
+  "avdb.in": 1,
+  "avdb.tv": 1,
+  "avfantasy.com": 1,
+  "avg.com": 1,
+  "avgle.com": 1,
+  "avidemux.org": 1,
+  "avmo.pw": 1,
+  "avmoo.com": 1,
+  "avmoo.net": 1,
+  "avmoo.pw": 1,
+  "avoision.com": 1,
+  "avyahoo.com": 1,
+  "axios.com": 1,
+  "axureformac.com": 1,
+  "azerbaycan.tv": 1,
+  "azerimix.com": 1,
+  "azubu.tv": 1,
+  "b-ok.cc": 1,
+  "b0ne.com": 1,
+  "baby-kingdom.com": 1,
+  "babylonbee.com": 1,
+  "babynet.com.hk": 1,
+  "backchina.com": 1,
+  "backpackers.com.tw": 1,
+  "backtotiananmen.com": 1,
+  "badiucao.com": 1,
+  "badjojo.com": 1,
+  "badoo.com": 1,
+  "baidu.jp": 1,
+  "baijie.org": 1,
+  "bailandaily.com": 1,
+  "baixing.me": 1,
+  "bakgeekhome.tk": 1,
+  "banana-vpn.com": 1,
+  "band.us": 1,
+  "bandcamp.com": 1,
+  "bandwagonhost.com": 1,
+  "bangbrosnetwork.com": 1,
+  "bangchen.net": 1,
+  "bangkokpost.com": 1,
+  "bangyoulater.com": 1,
+  "bankmobilevibe.com": 1,
+  "bannedbook.org": 1,
+  "bannednews.org": 1,
+  "banorte.com": 1,
+  "baramangaonline.com": 1,
+  "barenakedislam.com": 1,
+  "barton.de": 1,
+  "bastillepost.com": 1,
+  "bayvoice.net": 1,
+  "baywords.com": 1,
+  "bb-chat.tv": 1,
+  "bbc.com": 1,
+  "bbc.in": 1,
+  "bbcchinese.com": 1,
+  "bbchat.tv": 1,
+  "bbg.gov": 1,
+  "bbkz.com": 1,
+  "bbnradio.org": 1,
+  "bbs-tw.com": 1,
+  "bbsdigest.com": 1,
+  "bbsfeed.com": 1,
+  "bbsland.com": 1,
+  "bbsmo.com": 1,
+  "bbsone.com": 1,
+  "bbtoystore.com": 1,
+  "bcc.com.tw": 1,
+  "bcchinese.net": 1,
+  "bcex.ca": 1,
+  "bcmorning.com": 1,
+  "bdsmvideos.net": 1,
+  "beaconevents.com": 1,
+  "bebo.com": 1,
+  "beeg.com": 1,
+  "beevpn.com": 1,
+  "behance.net": 1,
+  "behindkink.com": 1,
+  "beijing1989.com": 1,
+  "beijingspring.com": 1,
+  "beijingzx.org": 1,
+  "belamionline.com": 1,
+  "bell.wiki": 1,
+  "bemywife.cc": 1,
+  "beric.me": 1,
+  "berlinerbericht.de": 1,
+  "berlintwitterwall.com": 1,
+  "bestforchina.org": 1,
+  "bestgore.com": 1,
+  "bestpornstardb.com": 1,
+  "bestvpn.com": 1,
+  "bestvpnanalysis.com": 1,
+  "bestvpnserver.com": 1,
+  "bestvpnservice.com": 1,
+  "bestvpnusa.com": 1,
+  "bet365.com": 1,
+  "betfair.com": 1,
+  "betternet.co": 1,
+  "bettervpn.com": 1,
+  "bettween.com": 1,
+  "betvictor.com": 1,
+  "bewww.net": 1,
+  "beyondfirewall.com": 1,
+  "bfnn.org": 1,
+  "bfsh.hk": 1,
+  "bgvpn.com": 1,
+  "bianlei.com": 1,
+  "biantailajiao.com": 1,
+  "biantailajiao.in": 1,
+  "biblesforamerica.org": 1,
+  "bibox.com": 1,
+  "bic2011.org": 1,
+  "biedian.me": 1,
+  "bigfools.com": 1,
+  "bigjapanesesex.com": 1,
+  "bigmoney.biz": 1,
+  "bignews.org": 1,
+  "bigone.com": 1,
+  "bigsound.org": 1,
+  "bild.de": 1,
+  "biliworld.com": 1,
+  "billypan.com": 1,
+  "binance.com": 1,
+  "bing.com": 1,
+  "binux.me": 1,
+  "binwang.me": 1,
+  "bird.so": 1,
+  "bit-z.com": 1,
+  "bit.do": 1,
+  "bit.ly": 1,
+  "bitbay.net": 1,
+  "bitchute.com": 1,
+  "bitcointalk.org": 1,
+  "bitcoinworld.com": 1,
+  "bitfinex.com": 1,
+  "bithumb.com": 1,
+  "bitinka.com.ar": 1,
+  "bitmex.com": 1,
+  "bitshare.com": 1,
+  "bitsnoop.com": 1,
+  "bitterwinter.org": 1,
+  "bitvise.com": 1,
+  "bitz.ai": 1,
+  "bizhat.com": 1,
+  "bjnewlife.org": 1,
+  "bjs.org": 1,
+  "bjzc.org": 1,
+  "bl-doujinsouko.com": 1,
+  "blacklogic.com": 1,
+  "blackvpn.com": 1,
+  "blewpass.com": 1,
+  "blingblingsquad.net": 1,
+  "blinkx.com": 1,
+  "blinw.com": 1,
+  "blip.tv": 1,
+  "blockcn.com": 1,
+  "blockedbyhk.com": 1,
+  "blockless.com": 1,
+  "blog.de": 1,
+  "blog.jp": 1,
+  "blogblog.com": 1,
+  "blogcatalog.com": 1,
+  "blogcity.me": 1,
+  "blogdns.org": 1,
+  "blogger.com": 1,
+  "blogimg.jp": 1,
+  "bloglines.com": 1,
+  "bloglovin.com": 1,
+  "blogs.com": 1,
+  "blogspot.com": 1,
+  "blogspot.hk": 1,
+  "blogspot.jp": 1,
+  "blogspot.tw": 1,
+  "blogtd.net": 1,
+  "blogtd.org": 1,
+  "bloodshed.net": 1,
+  "bloomberg.cn": 1,
+  "bloomberg.com": 1,
+  "bloomberg.de": 1,
+  "bloombergview.com": 1,
+  "bloomfortune.com": 1,
+  "blubrry.com": 1,
+  "blueangellive.com": 1,
+  "bmfinn.com": 1,
+  "bnews.co": 1,
+  "bnn.co": 1,
+  "bnrmetal.com": 1,
+  "boardreader.com": 1,
+  "bod.asia": 1,
+  "bodog88.com": 1,
+  "bolehvpn.net": 1,
+  "bonbonme.com": 1,
+  "bonbonsex.com": 1,
+  "bonfoundation.org": 1,
+  "bongacams.com": 1,
+  "boobstagram.com": 1,
+  "book.com.tw": 1,
+  "bookdepository.com": 1,
+  "bookepub.com": 1,
+  "books.com.tw": 1,
+  "booktopia.com.au": 1,
+  "boomssr.com": 1,
+  "borgenmagazine.com": 1,
+  "bot.nu": 1,
+  "botanwang.com": 1,
+  "bowenpress.com": 1,
+  "box.com": 1,
+  "box.net": 1,
+  "boxpn.com": 1,
+  "boxun.com": 1,
+  "boxun.tv": 1,
+  "boxunblog.com": 1,
+  "boxunclub.com": 1,
+  "boyangu.com": 1,
+  "boyfriendtv.com": 1,
+  "boysfood.com": 1,
+  "boysmaster.com": 1,
+  "br.st": 1,
+  "brainyquote.com": 1,
+  "brandonhutchinson.com": 1,
+  "braumeister.org": 1,
+  "brave.com": 1,
+  "bravotube.net": 1,
+  "brazzers.com": 1,
+  "break.com": 1,
+  "breakgfw.com": 1,
+  "breaking911.com": 1,
+  "breakingtweets.com": 1,
+  "breakwall.net": 1,
+  "briefdream.com": 1,
+  "briian.com": 1,
+  "brill.com": 1,
+  "brizzly.com": 1,
+  "brkmd.com": 1,
+  "broadbook.com": 1,
+  "broadpressinc.com": 1,
+  "brockbbs.com": 1,
+  "brookings.edu": 1,
+  "brucewang.net": 1,
+  "brutaltgp.com": 1,
+  "bt2mag.com": 1,
+  "bt95.com": 1,
+  "btaia.com": 1,
+  "btbtav.com": 1,
+  "btc98.com": 1,
+  "btctrade.im": 1,
+  "btdigg.org": 1,
+  "btku.me": 1,
+  "btku.org": 1,
+  "btspread.com": 1,
+  "btsynckeys.com": 1,
+  "budaedu.org": 1,
+  "buddhanet.com.tw": 1,
+  "buddhistchannel.tv": 1,
+  "buffered.com": 1,
+  "bullguard.com": 1,
+  "bullog.org": 1,
+  "bullogger.com": 1,
+  "bunbunhk.com": 1,
+  "busayari.com": 1,
+  "business-humanrights.org": 1,
+  "businessinsider.com": 1,
+  "businessinsider.com.au": 1,
+  "businesstoday.com.tw": 1,
+  "businessweek.com": 1,
+  "busu.org": 1,
+  "busytrade.com": 1,
+  "buugaa.com": 1,
+  "buzzhand.com": 1,
+  "buzzhand.net": 1,
+  "buzzorange.com": 1,
+  "bvpn.com": 1,
+  "bwbx.io": 1,
+  "bwgyhw.com": 1,
+  "bwh1.net": 1,
+  "bwsj.hk": 1,
+  "bx.in.th": 1,
+  "bx.tl": 1,
+  "bybit.com": 1,
+  "bypasscensorship.org": 1,
+  "byrut.org": 1,
+  "c-est-simple.com": 1,
+  "c-span.org": 1,
+  "c-spanvideo.org": 1,
+  "c100tibet.org": 1,
+  "c2cx.com": 1,
+  "cablegatesearch.net": 1,
+  "cachinese.com": 1,
+  "cacnw.com": 1,
+  "cactusvpn.com": 1,
+  "cafepress.com": 1,
+  "cahr.org.tw": 1,
+  "caijinglengyan.com": 1,
+  "calameo.com": 1,
+  "calebelston.com": 1,
+  "calgarychinese.ca": 1,
+  "calgarychinese.com": 1,
+  "calgarychinese.net": 1,
+  "calibre-ebook.com": 1,
+  "caltech.edu": 1,
+  "cam4.com": 1,
+  "cam4.jp": 1,
+  "cam4.sg": 1,
+  "camfrog.com": 1,
+  "campaignforuyghurs.org": 1,
+  "cams.com": 1,
+  "cams.org.sg": 1,
+  "canadameet.com": 1,
+  "canalporno.com": 1,
+  "cantonese.asia": 1,
+  "canyu.org": 1,
+  "cao.im": 1,
+  "caobian.info": 1,
+  "caochangqing.com": 1,
+  "cap.org.hk": 1,
+  "carabinasypistolas.com": 1,
+  "cardinalkungfoundation.org": 1,
+  "careerengine.us": 1,
+  "carfax.com": 1,
+  "cari.com.my": 1,
+  "caribbeancom.com": 1,
+  "carmotorshow.com": 1,
+  "carrd.co": 1,
+  "carryzhou.com": 1,
+  "cartoonmovement.com": 1,
+  "casadeltibetbcn.org": 1,
+  "casatibet.org.mx": 1,
+  "casinobellini.com": 1,
+  "casinoking.com": 1,
+  "casinoriva.com": 1,
+  "castbox.fm": 1,
+  "catch22.net": 1,
+  "catchgod.com": 1,
+  "catfightpayperview.xxx": 1,
+  "catholic.org.hk": 1,
+  "catholic.org.tw": 1,
+  "cathvoice.org.tw": 1,
+  "cato.org": 1,
+  "cattt.com": 1,
+  "cbc.ca": 1,
+  "cbsnews.com": 1,
+  "cbtc.org.hk": 1,
+  "cc.com": 1,
+  "cccat.cc": 1,
+  "cccat.co": 1,
+  "ccdtr.org": 1,
+  "cchere.com": 1,
+  "ccim.org": 1,
+  "cclife.ca": 1,
+  "cclife.org": 1,
+  "cclifefl.org": 1,
+  "ccthere.com": 1,
+  "ccthere.net": 1,
+  "cctmweb.net": 1,
+  "cctongbao.com": 1,
+  "ccue.ca": 1,
+  "ccue.com": 1,
+  "ccvoice.ca": 1,
+  "ccw.org.tw": 1,
+  "cdbook.org": 1,
+  "cdcparty.com": 1,
+  "cdef.org": 1,
+  "cdig.info": 1,
+  "cdjp.org": 1,
+  "cdnews.com.tw": 1,
+  "cdninstagram.com": 1,
+  "cdp1989.org": 1,
+  "cdp1998.org": 1,
+  "cdp2006.org": 1,
+  "cdpeu.org": 1,
+  "cdpusa.org": 1,
+  "cdpweb.org": 1,
+  "cdpwu.org": 1,
+  "cdw.com": 1,
+  "cecc.gov": 1,
+  "cellulo.info": 1,
+  "cenews.eu": 1,
+  "centauro.com.br": 1,
+  "centerforhumanreprod.com": 1,
+  "centralnation.com": 1,
+  "centurys.net": 1,
+  "certificate-transparency.org": 1,
+  "cfhks.org.hk": 1,
+  "cfos.de": 1,
+  "cfr.org": 1,
+  "cftfc.com": 1,
+  "cgdepot.org": 1,
+  "cgst.edu": 1,
+  "change.org": 1,
+  "changeip.name": 1,
+  "changeip.net": 1,
+  "changeip.org": 1,
+  "changp.com": 1,
+  "changsa.net": 1,
+  "channelnewsasia.com": 1,
+  "chaoex.com": 1,
+  "chapm25.com": 1,
+  "chatnook.com": 1,
+  "chaturbate.com": 1,
+  "checkgfw.com": 1,
+  "chengmingmag.com": 1,
+  "chenguangcheng.com": 1,
+  "chenpokong.com": 1,
+  "chenpokong.net": 1,
+  "chenpokongvip.com": 1,
+  "cherrysave.com": 1,
+  "chhongbi.org": 1,
+  "chicagoncmtv.com": 1,
+  "china-mmm.jp.net": 1,
+  "china-mmm.net": 1,
+  "china-mmm.sa.com": 1,
+  "china-review.com.ua": 1,
+  "china-week.com": 1,
+  "china101.com": 1,
+  "china18.org": 1,
+  "china21.com": 1,
+  "china21.org": 1,
+  "china5000.us": 1,
+  "chinaaffairs.org": 1,
+  "chinaaid.me": 1,
+  "chinaaid.net": 1,
+  "chinaaid.org": 1,
+  "chinaaid.us": 1,
+  "chinachange.org": 1,
+  "chinachannel.hk": 1,
+  "chinacitynews.be": 1,
+  "chinacomments.org": 1,
+  "chinadialogue.net": 1,
+  "chinadigitaltimes.net": 1,
+  "chinaelections.org": 1,
+  "chinaeweekly.com": 1,
+  "chinafreepress.org": 1,
+  "chinagate.com": 1,
+  "chinageeks.org": 1,
+  "chinagfw.org": 1,
+  "chinagonet.com": 1,
+  "chinagreenparty.org": 1,
+  "chinahorizon.org": 1,
+  "chinahush.com": 1,
+  "chinainperspective.com": 1,
+  "chinainterimgov.org": 1,
+  "chinalaborwatch.org": 1,
+  "chinalawandpolicy.com": 1,
+  "chinalawtranslate.com": 1,
+  "chinamule.com": 1,
+  "chinamz.org": 1,
+  "chinanewscenter.com": 1,
+  "chinapost.com.tw": 1,
+  "chinapress.com.my": 1,
+  "chinarightsia.org": 1,
+  "chinasmile.net": 1,
+  "chinasocialdemocraticparty.com": 1,
+  "chinasoul.org": 1,
+  "chinasucks.net": 1,
+  "chinatimes.com": 1,
+  "chinatopsex.com": 1,
+  "chinatown.com.au": 1,
+  "chinatweeps.com": 1,
+  "chinaway.org": 1,
+  "chinaworker.info": 1,
+  "chinaxchina.com": 1,
+  "chinayouth.org.hk": 1,
+  "chinayuanmin.org": 1,
+  "chinese-hermit.net": 1,
+  "chinese-leaders.org": 1,
+  "chinese-memorial.org": 1,
+  "chinesedaily.com": 1,
+  "chinesedailynews.com": 1,
+  "chinesedemocracy.com": 1,
+  "chinesegay.org": 1,
+  "chinesen.de": 1,
+  "chinesenews.net.au": 1,
+  "chinesepen.org": 1,
+  "chineseradioseattle.com": 1,
+  "chinesetalks.net": 1,
+  "chineseupress.com": 1,
+  "chingcheong.com": 1,
+  "chinman.net": 1,
+  "chithu.org": 1,
+  "chobit.cc": 1,
+  "chosun.com": 1,
+  "chrdnet.com": 1,
+  "christianfreedom.org": 1,
+  "christianstudy.com": 1,
+  "christiantimes.org.hk": 1,
+  "christusrex.org": 1,
+  "chrlawyers.hk": 1,
+  "chrome.com": 1,
+  "chromecast.com": 1,
+  "chromeexperiments.com": 1,
+  "chromercise.com": 1,
+  "chromestatus.com": 1,
+  "chromium.org": 1,
+  "chuang-yen.org": 1,
+  "chubold.com": 1,
+  "chubun.com": 1,
+  "churchinhongkong.org": 1,
+  "chushigangdrug.ch": 1,
+  "cienen.com": 1,
+  "cineastentreff.de": 1,
+  "cipfg.org": 1,
+  "circlethebayfortibet.org": 1,
+  "cirosantilli.com": 1,
+  "citizencn.com": 1,
+  "citizenlab.ca": 1,
+  "citizenlab.org": 1,
+  "citizenscommission.hk": 1,
+  "citizensradio.org": 1,
+  "city365.ca": 1,
+  "city9x.com": 1,
+  "citypopulation.de": 1,
+  "citytalk.tw": 1,
+  "civicparty.hk": 1,
+  "civildisobediencemovement.org": 1,
+  "civilhrfront.org": 1,
+  "civiliangunner.com": 1,
+  "civilmedia.tw": 1,
+  "civisec.org": 1,
+  "cjb.net": 1,
+  "ck101.com": 1,
+  "clarionproject.org": 1,
+  "classicalguitarblog.net": 1,
+  "clb.org.hk": 1,
+  "cleansite.biz": 1,
+  "cleansite.info": 1,
+  "cleansite.us": 1,
+  "clearharmony.net": 1,
+  "clearsurance.com": 1,
+  "clearwisdom.net": 1,
+  "clementine-player.org": 1,
+  "clinica-tibet.ru": 1,
+  "clipfish.de": 1,
+  "cloakpoint.com": 1,
+  "cloudcone.com": 1,
+  "cloudflare-ipfs.com": 1,
+  "club1069.com": 1,
+  "clubhouseapi.com": 1,
+  "clyp.it": 1,
+  "cmcn.org": 1,
+  "cmi.org.tw": 1,
+  "cmoinc.org": 1,
+  "cms.gov": 1,
+  "cmu.edu": 1,
+  "cmule.com": 1,
+  "cmule.org": 1,
+  "cmx.im": 1,
+  "cn-proxy.com": 1,
+  "cn6.eu": 1,
+  "cna.com.tw": 1,
+  "cnabc.com": 1,
+  "cnd.org": 1,
+  "cnet.com": 1,
+  "cnex.org.cn": 1,
+  "cnineu.com": 1,
+  "cnitter.com": 1,
+  "cnn.com": 1,
+  "cnpolitics.org": 1,
+  "cnproxy.com": 1,
+  "cnyes.com": 1,
+  "co.hk": 1,
+  "co.tv": 1,
+  "co.uk": 1,
+  "coat.co.jp": 1,
+  "cobinhood.com": 1,
+  "cochina.co": 1,
+  "cochina.org": 1,
+  "code1984.com": 1,
+  "codeplex.com": 1,
+  "codeshare.io": 1,
+  "codeskulptor.org": 1,
+  "coin2co.in": 1,
+  "coinbene.com": 1,
+  "coinegg.com": 1,
+  "coinex.com": 1,
+  "coingecko.com": 1,
+  "coingi.com": 1,
+  "coinmarketcap.com": 1,
+  "coinrail.co.kr": 1,
+  "cointiger.com": 1,
+  "cointobe.com": 1,
+  "coinut.com": 1,
+  "collateralmurder.com": 1,
+  "collateralmurder.org": 1,
+  "com.uk": 1,
+  "comedycentral.com": 1,
+  "comefromchina.com": 1,
+  "comic-mega.me": 1,
+  "comico.tw": 1,
+  "commandarms.com": 1,
+  "commentshk.com": 1,
+  "communistcrimes.org": 1,
+  "communitychoicecu.com": 1,
+  "comparitech.com": 1,
+  "compileheart.com": 1,
+  "compress.to": 1,
+  "compython.net": 1,
+  "conoha.jp": 1,
+  "constitutionalism.solutions": 1,
+  "contactmagazine.net": 1,
+  "convio.net": 1,
+  "coobay.com": 1,
+  "cool18.com": 1,
+  "coolaler.com": 1,
+  "coolder.com": 1,
+  "coolloud.org.tw": 1,
+  "coolncute.com": 1,
+  "coolstuffinc.com": 1,
+  "corumcollege.com": 1,
+  "cos-moe.com": 1,
+  "cosplayjav.pl": 1,
+  "costco.com": 1,
+  "cotweet.com": 1,
+  "counter.social": 1,
+  "coursehero.com": 1,
+  "cpj.org": 1,
+  "cq99.us": 1,
+  "crackle.com": 1,
+  "crazys.cc": 1,
+  "crazyshit.com": 1,
+  "crbug.com": 1,
+  "crchina.org": 1,
+  "crd-net.org": 1,
+  "creaders.net": 1,
+  "creadersnet.com": 1,
+  "creativelab5.com": 1,
+  "cristyli.com": 1,
+  "crocotube.com": 1,
+  "crossfire.co.kr": 1,
+  "crossthewall.net": 1,
+  "crossvpn.net": 1,
+  "crrev.com": 1,
+  "crucial.com": 1,
+  "crunchyroll.com": 1,
+  "cryptographyengineering.com": 1,
+  "csdparty.com": 1,
+  "csis.org": 1,
+  "csmonitor.com": 1,
+  "csuchen.de": 1,
+  "ct.org.tw": 1,
+  "ctao.org": 1,
+  "ctfriend.net": 1,
+  "ctitv.com.tw": 1,
+  "ctowc.org": 1,
+  "cts.com.tw": 1,
+  "ctwant.com": 1,
+  "cuhk.edu.hk": 1,
+  "cuhkacs.org": 1,
+  "cuihua.org": 1,
+  "cuiweiping.net": 1,
+  "culture.tw": 1,
+  "cumlouder.com": 1,
+  "curvefish.com": 1,
+  "cusp.hk": 1,
+  "cusu.hk": 1,
+  "cutscenes.net": 1,
+  "cw.com.tw": 1,
+  "cyberctm.com": 1,
+  "cyberghostvpn.com": 1,
+  "cynscribe.com": 1,
+  "cytode.us": 1,
+  "cz.cc": 1,
+  "d-fukyu.com": 1,
+  "d0z.net": 1,
+  "d100.net": 1,
+  "d1b183sg0nvnuh.cloudfront.net": 1,
+  "d1c37gjwa26taa.cloudfront.net": 1,
+  "d2bay.com": 1,
+  "d2pass.com": 1,
+  "d3c33hcgiwev3.cloudfront.net": 1,
+  "d3rhr7kgmtrq1v.cloudfront.net": 1,
+  "dabr.eu": 1,
+  "dabr.me": 1,
+  "dabr.mobi": 1,
+  "dadazim.com": 1,
+  "dadi360.com": 1,
+  "dafabet.com": 1,
+  "dafagood.com": 1,
+  "dafahao.com": 1,
+  "dafoh.org": 1,
+  "daftporn.com": 1,
+  "dagelijksestandaard.nl": 1,
+  "daidostup.ru": 1,
+  "dailidaili.com": 1,
+  "dailymotion.com": 1,
+  "dailysabah.com": 1,
+  "dailyview.tw": 1,
+  "daiphapinfo.net": 1,
+  "dajiyuan.com": 1,
+  "dajiyuan.de": 1,
+  "dajiyuan.eu": 1,
+  "dalailama-archives.org": 1,
+  "dalailama.com": 1,
+  "dalailama.mn": 1,
+  "dalailama.ru": 1,
+  "dalailama80.org": 1,
+  "dalailamacenter.org": 1,
+  "dalailamafellows.org": 1,
+  "dalailamafilm.com": 1,
+  "dalailamafoundation.org": 1,
+  "dalailamahindi.com": 1,
+  "dalailamainaustralia.org": 1,
+  "dalailamajapanese.com": 1,
+  "dalailamaprotesters.info": 1,
+  "dalailamaquotes.org": 1,
+  "dalailamatrust.org": 1,
+  "dalailamaworld.com": 1,
+  "dalianmeng.org": 1,
+  "daliulian.org": 1,
+  "danke4china.net": 1,
+  "daolan.net": 1,
+  "darktech.org": 1,
+  "darktoy.net": 1,
+  "darpa.mil": 1,
+  "darrenliuwei.com": 1,
+  "dastrassi.org": 1,
+  "data-vocabulary.org": 1,
+  "daum.net": 1,
+  "david-kilgour.com": 1,
+  "dawangidc.com": 1,
+  "daxa.cn": 1,
+  "dayabook.com": 1,
+  "daylife.com": 1,
+  "db.tt": 1,
+  "dbc.hk": 1,
+  "dbgjd.com": 1,
+  "dcard.tw": 1,
+  "dcmilitary.com": 1,
+  "ddc.com.tw": 1,
+  "ddhw.info": 1,
+  "ddns.info": 1,
+  "ddns.mobi": 1,
+  "ddns.ms": 1,
+  "ddns.name": 1,
+  "ddns.net": 1,
+  "ddns.us": 1,
+  "de-sci.org": 1,
+  "deadline.com": 1,
+  "deaftone.com": 1,
+  "debug.com": 1,
+  "deck.ly": 1,
+  "decodet.co": 1,
+  "deepmind.com": 1,
+  "deezer.com": 1,
+  "definebabe.com": 1,
+  "deja.com": 1,
+  "delcamp.net": 1,
+  "delicious.com": 1,
+  "democrats.org": 1,
+  "demosisto.hk": 1,
+  "depositphotos.com": 1,
+  "derekhsu.homeip.net": 1,
+  "desc.se": 1,
+  "desipro.de": 1,
+  "dessci.com": 1,
+  "destroy-china.jp": 1,
+  "deutsche-welle.de": 1,
+  "deviantart.com": 1,
+  "deviantart.net": 1,
+  "devio.us": 1,
+  "devpn.com": 1,
+  "dfas.mil": 1,
+  "dfn.org": 1,
+  "dharamsalanet.com": 1,
+  "dharmakara.net": 1,
+  "dhcp.biz": 1,
+  "diaoyuislands.org": 1,
+  "difangwenge.org": 1,
+  "digiland.tw": 1,
+  "digisfera.com": 1,
+  "digitalnomadsproject.org": 1,
+  "diigo.com": 1,
+  "dilber.se": 1,
+  "dingchin.com.tw": 1,
+  "dipity.com": 1,
+  "directcreative.com": 1,
+  "discoins.com": 1,
+  "disconnect.me": 1,
+  "discord.com": 1,
+  "discord.gg": 1,
+  "discordapp.com": 1,
+  "discordapp.net": 1,
+  "discuss.com.hk": 1,
+  "discuss4u.com": 1,
+  "dish.com": 1,
+  "disp.cc": 1,
+  "disqus.com": 1,
+  "dit-inc.us": 1,
+  "dizhidizhi.com": 1,
+  "dizhuzhishang.com": 1,
+  "djangosnippets.org": 1,
+  "djorz.com": 1,
+  "dl-laby.jp": 1,
+  "dlive.tv": 1,
+  "dlsite.com": 1,
+  "dlsite.jp": 1,
+  "dlyoutube.com": 1,
+  "dm530.net": 1,
+  "dmcdn.net": 1,
+  "dmhy.org": 1,
+  "dmm.co.jp": 1,
+  "dmm.com": 1,
+  "dns-dns.com": 1,
+  "dns-stuff.com": 1,
+  "dns04.com": 1,
+  "dns05.com": 1,
+  "dns1.us": 1,
+  "dns2.us": 1,
+  "dns2go.com": 1,
+  "dnscrypt.org": 1,
+  "dnset.com": 1,
+  "dnsrd.com": 1,
+  "dnssec.net": 1,
+  "dnvod.tv": 1,
+  "doctorvoice.org": 1,
+  "documentingreality.com": 1,
+  "dogfartnetwork.com": 1,
+  "dojin.com": 1,
+  "dok-forum.net": 1,
+  "dolc.de": 1,
+  "dolf.org.hk": 1,
+  "dollf.com": 1,
+  "domain.club.tw": 1,
+  "domaintoday.com.au": 1,
+  "donga.com": 1,
+  "dongtaiwang.com": 1,
+  "dongtaiwang.net": 1,
+  "dongyangjing.com": 1,
+  "donmai.us": 1,
+  "dontfilter.us": 1,
+  "dontmovetochina.com": 1,
+  "dorjeshugden.com": 1,
+  "dotplane.com": 1,
+  "dotsub.com": 1,
+  "dotvpn.com": 1,
+  "doub.io": 1,
+  "doubibackup.com": 1,
+  "doubmirror.cf": 1,
+  "dougscripts.com": 1,
+  "douhokanko.net": 1,
+  "doujincafe.com": 1,
+  "dowei.org": 1,
+  "dphk.org": 1,
+  "dpp.org.tw": 1,
+  "dpr.info": 1,
+  "dragonex.io": 1,
+  "dragonsprings.org": 1,
+  "dreamamateurs.com": 1,
+  "drepung.org": 1,
+  "drgan.net": 1,
+  "drmingxia.org": 1,
+  "dropbooks.tv": 1,
+  "dropbox.com": 1,
+  "dropboxapi.com": 1,
+  "dropboxusercontent.com": 1,
+  "drsunacademy.com": 1,
+  "drtuber.com": 1,
+  "dscn.info": 1,
+  "dsmtp.com": 1,
+  "dstk.dk": 1,
+  "dtdns.net": 1,
+  "dtiblog.com": 1,
+  "dtic.mil": 1,
+  "dtwang.org": 1,
+  "duanzhihu.com": 1,
+  "dubox.com": 1,
+  "duck.com": 1,
+  "duckdns.org": 1,
+  "duckduckgo.com": 1,
+  "duckload.com": 1,
+  "duckmylife.com": 1,
+  "duga.jp": 1,
+  "duihua.org": 1,
+  "duihuahrjournal.org": 1,
+  "dumb1.com": 1,
+  "dunyabulteni.net": 1,
+  "duoweitimes.com": 1,
+  "duping.net": 1,
+  "duplicati.com": 1,
+  "dupola.com": 1,
+  "dupola.net": 1,
+  "dushi.ca": 1,
+  "duyaoss.com": 1,
+  "dvdpac.com": 1,
+  "dvorak.org": 1,
+  "dw-world.com": 1,
+  "dw-world.de": 1,
+  "dw.com": 1,
+  "dw.de": 1,
+  "dwheeler.com": 1,
+  "dwnews.com": 1,
+  "dwnews.net": 1,
+  "dxiong.com": 1,
+  "dynamic-dns.net": 1,
+  "dynamicdns.biz": 1,
+  "dynawebinc.com": 1,
+  "dyndns-ip.com": 1,
+  "dyndns-pics.com": 1,
+  "dyndns.org": 1,
+  "dyndns.pro": 1,
+  "dynssl.com": 1,
+  "dynu.com": 1,
+  "dynu.net": 1,
+  "dysfz.cc": 1,
+  "dzze.com": 1,
+  "e-classical.com.tw": 1,
+  "e-gold.com": 1,
+  "e-hentai.org": 1,
+  "e-hentaidb.com": 1,
+  "e-info.org.tw": 1,
+  "e-traderland.net": 1,
+  "e-zone.com.hk": 1,
+  "e123.hk": 1,
+  "earlytibet.com": 1,
+  "earthcam.com": 1,
+  "earthvpn.com": 1,
+  "eastern-ark.com": 1,
+  "easternlightning.org": 1,
+  "eastturkestan.com": 1,
+  "eastturkistan-gov.org": 1,
+  "eastturkistan.net": 1,
+  "eastturkistancc.org": 1,
+  "eastturkistangovernmentinexile.us": 1,
+  "easyca.ca": 1,
+  "easypic.com": 1,
+  "ebc.net.tw": 1,
+  "ebony-beauty.com": 1,
+  "ebookbrowse.com": 1,
+  "ebookee.com": 1,
+  "ebtcbank.com": 1,
+  "ecfa.org.tw": 1,
+  "echainhost.com": 1,
+  "echofon.com": 1,
+  "ecimg.tw": 1,
+  "ecministry.net": 1,
+  "economist.com": 1,
+  "ecstart.com": 1,
+  "edgecastcdn.net": 1,
+  "edicypages.com": 1,
+  "edmontonchina.cn": 1,
+  "edmontonservice.com": 1,
+  "edns.biz": 1,
+  "edoors.com": 1,
+  "edubridge.com": 1,
+  "edupro.org": 1,
+  "eesti.ee": 1,
+  "eevpn.com": 1,
+  "efcc.org.hk": 1,
+  "effers.com": 1,
+  "efksoft.com": 1,
+  "efukt.com": 1,
+  "eic-av.com": 1,
+  "eireinikotaerukai.com": 1,
+  "eisbb.com": 1,
+  "eksisozluk.com": 1,
+  "electionsmeter.com": 1,
+  "elgoog.im": 1,
+  "ellawine.org": 1,
+  "elpais.com": 1,
+  "eltondisney.com": 1,
+  "emaga.com": 1,
+  "emanna.com": 1,
+  "emilylau.org.hk": 1,
+  "emory.edu": 1,
+  "empfil.com": 1,
+  "emule-ed2k.com": 1,
+  "emulefans.com": 1,
+  "emuparadise.me": 1,
+  "enanyang.my": 1,
+  "encrypt.me": 1,
+  "encyclopedia.com": 1,
+  "enewstree.com": 1,
+  "enfal.de": 1,
+  "engadget.com": 1,
+  "engagedaily.org": 1,
+  "englishforeveryone.org": 1,
+  "englishpen.org": 1,
+  "enlighten.org.tw": 1,
+  "entermap.com": 1,
+  "epac.to": 1,
+  "episcopalchurch.org": 1,
+  "epochhk.com": 1,
+  "epochtimes-bg.com": 1,
+  "epochtimes-romania.com": 1,
+  "epochtimes.co.kr": 1,
+  "epochtimes.com": 1,
+  "epochtimes.cz": 1,
+  "epochtimes.de": 1,
+  "epochtimes.fr": 1,
+  "epochtimes.ie": 1,
+  "epochtimes.it": 1,
+  "epochtimes.jp": 1,
+  "epochtimes.ru": 1,
+  "epochtimes.se": 1,
+  "epochtimestr.com": 1,
+  "epochweek.com": 1,
+  "epochweekly.com": 1,
+  "eporner.com": 1,
+  "equinenow.com": 1,
+  "erabaru.net": 1,
+  "eracom.com.tw": 1,
+  "erepublik.com": 1,
+  "erights.net": 1,
+  "eriversoft.com": 1,
+  "erktv.com": 1,
+  "ernestmandel.org": 1,
+  "erodaizensyu.com": 1,
+  "erodoujinlog.com": 1,
+  "erodoujinworld.com": 1,
+  "eromanga-kingdom.com": 1,
+  "eromangadouzin.com": 1,
+  "eromon.net": 1,
+  "eroprofile.com": 1,
+  "eroticsaloon.net": 1,
+  "eslite.com": 1,
+  "esmtp.biz": 1,
+  "esu.im": 1,
+  "esurance.com": 1,
+  "etaa.org.au": 1,
+  "etadult.com": 1,
+  "etaiwannews.com": 1,
+  "etherdelta.com": 1,
+  "etherscan.io": 1,
+  "etizer.org": 1,
+  "etokki.com": 1,
+  "etowns.net": 1,
+  "etowns.org": 1,
+  "etsy.com": 1,
+  "ettoday.net": 1,
+  "etvonline.hk": 1,
+  "eu.org": 1,
+  "eucasino.com": 1,
+  "eulam.com": 1,
+  "eurekavpt.com": 1,
+  "euronews.com": 1,
+  "europa.eu": 1,
+  "evozi.com": 1,
+  "evschool.net": 1,
+  "exblog.co.jp": 1,
+  "exblog.jp": 1,
+  "exchristian.hk": 1,
+  "excite.co.jp": 1,
+  "exhentai.org": 1,
+  "exmo.com": 1,
+  "exmormon.org": 1,
+  "expatshield.com": 1,
+  "expecthim.com": 1,
+  "expekt.com": 1,
+  "experts-univers.com": 1,
+  "exploader.net": 1,
+  "expofutures.com": 1,
+  "expressvpn.com": 1,
+  "exrates.me": 1,
+  "extmatrix.com": 1,
+  "extremetube.com": 1,
+  "exx.com": 1,
+  "eyevio.jp": 1,
+  "eyny.com": 1,
+  "ezpc.tk": 1,
+  "ezpeer.com": 1,
+  "ezua.com": 1,
+  "f8.com": 1,
+  "facebook.br": 1,
+  "facebook.com": 1,
+  "facebook.hu": 1,
+  "facebook.in": 1,
+  "facebook.net": 1,
+  "facebook.nl": 1,
+  "facebook.se": 1,
+  "facebookmail.com": 1,
+  "facebookquotes4u.com": 1,
+  "faceless.me": 1,
+  "facesofnyfw.com": 1,
+  "facesoftibetanselfimmolators.info": 1,
+  "factpedia.org": 1,
+  "fail.hk": 1,
+  "faith100.org": 1,
+  "faithfuleye.com": 1,
+  "faiththedog.info": 1,
+  "fakku.net": 1,
+  "fallenark.com": 1,
+  "falsefire.com": 1,
+  "falun-co.org": 1,
+  "falun-ny.net": 1,
+  "falunart.org": 1,
+  "falunasia.info": 1,
+  "falunau.org": 1,
+  "falunaz.net": 1,
+  "falundafa-dc.org": 1,
+  "falundafa-florida.org": 1,
+  "falundafa-nc.org": 1,
+  "falundafa-pa.net": 1,
+  "falundafa-sacramento.org": 1,
+  "falundafa.org": 1,
+  "falundafaindia.org": 1,
+  "falundafamuseum.org": 1,
+  "falungong.club": 1,
+  "falungong.de": 1,
+  "falunhr.org": 1,
+  "faluninfo.de": 1,
+  "faluninfo.net": 1,
+  "falunpilipinas.net": 1,
+  "falunworld.net": 1,
+  "familyfed.org": 1,
+  "famunion.com": 1,
+  "fan-qiang.com": 1,
+  "fandom.com": 1,
+  "fangbinxing.com": 1,
+  "fangeming.com": 1,
+  "fangeqiang.com": 1,
+  "fanglizhi.info": 1,
+  "fangmincn.org": 1,
+  "fangong.org": 1,
+  "fangongheike.com": 1,
+  "fanhaodang.com": 1,
+  "fanhaolou.com": 1,
+  "fanqiang.network": 1,
+  "fanqiang.tk": 1,
+  "fanqiangdang.com": 1,
+  "fanqianghou.com": 1,
+  "fanqiangyakexi.net": 1,
+  "fanqiangzhe.com": 1,
+  "fanswong.com": 1,
+  "fantv.hk": 1,
+  "fanyue.info": 1,
+  "fapdu.com": 1,
+  "faproxy.com": 1,
+  "faqserv.com": 1,
+  "fartit.com": 1,
+  "farwestchina.com": 1,
+  "fastestvpn.com": 1,
+  "fastly.net": 1,
+  "fastpic.ru": 1,
+  "fastssh.com": 1,
+  "faststone.org": 1,
+  "fatbtc.com": 1,
+  "favotter.net": 1,
+  "favstar.fm": 1,
+  "fawanghuihui.org": 1,
+  "faydao.com": 1,
+  "faz.net": 1,
+  "fb.com": 1,
+  "fb.me": 1,
+  "fb.watch": 1,
+  "fbaddins.com": 1,
+  "fbcdn.net": 1,
+  "fbsbx.com": 1,
+  "fbworkmail.com": 1,
+  "fc2.com": 1,
+  "fc2blog.net": 1,
+  "fc2china.com": 1,
+  "fc2cn.com": 1,
+  "fc2web.com": 1,
+  "fdbox.com": 1,
+  "fdc64.de": 1,
+  "fdc64.org": 1,
+  "fdc89.jp": 1,
+  "feedburner.com": 1,
+  "feeder.co": 1,
+  "feedly.com": 1,
+  "feedx.net": 1,
+  "feelssh.com": 1,
+  "feer.com": 1,
+  "feifeiss.com": 1,
+  "feitian-california.org": 1,
+  "feitianacademy.org": 1,
+  "feixiaohao.com": 1,
+  "feministteacher.com": 1,
+  "fengzhenghu.com": 1,
+  "fengzhenghu.net": 1,
+  "fevernet.com": 1,
+  "ff.im": 1,
+  "fffff.at": 1,
+  "fflick.com": 1,
+  "ffvpn.com": 1,
+  "fgmtv.net": 1,
+  "fgmtv.org": 1,
+  "fhreports.net": 1,
+  "figprayer.com": 1,
+  "fileflyer.com": 1,
+  "fileforum.com": 1,
+  "files2me.com": 1,
+  "fileserve.com": 1,
+  "filesor.com": 1,
+  "fillthesquare.org": 1,
+  "filmingfortibet.org": 1,
+  "filthdump.com": 1,
+  "financetwitter.com": 1,
+  "finchvpn.com": 1,
+  "findmespot.com": 1,
+  "findyoutube.com": 1,
+  "findyoutube.net": 1,
+  "fingerdaily.com": 1,
+  "finler.net": 1,
+  "firearmsworld.net": 1,
+  "firebaseio.com": 1,
+  "fireofliberty.org": 1,
+  "firetweet.io": 1,
+  "firstfivefollowers.com": 1,
+  "firstpost.com": 1,
+  "fizzik.com": 1,
+  "flagsonline.it": 1,
+  "flecheinthepeche.fr": 1,
+  "fleshbot.com": 1,
+  "fleursdeslettres.com": 1,
+  "flgg.us": 1,
+  "flgjustice.org": 1,
+  "flickr.com": 1,
+  "flickrhivemind.net": 1,
+  "flickriver.com": 1,
+  "fling.com": 1,
+  "flipboard.com": 1,
+  "flipkart.com": 1,
+  "flitto.com": 1,
+  "flnet.org": 1,
+  "flog.tw": 1,
+  "flurry.com": 1,
+  "flyvpn.com": 1,
+  "flyzy2005.com": 1,
+  "fmnnow.com": 1,
+  "fnac.be": 1,
+  "fnac.com": 1,
+  "fochk.org": 1,
+  "focustaiwan.tw": 1,
+  "focusvpn.com": 1,
+  "fofg-europe.net": 1,
+  "fofg.org": 1,
+  "fofldfradio.org": 1,
+  "foolsmountain.com": 1,
+  "fooooo.com": 1,
+  "foreignaffairs.com": 1,
+  "foreignpolicy.com": 1,
+  "forum4hk.com": 1,
+  "forums-free.com": 1,
+  "fotile.me": 1,
+  "fourthinternational.org": 1,
+  "foxbusiness.com": 1,
+  "foxdie.us": 1,
+  "foxgay.com": 1,
+  "foxsub.com": 1,
+  "foxtang.com": 1,
+  "fpmt-osel.org": 1,
+  "fpmt.org": 1,
+  "fpmt.tw": 1,
+  "fpmtmexico.org": 1,
+  "fqok.org": 1,
+  "fqrouter.com": 1,
+  "franklc.com": 1,
+  "freakshare.com": 1,
+  "free-gate.org": 1,
+  "free-hada-now.org": 1,
+  "free-proxy.cz": 1,
+  "free-ssh.com": 1,
+  "free.fr": 1,
+  "free4u.com.ar": 1,
+  "freealim.com": 1,
+  "freebeacon.com": 1,
+  "freebearblog.org": 1,
+  "freebrowser.org": 1,
+  "freechal.com": 1,
+  "freechina.net": 1,
+  "freechinaforum.org": 1,
+  "freechinaweibo.com": 1,
+  "freeddns.com": 1,
+  "freeddns.org": 1,
+  "freedomchina.info": 1,
+  "freedomcollection.org": 1,
+  "freedomhouse.org": 1,
+  "freedomsherald.org": 1,
+  "freeforums.org": 1,
+  "freefq.com": 1,
+  "freefuckvids.com": 1,
+  "freegao.com": 1,
+  "freehongkong.org": 1,
+  "freeilhamtohti.org": 1,
+  "freekazakhs.org": 1,
+  "freekwonpyong.org": 1,
+  "freelotto.com": 1,
+  "freeman2.com": 1,
+  "freemoren.com": 1,
+  "freemorenews.com": 1,
+  "freemuse.org": 1,
+  "freenet-china.org": 1,
+  "freenetproject.org": 1,
+  "freenewscn.com": 1,
+  "freeones.com": 1,
+  "freeopenvpn.com": 1,
+  "freeoz.org": 1,
+  "freerk.com": 1,
+  "freessh.us": 1,
+  "freetcp.com": 1,
+  "freetibet.net": 1,
+  "freetibet.org": 1,
+  "freetibetanheroes.org": 1,
+  "freetribe.me": 1,
+  "freeviewmovies.com": 1,
+  "freevpn.me": 1,
+  "freevpn.nl": 1,
+  "freewallpaper4.me": 1,
+  "freewebs.com": 1,
+  "freewechat.com": 1,
+  "freeweibo.com": 1,
+  "freewww.biz": 1,
+  "freewww.info": 1,
+  "freexinwen.com": 1,
+  "freeyellow.com": 1,
+  "freeyoutubeproxy.net": 1,
+  "frienddy.com": 1,
+  "friendfeed-media.com": 1,
+  "friendfeed.com": 1,
+  "friendfinder.com": 1,
+  "friends-of-tibet.org": 1,
+  "friendsoftibet.org": 1,
+  "fring.com": 1,
+  "fringenetwork.com": 1,
+  "from-pr.com": 1,
+  "from-sd.com": 1,
+  "fromchinatousa.net": 1,
+  "frommel.net": 1,
+  "frontlinedefenders.org": 1,
+  "frootvpn.com": 1,
+  "fscked.org": 1,
+  "fsurf.com": 1,
+  "ftchinese.com": 1,
+  "ftp1.biz": 1,
+  "ftpserver.biz": 1,
+  "ftv.com.tw": 1,
+  "ftvnews.com.tw": 1,
+  "ftx.com": 1,
+  "fucd.com": 1,
+  "fuckcnnic.net": 1,
+  "fuckgfw.org": 1,
+  "fuckgfw233.org": 1,
+  "fulione.com": 1,
+  "fullerconsideration.com": 1,
+  "fulue.com": 1,
+  "funf.tw": 1,
+  "funkyimg.com": 1,
+  "funp.com": 1,
+  "fuq.com": 1,
+  "furbo.org": 1,
+  "furhhdl.org": 1,
+  "furinkan.com": 1,
+  "furl.net": 1,
+  "futurechinaforum.org": 1,
+  "futuremessage.org": 1,
+  "fux.com": 1,
+  "fuyin.net": 1,
+  "fuyindiantai.org": 1,
+  "fuyu.org.tw": 1,
+  "fw.cm": 1,
+  "fxcm-chinese.com": 1,
+  "fxnetworks.com": 1,
+  "fzh999.com": 1,
+  "fzh999.net": 1,
+  "fzlm.com": 1,
+  "g-area.org": 1,
+  "g-queen.com": 1,
+  "g.co": 1,
+  "g0v.social": 1,
+  "g6hentai.com": 1,
+  "gab.com": 1,
+  "gabocorp.com": 1,
+  "gaeproxy.com": 1,
+  "gaforum.org": 1,
+  "gagaoolala.com": 1,
+  "galaxymacau.com": 1,
+  "galenwu.com": 1,
+  "galstars.net": 1,
+  "game735.com": 1,
+  "gamebase.com.tw": 1,
+  "gamejolt.com": 1,
+  "gamer.com.tw": 1,
+  "gamerp.jp": 1,
+  "gamez.com.tw": 1,
+  "gamousa.com": 1,
+  "ganges.com": 1,
+  "gaoming.net": 1,
+  "gaopi.net": 1,
+  "gaozhisheng.net": 1,
+  "gaozhisheng.org": 1,
+  "gardennetworks.com": 1,
+  "gardennetworks.org": 1,
+  "gartlive.com": 1,
+  "gate-project.com": 1,
+  "gate.io": 1,
+  "gatecoin.com": 1,
+  "gather.com": 1,
+  "gatherproxy.com": 1,
+  "gati.org.tw": 1,
+  "gaybubble.com": 1,
+  "gaycn.net": 1,
+  "gayhub.com": 1,
+  "gaymap.cc": 1,
+  "gaymenring.com": 1,
+  "gaytube.com": 1,
+  "gaywatch.com": 1,
+  "gazotube.com": 1,
+  "gcc.org.hk": 1,
+  "gclooney.com": 1,
+  "gclubs.com": 1,
+  "gcmasia.com": 1,
+  "gcpnews.com": 1,
+  "gcr.io": 1,
+  "gdbt.net": 1,
+  "gdzf.org": 1,
+  "geek-art.net": 1,
+  "geekerhome.com": 1,
+  "geekheart.info": 1,
+  "gekikame.com": 1,
+  "gelbooru.com": 1,
+  "genius.com": 1,
+  "geocities.co.jp": 1,
+  "geocities.com": 1,
+  "geocities.jp": 1,
+  "geph.io": 1,
+  "gerefoundation.org": 1,
+  "get.how": 1,
+  "getastrill.com": 1,
+  "getchu.com": 1,
+  "getcloak.com": 1,
+  "getfoxyproxy.org": 1,
+  "getfreedur.com": 1,
+  "getgom.com": 1,
+  "geti2p.net": 1,
+  "getiton.com": 1,
+  "getjetso.com": 1,
+  "getlantern.org": 1,
+  "getmalus.com": 1,
+  "getmdl.io": 1,
+  "getoutline.org": 1,
+  "getsocialscope.com": 1,
+  "getsync.com": 1,
+  "gettr.com": 1,
+  "gettrials.com": 1,
+  "gettyimages.com": 1,
+  "getuploader.com": 1,
+  "gfbv.de": 1,
+  "gfgold.com.hk": 1,
+  "gfsale.com": 1,
+  "gfw.org.ua": 1,
+  "gfw.report": 1,
+  "ggpht.com": 1,
+  "ggssl.com": 1,
+  "ghidra-sre.org": 1,
+  "ghostpath.com": 1,
+  "ghut.org": 1,
+  "giantessnight.com": 1,
+  "gifree.com": 1,
+  "giga-web.jp": 1,
+  "gigacircle.com": 1,
+  "giganews.com": 1,
+  "gigporno.ru": 1,
+  "girlbanker.com": 1,
+  "git.io": 1,
+  "gitbooks.io": 1,
+  "githack.com": 1,
+  "github.com": 1,
+  "github.io": 1,
+  "githubassets.com": 1,
+  "githubusercontent.com": 1,
+  "gizlen.net": 1,
+  "gjczz.com": 1,
+  "glass8.eu": 1,
+  "globaljihad.net": 1,
+  "globalmediaoutreach.com": 1,
+  "globalmuseumoncommunism.org": 1,
+  "globalrescue.net": 1,
+  "globaltm.org": 1,
+  "globalvoices.org": 1,
+  "globalvoicesonline.org": 1,
+  "globalvpn.net": 1,
+  "glock.com": 1,
+  "gloryhole.com": 1,
+  "glorystar.me": 1,
+  "gluckman.com": 1,
+  "glype.com": 1,
+  "gmail.com": 1,
+  "gmgard.com": 1,
+  "gmhz.org": 1,
+  "gmiddle.com": 1,
+  "gmiddle.net": 1,
+  "gmll.org": 1,
+  "gmodules.com": 1,
+  "gmx.net": 1,
+  "gnci.org.hk": 1,
+  "gnews.org": 1,
+  "go-pki.com": 1,
+  "go141.com": 1,
+  "goagent.biz": 1,
+  "goagentplus.com": 1,
+  "gobet.cc": 1,
+  "godfootsteps.org": 1,
+  "godns.work": 1,
+  "godoc.org": 1,
+  "godsdirectcontact.org": 1,
+  "godsdirectcontact.org.tw": 1,
+  "godsimmediatecontact.com": 1,
+  "gofundme.com": 1,
+  "gogotunnel.com": 1,
+  "gohappy.com.tw": 1,
+  "gokbayrak.com": 1,
+  "golang.org": 1,
+  "goldbet.com": 1,
+  "goldbetsports.com": 1,
+  "golden-ages.org": 1,
+  "goldeneyevault.com": 1,
+  "goldenfrog.com": 1,
+  "goldjizz.com": 1,
+  "goldstep.net": 1,
+  "goldwave.com": 1,
+  "gongm.in": 1,
+  "gongmeng.info": 1,
+  "gongminliliang.com": 1,
+  "gongwt.com": 1,
+  "goo.gl": 1,
+  "goo.ne.jp": 1,
+  "gooday.xyz": 1,
+  "gooddns.info": 1,
+  "goodreaders.com": 1,
+  "goodreads.com": 1,
+  "goodtv.com.tw": 1,
+  "goodtv.tv": 1,
+  "goofind.com": 1,
+  "google.ae": 1,
+  "google.am": 1,
+  "google.as": 1,
+  "google.at": 1,
+  "google.az": 1,
+  "google.ba": 1,
+  "google.be": 1,
+  "google.bg": 1,
+  "google.ca": 1,
+  "google.cd": 1,
+  "google.ci": 1,
+  "google.cn": 1,
+  "google.co.id": 1,
+  "google.co.jp": 1,
+  "google.co.kr": 1,
+  "google.co.ma": 1,
+  "google.com": 1,
+  "google.de": 1,
+  "google.dj": 1,
+  "google.dk": 1,
+  "google.es": 1,
+  "google.fi": 1,
+  "google.fm": 1,
+  "google.fr": 1,
+  "google.gg": 1,
+  "google.gl": 1,
+  "google.gr": 1,
+  "google.ie": 1,
+  "google.is": 1,
+  "google.it": 1,
+  "google.jo": 1,
+  "google.kz": 1,
+  "google.lv": 1,
+  "google.mn": 1,
+  "google.ms": 1,
+  "google.nl": 1,
+  "google.no": 1,
+  "google.nu": 1,
+  "google.ro": 1,
+  "google.ru": 1,
+  "google.rw": 1,
+  "google.sc": 1,
+  "google.sh": 1,
+  "google.sk": 1,
+  "google.sm": 1,
+  "google.sn": 1,
+  "google.tk": 1,
+  "google.tm": 1,
+  "google.to": 1,
+  "google.tt": 1,
+  "google.vu": 1,
+  "google.ws": 1,
+  "googleapis.cn": 1,
+  "googleapis.com": 1,
+  "googleapps.com": 1,
+  "googlearth.com": 1,
+  "googleartproject.com": 1,
+  "googleblog.com": 1,
+  "googlebot.com": 1,
+  "googlechinawebmaster.com": 1,
+  "googlecode.com": 1,
+  "googlecommerce.com": 1,
+  "googledomains.com": 1,
+  "googledrive.com": 1,
+  "googleearth.com": 1,
+  "googlefiber.net": 1,
+  "googlegroups.com": 1,
+  "googlehosted.com": 1,
+  "googleideas.com": 1,
+  "googleinsidesearch.com": 1,
+  "googlelabs.com": 1,
+  "googlemail.com": 1,
+  "googlemashups.com": 1,
+  "googlepagecreator.com": 1,
+  "googleplay.com": 1,
+  "googleplus.com": 1,
+  "googlesile.com": 1,
+  "googlesource.com": 1,
+  "googlesyndication.com": 1,
+  "googleusercontent.com": 1,
+  "googlevideo.com": 1,
+  "googleweblight.com": 1,
+  "googlezip.net": 1,
+  "gopetition.com": 1,
+  "goproxing.net": 1,
+  "goreforum.com": 1,
+  "goregrish.com": 1,
+  "gospelherald.com": 1,
+  "got-game.org": 1,
+  "gotdns.ch": 1,
+  "gotgeeks.com": 1,
+  "gotrusted.com": 1,
+  "gotw.ca": 1,
+  "gov.tw": 1,
+  "gr8domain.biz": 1,
+  "gr8name.biz": 1,
+  "gradconnection.com": 1,
+  "grammaly.com": 1,
+  "grandtrial.org": 1,
+  "grangorz.org": 1,
+  "graphis.ne.jp": 1,
+  "graphql.org": 1,
+  "gravatar.com": 1,
+  "greasespot.net": 1,
+  "great-firewall.com": 1,
+  "great-roc.org": 1,
+  "greatfire.org": 1,
+  "greatfirewall.biz": 1,
+  "greatfirewallofchina.net": 1,
+  "greatfirewallofchina.org": 1,
+  "greatroc.org": 1,
+  "greatroc.tw": 1,
+  "greatzhonghua.org": 1,
+  "greenfieldbookstore.com.hk": 1,
+  "greenparty.org.tw": 1,
+  "greenpeace.com.tw": 1,
+  "greenpeace.org": 1,
+  "greenreadings.com": 1,
+  "greenvpn.net": 1,
+  "greenvpn.org": 1,
+  "grotty-monday.com": 1,
+  "gs-discuss.com": 1,
+  "gstatic.com": 1,
+  "gtricks.com": 1,
+  "gts-vpn.com": 1,
+  "gtv.org": 1,
+  "gtv1.org": 1,
+  "gu-chu-sum.org": 1,
+  "guaguass.com": 1,
+  "guaguass.org": 1,
+  "guancha.org": 1,
+  "guaneryu.com": 1,
+  "guangming.com.my": 1,
+  "guangnianvpn.com": 1,
+  "guardster.com": 1,
+  "guishan.org": 1,
+  "gumroad.com": 1,
+  "gun-world.net": 1,
+  "gunsamerica.com": 1,
+  "gunsandammo.com": 1,
+  "guruonline.hk": 1,
+  "gutteruncensored.com": 1,
+  "gvlib.com": 1,
+  "gvm.com.tw": 1,
+  "gvt0.com": 1,
+  "gvt1.com": 1,
+  "gvt3.com": 1,
+  "gwins.org": 1,
+  "gwtproject.org": 1,
+  "gyalwarinpoche.com": 1,
+  "gyatsostudio.com": 1,
+  "gzm.tv": 1,
+  "gzone-anime.info": 1,
+  "h-china.org": 1,
+  "h-moe.com": 1,
+  "h1n1china.org": 1,
+  "h528.com": 1,
+  "h5dm.com": 1,
+  "h5galgame.me": 1,
+  "hacg.club": 1,
+  "hacg.in": 1,
+  "hacg.li": 1,
+  "hacg.me": 1,
+  "hacg.red": 1,
+  "hacken.cc": 1,
+  "hacker.org": 1,
+  "hackmd.io": 1,
+  "hackthatphone.net": 1,
+  "hahlo.com": 1,
+  "hakkatv.org.tw": 1,
+  "handcraftedsoftware.org": 1,
+  "hanime.tv": 1,
+  "hanminzu.org": 1,
+  "hanunyi.com": 1,
+  "hao123.com": 1,
+  "hao123img.com": 1,
+  "happy-vpn.com": 1,
+  "haproxy.org": 1,
+  "hardsextube.com": 1,
+  "harunyahya.com": 1,
+  "hasi.wang": 1,
+  "hautelook.com": 1,
+  "hautelookcdn.com": 1,
+  "have8.com": 1,
+  "hbg.com": 1,
+  "hbo.com": 1,
+  "hclips.com": 1,
+  "hdlt.me": 1,
+  "hdtvb.net": 1,
+  "hdzog.com": 1,
+  "he.net": 1,
+  "heartyit.com": 1,
+  "heavy-r.com": 1,
+  "hec.su": 1,
+  "hecaitou.net": 1,
+  "hechaji.com": 1,
+  "heeact.edu.tw": 1,
+  "hegre-art.com": 1,
+  "heix.pp.ru": 1,
+  "helixstudios.net": 1,
+  "helloandroid.com": 1,
+  "helloqueer.com": 1,
+  "helloss.pw": 1,
+  "hellotxt.com": 1,
+  "hellouk.org": 1,
+  "helpeachpeople.com": 1,
+  "helplinfen.com": 1,
+  "helpster.de": 1,
+  "helpuyghursnow.org": 1,
+  "helpzhuling.org": 1,
+  "hentai.to": 1,
+  "hentaitube.tv": 1,
+  "hentaivideoworld.com": 1,
+  "heqinglian.net": 1,
+  "here.com": 1,
+  "heritage.org": 1,
+  "heroku.com": 1,
+  "heungkongdiscuss.com": 1,
+  "hexieshe.com": 1,
+  "hexieshe.xyz": 1,
+  "hexxeh.net": 1,
+  "heyuedi.com": 1,
+  "heywire.com": 1,
+  "heyzo.com": 1,
+  "hgseav.com": 1,
+  "hhdcb3office.org": 1,
+  "hhthesakyatrizin.org": 1,
+  "hi-on.org.tw": 1,
+  "hidden-advent.org": 1,
+  "hide.me": 1,
+  "hidecloud.com": 1,
+  "hidein.net": 1,
+  "hideipvpn.com": 1,
+  "hideman.net": 1,
+  "hideme.nl": 1,
+  "hidemy.name": 1,
+  "hidemyass.com": 1,
+  "hidemycomp.com": 1,
+  "higfw.com": 1,
+  "highpeakspureearth.com": 1,
+  "highrockmedia.com": 1,
+  "hightail.com": 1,
+  "hihiforum.com": 1,
+  "hihistory.net": 1,
+  "hiitch.com": 1,
+  "hikinggfw.org": 1,
+  "hilive.tv": 1,
+  "himalayan-foundation.org": 1,
+  "himalayanglacier.com": 1,
+  "himemix.com": 1,
+  "himemix.net": 1,
+  "hinet.net": 1,
+  "hitbtc.com": 1,
+  "hitomi.la": 1,
+  "hiwifi.com": 1,
+  "hizb-ut-tahrir.info": 1,
+  "hizb-ut-tahrir.org": 1,
+  "hizbuttahrir.org": 1,
+  "hjclub.info": 1,
+  "hk-pub.com": 1,
+  "hk01.com": 1,
+  "hk32168.com": 1,
+  "hkacg.com": 1,
+  "hkacg.net": 1,
+  "hkatvnews.com": 1,
+  "hkbc.net": 1,
+  "hkbf.org": 1,
+  "hkbookcity.com": 1,
+  "hkchronicles.com": 1,
+  "hkchurch.org": 1,
+  "hkci.org.hk": 1,
+  "hkcmi.edu": 1,
+  "hkcnews.com": 1,
+  "hkcoc.com": 1,
+  "hkctu.org.hk": 1,
+  "hkdailynews.com.hk": 1,
+  "hkday.net": 1,
+  "hkdc.us": 1,
+  "hkdf.org": 1,
+  "hkej.com": 1,
+  "hkepc.com": 1,
+  "hket.com": 1,
+  "hkfaa.com": 1,
+  "hkfreezone.com": 1,
+  "hkfront.org": 1,
+  "hkgalden.com": 1,
+  "hkgolden.com": 1,
+  "hkgpao.com": 1,
+  "hkgreenradio.org": 1,
+  "hkheadline.com": 1,
+  "hkhkhk.com": 1,
+  "hkhrc.org.hk": 1,
+  "hkhrm.org.hk": 1,
+  "hkja.org.hk": 1,
+  "hkjc.com": 1,
+  "hkjp.org": 1,
+  "hklft.com": 1,
+  "hklts.org.hk": 1,
+  "hkopentv.com": 1,
+  "hkpeanut.com": 1,
+  "hkptu.org": 1,
+  "hkreporter.com": 1,
+  "hku.hk": 1,
+  "hkusu.net": 1,
+  "hkvwet.com": 1,
+  "hkwcc.org.hk": 1,
+  "hkzone.org": 1,
+  "hmoegirl.com": 1,
+  "hmonghot.com": 1,
+  "hmv.co.jp": 1,
+  "hmvdigital.ca": 1,
+  "hmvdigital.com": 1,
+  "hnjhj.com": 1,
+  "hnntube.com": 1,
+  "hola.com": 1,
+  "hola.org": 1,
+  "holymountaincn.com": 1,
+  "holyspiritspeaks.org": 1,
+  "homedepot.com": 1,
+  "homeperversion.com": 1,
+  "homeservershow.com": 1,
+  "honeynet.org": 1,
+  "hongkongfp.com": 1,
+  "hongmeimei.com": 1,
+  "hongzhi.li": 1,
+  "honven.xyz": 1,
+  "hootsuite.com": 1,
+  "hoover.org": 1,
+  "hoovers.com": 1,
+  "hopedialogue.org": 1,
+  "hopto.org": 1,
+  "hornygamer.com": 1,
+  "hornytrip.com": 1,
+  "horrorporn.com": 1,
+  "hotair.com": 1,
+  "hotav.tv": 1,
+  "hotels.cn": 1,
+  "hotfrog.com.tw": 1,
+  "hotgoo.com": 1,
+  "hotpornshow.com": 1,
+  "hotpot.hk": 1,
+  "hotshame.com": 1,
+  "hotspotshield.com": 1,
+  "hottg.com": 1,
+  "hotvpn.com": 1,
+  "hougaige.com": 1,
+  "howtoforge.com": 1,
+  "hoxx.com": 1,
+  "hqcdp.org": 1,
+  "hqjapanesesex.com": 1,
+  "hqmovies.com": 1,
+  "hrcchina.org": 1,
+  "hrcir.com": 1,
+  "hrea.org": 1,
+  "hrichina.org": 1,
+  "hrtsea.com": 1,
+  "hrw.org": 1,
+  "hrweb.org": 1,
+  "hsjp.net": 1,
+  "hsselite.com": 1,
+  "hst.net.tw": 1,
+  "hstern.net": 1,
+  "hstt.net": 1,
+  "ht.ly": 1,
+  "htkou.net": 1,
+  "htl.li": 1,
+  "html5rocks.com": 1,
+  "https443.net": 1,
+  "https443.org": 1,
+  "hua-yue.net": 1,
+  "huaglad.com": 1,
+  "huanghuagang.org": 1,
+  "huangyiyu.com": 1,
+  "huaren.us": 1,
+  "huaren4us.com": 1,
+  "huashangnews.com": 1,
+  "huasing.org": 1,
+  "huaxia-news.com": 1,
+  "huaxiabao.org": 1,
+  "huaxin.ph": 1,
+  "huayuworld.org": 1,
+  "hudatoriq.web.id": 1,
+  "hudson.org": 1,
+  "huffingtonpost.com": 1,
+  "hugoroy.eu": 1,
+  "huhaitai.com": 1,
+  "huhamhire.com": 1,
+  "huhangfei.com": 1,
+  "huiyi.in": 1,
+  "hulkshare.com": 1,
+  "hulu.com": 1,
+  "huluim.com": 1,
+  "hung-ya.com": 1,
+  "hungerstrikeforaids.org": 1,
+  "huobi.co": 1,
+  "huobi.com": 1,
+  "huobi.me": 1,
+  "huobi.pro": 1,
+  "huobi.sc": 1,
+  "huobipro.com": 1,
+  "huping.net": 1,
+  "hurgokbayrak.com": 1,
+  "hustler.com": 1,
+  "hustlercash.com": 1,
+  "hut2.ru": 1,
+  "hutianyi.net": 1,
+  "hutong9.net": 1,
+  "huyandex.com": 1,
+  "hwadzan.tw": 1,
+  "hwayue.org.tw": 1,
+  "hwinfo.com": 1,
+  "hxwk.org": 1,
+  "hxwq.org": 1,
+  "hybrid-analysis.com": 1,
+  "hyperrate.com": 1,
+  "hyread.com.tw": 1,
+  "i-cable.com": 1,
+  "i-part.com.tw": 1,
+  "i1.hk": 1,
+  "i2p2.de": 1,
+  "i2runner.com": 1,
+  "i818hk.com": 1,
+  "iam.soy": 1,
+  "iamtopone.com": 1,
+  "iask.bz": 1,
+  "iask.ca": 1,
+  "iav19.com": 1,
+  "ibiblio.org": 1,
+  "ibit.am": 1,
+  "iblist.com": 1,
+  "iblogserv-f.net": 1,
+  "ibros.org": 1,
+  "ibtimes.com": 1,
+  "ibvpn.com": 1,
+  "icams.com": 1,
+  "icerocket.com": 1,
+  "icij.org": 1,
+  "icl-fi.org": 1,
+  "icoco.com": 1,
+  "iconfactory.net": 1,
+  "iconpaper.org": 1,
+  "icu-project.org": 1,
+  "idaiwan.com": 1,
+  "idemocracy.asia": 1,
+  "identi.ca": 1,
+  "idiomconnection.com": 1,
+  "idlcoyote.com": 1,
+  "idouga.com": 1,
+  "idreamx.com": 1,
+  "idsam.com": 1,
+  "idv.tw": 1,
+  "ieasy5.com": 1,
+  "ied2k.net": 1,
+  "ienergy1.com": 1,
+  "iepl.us": 1,
+  "ifanqiang.com": 1,
+  "ifcss.org": 1,
+  "ifjc.org": 1,
+  "ifreewares.com": 1,
+  "ift.tt": 1,
+  "igcd.net": 1,
+  "igfw.net": 1,
+  "igmg.de": 1,
+  "ignitedetroit.net": 1,
+  "igoogle.com": 1,
+  "igotmail.com.tw": 1,
+  "igvita.com": 1,
+  "ihakka.net": 1,
+  "ihao.org": 1,
+  "iicns.com": 1,
+  "ikstar.com": 1,
+  "ikwb.com": 1,
+  "ilbe.com": 1,
+  "ilhamtohtiinstitute.org": 1,
+  "illusionfactory.com": 1,
+  "ilove80.be": 1,
+  "ilovelongtoes.com": 1,
+  "im.tv": 1,
+  "im88.tw": 1,
+  "imageab.com": 1,
+  "imagefap.com": 1,
+  "imageflea.com": 1,
+  "images-gaytube.com": 1,
+  "imageshack.us": 1,
+  "imagevenue.com": 1,
+  "imagezilla.net": 1,
+  "imb.org": 1,
+  "imdb.com": 1,
+  "img.ly": 1,
+  "imgchili.net": 1,
+  "imgmega.com": 1,
+  "imgur.com": 1,
+  "imkev.com": 1,
+  "imlive.com": 1,
+  "immoral.jp": 1,
+  "impact.org.au": 1,
+  "impp.mn": 1,
+  "in-disguise.com": 1,
+  "in.com": 1,
+  "in99.org": 1,
+  "incapdns.net": 1,
+  "incloak.com": 1,
+  "incredibox.fr": 1,
+  "indiablooms.com": 1,
+  "indianarrative.com": 1,
+  "indiandefensenews.in": 1,
+  "indiatimes.com": 1,
+  "indiemerch.com": 1,
+  "info-graf.fr": 1,
+  "informer.com": 1,
+  "initiativesforchina.org": 1,
+  "inkui.com": 1,
+  "inmediahk.net": 1,
+  "innermongolia.org": 1,
+  "inoreader.com": 1,
+  "inote.tw": 1,
+  "insecam.org": 1,
+  "insidevoa.com": 1,
+  "instagram.com": 1,
+  "instanthq.com": 1,
+  "institut-tibetain.org": 1,
+  "internet.org": 1,
+  "internetdefenseleague.org": 1,
+  "internetfreedom.org": 1,
+  "internetpopculture.com": 1,
+  "inthenameofconfuciusmovie.com": 1,
+  "inxian.com": 1,
+  "iownyour.biz": 1,
+  "iownyour.org": 1,
+  "ipalter.com": 1,
+  "ipfire.org": 1,
+  "ipfs.io": 1,
+  "iphone4hongkong.com": 1,
+  "iphonehacks.com": 1,
+  "iphonetaiwan.org": 1,
+  "iphonix.fr": 1,
+  "ipicture.ru": 1,
+  "ipjetable.net": 1,
+  "ipobar.com": 1,
+  "ipoock.com": 1,
+  "iportal.me": 1,
+  "ippotv.com": 1,
+  "ipredator.se": 1,
+  "iptv.com.tw": 1,
+  "iptvbin.com": 1,
+  "ipvanish.com": 1,
+  "iqiyi.com": 1,
+  "iredmail.org": 1,
+  "irib.ir": 1,
+  "ironpython.net": 1,
+  "ironsocket.com": 1,
+  "is-a-hunter.com": 1,
+  "is.gd": 1,
+  "isaacmao.com": 1,
+  "isasecret.com": 1,
+  "isgreat.org": 1,
+  "islahhaber.net": 1,
+  "islam.org.hk": 1,
+  "islamawareness.net": 1,
+  "islamhouse.com": 1,
+  "islamicity.com": 1,
+  "islamicpluralism.org": 1,
+  "islamtoday.net": 1,
+  "ismaelan.com": 1,
+  "ismalltits.com": 1,
+  "ismprofessional.net": 1,
+  "isohunt.com": 1,
+  "israbox.com": 1,
+  "issuu.com": 1,
+  "istarshine.com": 1,
+  "istef.info": 1,
+  "istiqlalhewer.com": 1,
+  "istockphoto.com": 1,
+  "isunaffairs.com": 1,
+  "isuntv.com": 1,
+  "isupportuyghurs.org": 1,
+  "itaboo.info": 1,
+  "italiatibet.org": 1,
+  "itasoftware.com": 1,
+  "itemdb.com": 1,
+  "ithome.com.tw": 1,
+  "itsaol.com": 1,
+  "itshidden.com": 1,
+  "itsky.it": 1,
+  "itweet.net": 1,
+  "iu45.com": 1,
+  "iuhrdf.org": 1,
+  "iuksky.com": 1,
+  "ivacy.com": 1,
+  "iverycd.com": 1,
+  "ivpn.net": 1,
+  "ixquick.com": 1,
+  "ixxx.com": 1,
+  "iyouport.com": 1,
+  "iyouport.org": 1,
+  "izaobao.us": 1,
+  "izihost.org": 1,
+  "izles.net": 1,
+  "izlesem.org": 1,
+  "j.mp": 1,
+  "jable.tv": 1,
+  "jackjia.com": 1,
+  "jamaat.org": 1,
+  "jamestown.org": 1,
+  "jamyangnorbu.com": 1,
+  "jandyx.com": 1,
+  "janwongphoto.com": 1,
+  "japan-whores.com": 1,
+  "japantimes.co.jp": 1,
+  "jav.com": 1,
+  "jav101.com": 1,
+  "jav2be.com": 1,
+  "jav68.tv": 1,
+  "javakiba.org": 1,
+  "javbus.com": 1,
+  "javfor.me": 1,
+  "javhd.com": 1,
+  "javhip.com": 1,
+  "javhub.net": 1,
+  "javhuge.com": 1,
+  "javlibrary.com": 1,
+  "javmobile.net": 1,
+  "javmoo.com": 1,
+  "javmoo.xyz": 1,
+  "javseen.com": 1,
+  "javtag.com": 1,
+  "javzoo.com": 1,
+  "jbtalks.cc": 1,
+  "jbtalks.com": 1,
+  "jbtalks.my": 1,
+  "jcpenney.com": 1,
+  "jdwsy.com": 1,
+  "jeanyim.com": 1,
+  "jetos.com": 1,
+  "jex.com": 1,
+  "jfqu36.club": 1,
+  "jfqu37.xyz": 1,
+  "jgoodies.com": 1,
+  "jiangweiping.com": 1,
+  "jiaoyou8.com": 1,
+  "jiehua.cz": 1,
+  "jiepang.com": 1,
+  "jieshibaobao.com": 1,
+  "jigglegifs.com": 1,
+  "jigong1024.com": 1,
+  "jigsy.com": 1,
+  "jihadology.net": 1,
+  "jiji.com": 1,
+  "jims.net": 1,
+  "jinbushe.org": 1,
+  "jingpin.org": 1,
+  "jingsim.org": 1,
+  "jinhai.de": 1,
+  "jinpianwang.com": 1,
+  "jinroukong.com": 1,
+  "jintian.net": 1,
+  "jinx.com": 1,
+  "jiruan.net": 1,
+  "jitouch.com": 1,
+  "jizzthis.com": 1,
+  "jjgirls.com": 1,
+  "jkb.cc": 1,
+  "jkforum.net": 1,
+  "jkub.com": 1,
+  "jma.go.jp": 1,
+  "jmscult.com": 1,
+  "joachims.org": 1,
+  "jobso.tv": 1,
+  "joinbbs.net": 1,
+  "joinclubhouse.com": 1,
+  "joinmastodon.org": 1,
+  "joins.com": 1,
+  "journalchretien.net": 1,
+  "journalofdemocracy.org": 1,
+  "joymiihub.com": 1,
+  "joyourself.com": 1,
+  "jpopforum.net": 1,
+  "jqueryui.com": 1,
+  "jshell.net": 1,
+  "jtvnw.net": 1,
+  "jubushoushen.com": 1,
+  "juhuaren.com": 1,
+  "jukujo-club.com": 1,
+  "juliepost.com": 1,
+  "juliereyc.com": 1,
+  "junauza.com": 1,
+  "june4commemoration.org": 1,
+  "junefourth-20.net": 1,
+  "jungleheart.com": 1,
+  "junglobal.net": 1,
+  "juoaa.com": 1,
+  "justdied.com": 1,
+  "justfreevpn.com": 1,
+  "justicefortenzin.org": 1,
+  "justmysocks1.net": 1,
+  "justpaste.it": 1,
+  "justtristan.com": 1,
+  "juyuange.org": 1,
+  "juziyue.com": 1,
+  "jwmusic.org": 1,
+  "jyxf.net": 1,
+  "k-doujin.net": 1,
+  "ka-wai.com": 1,
+  "kadokawa.co.jp": 1,
+  "kagyu.org": 1,
+  "kagyumonlam.org": 1,
+  "kagyunews.com.hk": 1,
+  "kagyuoffice.org": 1,
+  "kagyuoffice.org.tw": 1,
+  "kaiyuan.de": 1,
+  "kakao.com": 1,
+  "kalachakralugano.org": 1,
+  "kangye.org": 1,
+  "kankan.today": 1,
+  "kannewyork.com": 1,
+  "kanshifang.com": 1,
+  "kantie.org": 1,
+  "kanzhongguo.com": 1,
+  "kanzhongguo.eu": 1,
+  "kaotic.com": 1,
+  "karayou.com": 1,
+  "karkhung.com": 1,
+  "karmapa-teachings.org": 1,
+  "karmapa.org": 1,
+  "kawaiikawaii.jp": 1,
+  "kawase.com": 1,
+  "kba-tx.org": 1,
+  "kcoolonline.com": 1,
+  "kebrum.com": 1,
+  "kechara.com": 1,
+  "keepandshare.com": 1,
+  "keezmovies.com": 1,
+  "kendatire.com": 1,
+  "kendincos.net": 1,
+  "kenengba.com": 1,
+  "keontech.net": 1,
+  "kepard.com": 1,
+  "keso.cn": 1,
+  "kex.com": 1,
+  "keycdn.com": 1,
+  "khabdha.org": 1,
+  "khatrimaza.org": 1,
+  "khmusic.com.tw": 1,
+  "kichiku-doujinko.com": 1,
+  "kik.com": 1,
+  "killwall.com": 1,
+  "kimy.com.tw": 1,
+  "kindleren.com": 1,
+  "kingdomsalvation.org": 1,
+  "kinghost.com": 1,
+  "kingstone.com.tw": 1,
+  "kink.com": 1,
+  "kinmen.org.tw": 1,
+  "kinmen.travel": 1,
+  "kinokuniya.com": 1,
+  "kir.jp": 1,
+  "kissbbao.cn": 1,
+  "kiwi.kz": 1,
+  "kk-whys.co.jp": 1,
+  "kkbox.com": 1,
+  "kknews.cc": 1,
+  "klip.me": 1,
+  "kmuh.org.tw": 1,
+  "knowledgerush.com": 1,
+  "knowyourmeme.com": 1,
+  "kobo.com": 1,
+  "kobobooks.com": 1,
+  "kodingen.com": 1,
+  "kompozer.net": 1,
+  "konachan.com": 1,
+  "kone.com": 1,
+  "koolsolutions.com": 1,
+  "koornk.com": 1,
+  "koranmandarin.com": 1,
+  "korenan2.com": 1,
+  "kqes.net": 1,
+  "krtco.com.tw": 1,
+  "ksdl.org": 1,
+  "ksnews.com.tw": 1,
+  "kspcoin.com": 1,
+  "ktzhk.com": 1,
+  "kucoin.com": 1,
+  "kui.name": 1,
+  "kukuku.uk": 1,
+  "kun.im": 1,
+  "kurashsultan.com": 1,
+  "kurtmunger.com": 1,
+  "kusocity.com": 1,
+  "kwcg.ca": 1,
+  "kwok7.com": 1,
+  "kwongwah.com.my": 1,
+  "kxsw.life": 1,
+  "kyofun.com": 1,
+  "kyohk.net": 1,
+  "kyoyue.com": 1,
+  "kyzyhello.com": 1,
+  "kzeng.info": 1,
+  "la-forum.org": 1,
+  "labiennale.org": 1,
+  "ladbrokes.com": 1,
+  "lagranepoca.com": 1,
+  "lala.im": 1,
+  "lalulalu.com": 1,
+  "lama.com.tw": 1,
+  "lamayeshe.com": 1,
+  "lamenhu.com": 1,
+  "lamrim.com": 1,
+  "landofhope.tv": 1,
+  "lanterncn.cn": 1,
+  "lantosfoundation.org": 1,
+  "laod.cn": 1,
+  "laogai.org": 1,
+  "laogairesearch.org": 1,
+  "laomiu.com": 1,
+  "laoyang.info": 1,
+  "laptoplockdown.com": 1,
+  "laqingdan.net": 1,
+  "larsgeorge.com": 1,
+  "lastcombat.com": 1,
+  "lastfm.es": 1,
+  "latelinenews.com": 1,
+  "lausan.hk": 1,
+  "law.com": 1,
+  "lbank.info": 1,
+  "le-vpn.com": 1,
+  "leafyvpn.net": 1,
+  "lecloud.net": 1,
+  "leeao.com.cn": 1,
+  "lefora.com": 1,
+  "left21.hk": 1,
+  "legalporno.com": 1,
+  "legsjapan.com": 1,
+  "leirentv.ca": 1,
+  "leisurecafe.ca": 1,
+  "leisurepro.com": 1,
+  "lematin.ch": 1,
+  "lemonde.fr": 1,
+  "lenwhite.com": 1,
+  "leorockwell.com": 1,
+  "lerosua.org": 1,
+  "lesoir.be": 1,
+  "lester850.info": 1,
+  "letou.com": 1,
+  "letscorp.net": 1,
+  "letsencrypt.org": 1,
+  "levyhsu.com": 1,
+  "lflink.com": 1,
+  "lflinkup.com": 1,
+  "lflinkup.net": 1,
+  "lflinkup.org": 1,
+  "lfpcontent.com": 1,
+  "lhakar.org": 1,
+  "lhasocialwork.org": 1,
+  "liangyou.net": 1,
+  "liangzhichuanmei.com": 1,
+  "lianyue.net": 1,
+  "liaowangxizang.net": 1,
+  "liberal.org.hk": 1,
+  "libertytimes.com.tw": 1,
+  "libraryinformationtechnology.com": 1,
+  "lidecheng.com": 1,
+  "lifemiles.com": 1,
+  "lighten.org.tw": 1,
+  "lighti.me": 1,
+  "lightnovel.cn": 1,
+  "lightyearvpn.com": 1,
+  "lihkg.com": 1,
+  "like.com": 1,
+  "limiao.net": 1,
+  "line-apps.com": 1,
+  "line-scdn.net": 1,
+  "line.me": 1,
+  "linglingfa.com": 1,
+  "lingvodics.com": 1,
+  "link-o-rama.com": 1,
+  "linkedin.com": 1,
+  "linkideo.com": 1,
+  "linksalpha.com": 1,
+  "linkuswell.com": 1,
+  "linpie.com": 1,
+  "linux.org.hk": 1,
+  "linuxtoy.org": 1,
+  "lionsroar.com": 1,
+  "lipuman.com": 1,
+  "liquiditytp.com": 1,
+  "liquidvpn.com": 1,
+  "list-manage.com": 1,
+  "listennotes.com": 1,
+  "listentoyoutube.com": 1,
+  "listorious.com": 1,
+  "lithium.com": 1,
+  "liu-xiaobo.org": 1,
+  "liudejun.com": 1,
+  "liuhanyu.com": 1,
+  "liujianshu.com": 1,
+  "liuxiaobo.net": 1,
+  "liuxiaotong.com": 1,
+  "live.com": 1,
+  "livecoin.net": 1,
+  "livedoor.jp": 1,
+  "liveleak.com": 1,
+  "livemint.com": 1,
+  "livestation.com": 1,
+  "livestream.com": 1,
+  "livevideo.com": 1,
+  "livingonline.us": 1,
+  "livingstream.com": 1,
+  "liwangyang.com": 1,
+  "lizhizhuangbi.com": 1,
+  "lkcn.net": 1,
+  "llss.me": 1,
+  "lncn.org": 1,
+  "load.to": 1,
+  "lobsangwangyal.com": 1,
+  "localbitcoins.com": 1,
+  "localdomain.ws": 1,
+  "localpresshk.com": 1,
+  "lockestek.com": 1,
+  "logbot.net": 1,
+  "logiqx.com": 1,
+  "logmein.com": 1,
+  "logos.com.hk": 1,
+  "londonchinese.ca": 1,
+  "longhair.hk": 1,
+  "longmusic.com": 1,
+  "longtermly.net": 1,
+  "longtoes.com": 1,
+  "lookpic.com": 1,
+  "looktoronto.com": 1,
+  "lotsawahouse.org": 1,
+  "lotuslight.org.hk": 1,
+  "lotuslight.org.tw": 1,
+  "loved.hk": 1,
+  "lovetvshow.com": 1,
+  "lpsg.com": 1,
+  "lrfz.com": 1,
+  "lrip.org": 1,
+  "lsd.org.hk": 1,
+  "lsforum.net": 1,
+  "lsm.org": 1,
+  "lsmchinese.org": 1,
+  "lsmkorean.org": 1,
+  "lsmradio.com": 1,
+  "lsmwebcast.com": 1,
+  "lsxszzg.com": 1,
+  "ltn.com.tw": 1,
+  "luke54.com": 1,
+  "luke54.org": 1,
+  "lupm.org": 1,
+  "lushstories.com": 1,
+  "luxebc.com": 1,
+  "lvhai.org": 1,
+  "lvv2.com": 1,
+  "lyfhk.net": 1,
+  "lzjscript.com": 1,
+  "lzmtnews.org": 1,
+  "m.me": 1,
+  "macgamestore.com": 1,
+  "macrovpn.com": 1,
+  "macts.com.tw": 1,
+  "mad-ar.ch": 1,
+  "madewithcode.com": 1,
+  "madonna-av.com": 1,
+  "madrau.com": 1,
+  "madthumbs.com": 1,
+  "magic-net.info": 1,
+  "mahabodhi.org": 1,
+  "maiio.net": 1,
+  "mail-archive.com": 1,
+  "mail.ru": 1,
+  "mailchimp.com": 1,
+  "maildns.xyz": 1,
+  "maiplus.com": 1,
+  "maizhong.org": 1,
+  "makemymood.com": 1,
+  "makkahnewspaper.com": 1,
+  "malaysiakini.com": 1,
+  "mamingzhe.com": 1,
+  "manchukuo.net": 1,
+  "mandiant.com": 1,
+  "mangafox.com": 1,
+  "mangafox.me": 1,
+  "maniash.com": 1,
+  "manicur4ik.ru": 1,
+  "mansion.com": 1,
+  "mansionpoker.com": 1,
+  "manta.com": 1,
+  "maplew.com": 1,
+  "marc.info": 1,
+  "marguerite.su": 1,
+  "martau.com": 1,
+  "martincartoons.com": 1,
+  "martinoei.com": 1,
+  "martsangkagyuofficial.org": 1,
+  "maruta.be": 1,
+  "marxist.com": 1,
+  "marxist.net": 1,
+  "marxists.org": 1,
+  "mash.to": 1,
+  "maskedip.com": 1,
+  "mastodon.social": 1,
+  "mastodon.xyz": 1,
+  "matainja.com": 1,
+  "material.io": 1,
+  "mathable.io": 1,
+  "mathiew-badimon.com": 1,
+  "matome-plus.com": 1,
+  "matome-plus.net": 1,
+  "matrix.org": 1,
+  "matsushimakaede.com": 1,
+  "mattwilcox.net": 1,
+  "maturejp.com": 1,
+  "maxing.jp": 1,
+  "mayimayi.com": 1,
+  "mcadforums.com": 1,
+  "mcaf.ee": 1,
+  "mcfog.com": 1,
+  "mcreasite.com": 1,
+  "md-t.org": 1,
+  "me.me": 1,
+  "me.uk": 1,
+  "meansys.com": 1,
+  "media.org.hk": 1,
+  "mediachinese.com": 1,
+  "mediafire.com": 1,
+  "mediafreakcity.com": 1,
+  "medium.com": 1,
+  "meetav.com": 1,
+  "meetup.com": 1,
+  "mefeedia.com": 1,
+  "meforum.org": 1,
+  "mefound.com": 1,
+  "mega.io": 1,
+  "megaproxy.com": 1,
+  "megarotic.com": 1,
+  "megavideo.com": 1,
+  "megurineluka.com": 1,
+  "meirixiaochao.com": 1,
+  "meltoday.com": 1,
+  "memehk.com": 1,
+  "memorybbs.com": 1,
+  "memri.org": 1,
+  "memrijttm.org": 1,
+  "mercatox.com": 1,
+  "mercdn.net": 1,
+  "mercyprophet.org": 1,
+  "mergersandinquisitions.org": 1,
+  "meridian-trust.org": 1,
+  "meripet.biz": 1,
+  "meripet.com": 1,
+  "merit-times.com.tw": 1,
+  "meshrep.com": 1,
+  "mesotw.com": 1,
+  "messenger.com": 1,
+  "metacafe.com": 1,
+  "metafilter.com": 1,
+  "metart.com": 1,
+  "metarthunter.com": 1,
+  "meteorshowersonline.com": 1,
+  "metrohk.com.hk": 1,
+  "metrolife.ca": 1,
+  "metroradio.com.hk": 1,
+  "mewe.com": 1,
+  "meyou.jp": 1,
+  "meyul.com": 1,
+  "mfxmedia.com": 1,
+  "mgoon.com": 1,
+  "mgstage.com": 1,
+  "mh4u.org": 1,
+  "mhradio.org": 1,
+  "michaelanti.com": 1,
+  "michaelmarketl.com": 1,
+  "microvpn.com": 1,
+  "middle-way.net": 1,
+  "mihk.hk": 1,
+  "mihr.com": 1,
+  "mihua.org": 1,
+  "mikesoltys.com": 1,
+  "mikocon.com": 1,
+  "milph.net": 1,
+  "milsurps.com": 1,
+  "mimiai.net": 1,
+  "mimivip.com": 1,
+  "mimivv.com": 1,
+  "mindrolling.org": 1,
+  "mingdemedia.org": 1,
+  "minghui-a.org": 1,
+  "minghui-b.org": 1,
+  "minghui-school.org": 1,
+  "minghui.or.kr": 1,
+  "minghui.org": 1,
+  "mingjinglishi.com": 1,
+  "mingjingnews.com": 1,
+  "mingjingtimes.com": 1,
+  "mingpao.com": 1,
+  "mingpaocanada.com": 1,
+  "mingpaomonthly.com": 1,
+  "mingpaonews.com": 1,
+  "mingpaony.com": 1,
+  "mingpaosf.com": 1,
+  "mingpaotor.com": 1,
+  "mingpaovan.com": 1,
+  "mingshengbao.com": 1,
+  "minhhue.net": 1,
+  "miniforum.org": 1,
+  "ministrybooks.org": 1,
+  "minzhuhua.net": 1,
+  "minzhuzhanxian.com": 1,
+  "minzhuzhongguo.org": 1,
+  "miroguide.com": 1,
+  "mirrorbooks.com": 1,
+  "mirrormedia.mg": 1,
+  "mit.edu": 1,
+  "mitao.com.tw": 1,
+  "mitbbs.com": 1,
+  "mitbbsau.com": 1,
+  "mixero.com": 1,
+  "mixi.jp": 1,
+  "mixpod.com": 1,
+  "mixx.com": 1,
+  "mizzmona.com": 1,
+  "mk5000.com": 1,
+  "mlcool.com": 1,
+  "mlzs.work": 1,
+  "mm-cg.com": 1,
+  "mmaaxx.com": 1,
+  "mmmca.com": 1,
+  "mnewstv.com": 1,
+  "mobatek.net": 1,
+  "mobile01.com": 1,
+  "mobileways.de": 1,
+  "moby.to": 1,
+  "mobypicture.com": 1,
+  "mod.io": 1,
+  "modernchinastudies.org": 1,
+  "moeerolibrary.com": 1,
+  "moegirl.org": 1,
+  "mofaxiehui.com": 1,
+  "mofos.com": 1,
+  "mog.com": 1,
+  "mohu.club": 1,
+  "mohu.ml": 1,
+  "mohu.rocks": 1,
+  "mojim.com": 1,
+  "molihua.org": 1,
+  "monar.ch": 1,
+  "mondex.org": 1,
+  "money-link.com.tw": 1,
+  "moneyhome.biz": 1,
+  "monitorchina.org": 1,
+  "monitorware.com": 1,
+  "monlamit.org": 1,
+  "monster.com": 1,
+  "moodyz.com": 1,
+  "moon.fm": 1,
+  "moonbbs.com": 1,
+  "moonbingo.com": 1,
+  "moptt.tw": 1,
+  "morbell.com": 1,
+  "morningsun.org": 1,
+  "moroneta.com": 1,
+  "mos.ru": 1,
+  "motherless.com": 1,
+  "motiyun.com": 1,
+  "motor4ik.ru": 1,
+  "mousebreaker.com": 1,
+  "movements.org": 1,
+  "moviefap.com": 1,
+  "moztw.org": 1,
+  "mp3buscador.com": 1,
+  "mpettis.com": 1,
+  "mpfinance.com": 1,
+  "mpinews.com": 1,
+  "mponline.hk": 1,
+  "mqxd.org": 1,
+  "mrbasic.com": 1,
+  "mrbonus.com": 1,
+  "mrface.com": 1,
+  "mrslove.com": 1,
+  "mrtweet.com": 1,
+  "msa-it.org": 1,
+  "msguancha.com": 1,
+  "msha.gov": 1,
+  "msn.com": 1,
+  "msn.com.tw": 1,
+  "mswe1.org": 1,
+  "mthruf.com": 1,
+  "mtw.tl": 1,
+  "mubi.com": 1,
+  "muchosucko.com": 1,
+  "mullvad.net": 1,
+  "multiply.com": 1,
+  "multiproxy.org": 1,
+  "multiupload.com": 1,
+  "mummysgold.com": 1,
+  "murmur.tw": 1,
+  "musicade.net": 1,
+  "muslimvideo.com": 1,
+  "muzi.com": 1,
+  "muzi.net": 1,
+  "muzu.tv": 1,
+  "mvg.jp": 1,
+  "mx981.com": 1,
+  "my-formosa.com": 1,
+  "my-proxy.com": 1,
+  "my03.com": 1,
+  "my903.com": 1,
+  "myactimes.com": 1,
+  "myanniu.com": 1,
+  "myaudiocast.com": 1,
+  "myav.com.tw": 1,
+  "mybbs.us": 1,
+  "mybet.com": 1,
+  "myca168.com": 1,
+  "mycanadanow.com": 1,
+  "mychat.to": 1,
+  "mychinamyhome.com": 1,
+  "mychinanet.com": 1,
+  "mychinanews.com": 1,
+  "mycnnews.com": 1,
+  "mycould.com": 1,
+  "mydad.info": 1,
+  "myddns.com": 1,
+  "myeasytv.com": 1,
+  "myeclipseide.com": 1,
+  "myforum.com.hk": 1,
+  "myfreecams.com": 1,
+  "myfreepaysite.com": 1,
+  "myfreshnet.com": 1,
+  "myftp.info": 1,
+  "myftp.name": 1,
+  "myiphide.com": 1,
+  "mykomica.org": 1,
+  "mylftv.com": 1,
+  "mymaji.com": 1,
+  "mymediarom.com": 1,
+  "mymoe.moe": 1,
+  "mymom.info": 1,
+  "mymusic.net.tw": 1,
+  "mynetav.net": 1,
+  "mynetav.org": 1,
+  "mynumber.org": 1,
+  "myparagliding.com": 1,
+  "mypicture.info": 1,
+  "mypikpak.com": 1,
+  "mypop3.net": 1,
+  "mypop3.org": 1,
+  "mypopescu.com": 1,
+  "myradio.hk": 1,
+  "myreadingmanga.info": 1,
+  "mysecondarydns.com": 1,
+  "mysinablog.com": 1,
+  "myspace.com": 1,
+  "myspacecdn.com": 1,
+  "mytalkbox.com": 1,
+  "mytizi.com": 1,
+  "mywww.biz": 1,
+  "myz.info": 1,
+  "naacoalition.org": 1,
+  "nabble.com": 1,
+  "naitik.net": 1,
+  "nakido.com": 1,
+  "nakuz.com": 1,
+  "nalandabodhi.org": 1,
+  "nalandawest.org": 1,
+  "namgyal.org": 1,
+  "namgyalmonastery.org": 1,
+  "namsisi.com": 1,
+  "nanyang.com": 1,
+  "nanyangpost.com": 1,
+  "nanzao.com": 1,
+  "naol.ca": 1,
+  "naol.cc": 1,
+  "narod.ru": 1,
+  "nasa.gov": 1,
+  "nat.moe": 1,
+  "natado.com": 1,
+  "nationalawakening.org": 1,
+  "nationalgeographic.com": 1,
+  "nationalinterest.org": 1,
+  "nationalreview.com": 1,
+  "nationsonline.org": 1,
+  "nationwide.com": 1,
+  "naughtyamerica.com": 1,
+  "naver.jp": 1,
+  "navy.mil": 1,
+  "naweeklytimes.com": 1,
+  "nbc.com": 1,
+  "nbcnews.com": 1,
+  "nbtvpn.com": 1,
+  "nccwatch.org.tw": 1,
+  "nch.com.tw": 1,
+  "nchrd.org": 1,
+  "ncn.org": 1,
+  "ncol.com": 1,
+  "nde.de": 1,
+  "ndi.org": 1,
+  "ndr.de": 1,
+  "ned.org": 1,
+  "nekoslovakia.net": 1,
+  "neo-miracle.com": 1,
+  "neowin.net": 1,
+  "nepusoku.com": 1,
+  "nesnode.com": 1,
+  "net-fits.pro": 1,
+  "netalert.me": 1,
+  "netbig.com": 1,
+  "netbirds.com": 1,
+  "netcolony.com": 1,
+  "netfirms.com": 1,
+  "netflav.com": 1,
+  "netflix.com": 1,
+  "netflix.net": 1,
+  "netme.cc": 1,
+  "netsneak.com": 1,
+  "network54.com": 1,
+  "networkedblogs.com": 1,
+  "networktunnel.net": 1,
+  "neverforget8964.org": 1,
+  "new-3lunch.net": 1,
+  "new-akiba.com": 1,
+  "new96.ca": 1,
+  "newcenturymc.com": 1,
+  "newcenturynews.com": 1,
+  "newchen.com": 1,
+  "newgrounds.com": 1,
+  "newhighlandvision.com": 1,
+  "newipnow.com": 1,
+  "newlandmagazine.com.au": 1,
+  "newnews.ca": 1,
+  "news100.com.tw": 1,
+  "newsancai.com": 1,
+  "newschinacomment.org": 1,
+  "newscn.org": 1,
+  "newsdetox.ca": 1,
+  "newsdh.com": 1,
+  "newsmagazine.asia": 1,
+  "newsmax.com": 1,
+  "newspeak.cc": 1,
+  "newstamago.com": 1,
+  "newstapa.org": 1,
+  "newstarnet.com": 1,
+  "newstatesman.com": 1,
+  "newsweek.com": 1,
+  "newtaiwan.com.tw": 1,
+  "newtalk.tw": 1,
+  "newyorker.com": 1,
+  "newyorktimes.com": 1,
+  "nexon.com": 1,
+  "next11.co.jp": 1,
+  "nextdigital.com.hk": 1,
+  "nextmag.com.tw": 1,
+  "nextmedia.com": 1,
+  "nexton-net.jp": 1,
+  "nexttv.com.tw": 1,
+  "nf.id.au": 1,
+  "nfjtyd.com": 1,
+  "nflxext.com": 1,
+  "nflximg.com": 1,
+  "nflximg.net": 1,
+  "nflxso.net": 1,
+  "nflxvideo.net": 1,
+  "ng.mil": 1,
+  "nga.mil": 1,
+  "ngensis.com": 1,
+  "ngodupdongchung.com": 1,
+  "nhentai.net": 1,
+  "nhk-ondemand.jp": 1,
+  "nic.gov": 1,
+  "nicovideo.jp": 1,
+  "nighost.org": 1,
+  "nightlife141.com": 1,
+  "nike.com": 1,
+  "nikkei.com": 1,
+  "ninecommentaries.com": 1,
+  "ning.com": 1,
+  "ninjacloak.com": 1,
+  "ninjaproxy.ninja": 1,
+  "nintendium.com": 1,
+  "ninth.biz": 1,
+  "nitter.cc": 1,
+  "nitter.net": 1,
+  "niu.moe": 1,
+  "niusnews.com": 1,
+  "njactb.org": 1,
+  "njuice.com": 1,
+  "nlfreevpn.com": 1,
+  "nnews.eu": 1,
+  "no-ip.com": 1,
+  "no-ip.org": 1,
+  "nobel.se": 1,
+  "nobelprize.org": 1,
+  "nobodycanstop.us": 1,
+  "nodesnoop.com": 1,
+  "nofile.io": 1,
+  "nokogiri.org": 1,
+  "nokola.com": 1,
+  "noodlevpn.com": 1,
+  "norbulingka.org": 1,
+  "nordstrom.com": 1,
+  "nordstromimage.com": 1,
+  "nordstromrack.com": 1,
+  "nordvpn.com": 1,
+  "notepad-plus-plus.org": 1,
+  "nottinghampost.com": 1,
+  "novelasia.com": 1,
+  "now.com": 1,
+  "now.im": 1,
+  "nownews.com": 1,
+  "nowtorrents.com": 1,
+  "noxinfluencer.com": 1,
+  "noypf.com": 1,
+  "npa.go.jp": 1,
+  "npnt.me": 1,
+  "nps.gov": 1,
+  "npsboost.com": 1,
+  "nradio.me": 1,
+  "nrk.no": 1,
+  "ns01.biz": 1,
+  "ns01.info": 1,
+  "ns01.us": 1,
+  "ns02.biz": 1,
+  "ns02.info": 1,
+  "ns02.us": 1,
+  "ns1.name": 1,
+  "ns2.name": 1,
+  "ns3.name": 1,
+  "ntd.tv": 1,
+  "ntdtv.ca": 1,
+  "ntdtv.co.kr": 1,
+  "ntdtv.com": 1,
+  "ntdtv.com.tw": 1,
+  "ntdtv.cz": 1,
+  "ntdtv.org": 1,
+  "ntdtv.ru": 1,
+  "ntdtvla.com": 1,
+  "ntrfun.com": 1,
+  "ntu.edu.tw": 1,
+  "nu.nl": 1,
+  "nubiles.net": 1,
+  "nudezz.com": 1,
+  "nuexpo.com": 1,
+  "nukistream.com": 1,
+  "nurgo-software.com": 1,
+  "nusatrip.com": 1,
+  "nutaku.net": 1,
+  "nutsvpn.work": 1,
+  "nuuvem.com": 1,
+  "nuvid.com": 1,
+  "nuzcom.com": 1,
+  "nvdst.com": 1,
+  "nvquan.org": 1,
+  "nvtongzhisheng.org": 1,
+  "nwtca.org": 1,
+  "nyaa.eu": 1,
+  "nyaa.si": 1,
+  "nybooks.com": 1,
+  "nydus.ca": 1,
+  "nylon-angel.com": 1,
+  "nylonstockingsonline.com": 1,
+  "nypost.com": 1,
+  "nyt.com": 1,
+  "nytchina.com": 1,
+  "nytcn.me": 1,
+  "nytco.com": 1,
+  "nyti.ms": 1,
+  "nytimes.com": 1,
+  "nytimg.com": 1,
+  "nytlog.com": 1,
+  "nytstyle.com": 1,
+  "nzchinese.com": 1,
+  "oanda.com": 1,
+  "oauth.net": 1,
+  "observechina.net": 1,
+  "obutu.com": 1,
+  "ocaspro.com": 1,
+  "occupytiananmen.com": 1,
+  "oclp.hk": 1,
+  "ocreampies.com": 1,
+  "ocry.com": 1,
+  "october-review.org": 1,
+  "oculus.com": 1,
+  "oculuscdn.com": 1,
+  "odysee.com": 1,
+  "oex.com": 1,
+  "offbeatchina.com": 1,
+  "officeoftibet.com": 1,
+  "ofile.org": 1,
+  "ogaoga.org": 1,
+  "ogate.org": 1,
+  "ohchr.org": 1,
+  "ohmyrss.com": 1,
+  "oikos.com.tw": 1,
+  "oiktv.com": 1,
+  "oizoblog.com": 1,
+  "ok.ru": 1,
+  "okayfreedom.com": 1,
+  "okex.com": 1,
+  "okk.tw": 1,
+  "okx.com": 1,
+  "olabloga.pl": 1,
+  "old-cat.net": 1,
+  "olevod.com": 1,
+  "olumpo.com": 1,
+  "olympicwatch.org": 1,
+  "omct.org": 1,
+  "omgili.com": 1,
+  "omni7.jp": 1,
+  "omnitalk.com": 1,
+  "omnitalk.org": 1,
+  "omny.fm": 1,
+  "omy.sg": 1,
+  "on.cc": 1,
+  "on2.com": 1,
+  "onapp.com": 1,
+  "onedumb.com": 1,
+  "onejav.com": 1,
+  "onlinecha.com": 1,
+  "onlineyoutube.com": 1,
+  "onlygayvideo.com": 1,
+  "onlytweets.com": 1,
+  "onmoon.com": 1,
+  "onmoon.net": 1,
+  "onmypc.biz": 1,
+  "onmypc.info": 1,
+  "onmypc.net": 1,
+  "onmypc.org": 1,
+  "onmypc.us": 1,
+  "onthehunt.com": 1,
+  "ontrac.com": 1,
+  "oopsforum.com": 1,
+  "open.com.hk": 1,
+  "openallweb.com": 1,
+  "opendemocracy.net": 1,
+  "opendn.xyz": 1,
+  "openervpn.in": 1,
+  "openid.net": 1,
+  "openleaks.org": 1,
+  "opensea.io": 1,
+  "openvpn.net": 1,
+  "openvpn.org": 1,
+  "openwebster.com": 1,
+  "openwrt.org.cn": 1,
+  "opera-mini.net": 1,
+  "opera.com": 1,
+  "opus-gaming.com": 1,
+  "orchidbbs.com": 1,
+  "org.uk": 1,
+  "organcare.org.tw": 1,
+  "organharvestinvestigation.net": 1,
+  "organiccrap.com": 1,
+  "orgasm.com": 1,
+  "orgfree.com": 1,
+  "orient-doll.com": 1,
+  "orientaldaily.com.my": 1,
+  "orn.jp": 1,
+  "orzdream.com": 1,
+  "orzistic.org": 1,
+  "osfoora.com": 1,
+  "otcbtc.com": 1,
+  "otnd.org": 1,
+  "otto.de": 1,
+  "otzo.com": 1,
+  "ourdearamy.com": 1,
+  "ourhobby.com": 1,
+  "oursogo.com": 1,
+  "oursteps.com.au": 1,
+  "oursweb.net": 1,
+  "ourtv.hk": 1,
+  "over-blog.com": 1,
+  "overdaily.org": 1,
+  "overplay.net": 1,
+  "ovi.com": 1,
+  "ovpn.com": 1,
+  "ow.ly": 1,
+  "owind.com": 1,
+  "owl.li": 1,
+  "owltail.com": 1,
+  "oxfordscholarship.com": 1,
+  "oxid.it": 1,
+  "oyax.com": 1,
+  "oyghan.com": 1,
+  "ozchinese.com": 1,
+  "ozvoice.org": 1,
+  "ozxw.com": 1,
+  "ozyoyo.com": 1,
+  "pachosting.com": 1,
+  "pacificpoker.com": 1,
+  "packetix.net": 1,
+  "pacopacomama.com": 1,
+  "padmanet.com": 1,
+  "page.tl": 1,
+  "page2rss.com": 1,
+  "pagodabox.com": 1,
+  "palacemoon.com": 1,
+  "paldengyal.com": 1,
+  "paljorpublications.com": 1,
+  "palmislife.com": 1,
+  "paltalk.com": 1,
+  "pandapow.co": 1,
+  "pandapow.net": 1,
+  "pandavpn-jp.com": 1,
+  "pandavpnpro.com": 1,
+  "pandora.com": 1,
+  "pandora.tv": 1,
+  "panluan.net": 1,
+  "panoramio.com": 1,
+  "pao-pao.net": 1,
+  "paper.li": 1,
+  "paperb.us": 1,
+  "paradisehill.cc": 1,
+  "paradisepoker.com": 1,
+  "parkansky.com": 1,
+  "parler.com": 1,
+  "parse.com": 1,
+  "parsevideo.com": 1,
+  "partycasino.com": 1,
+  "partypoker.com": 1,
+  "passion.com": 1,
+  "passiontimes.hk": 1,
+  "paste.ee": 1,
+  "pastebin.com": 1,
+  "pastie.org": 1,
+  "pathtosharepoint.com": 1,
+  "paxful.com": 1,
+  "pbs.org": 1,
+  "pbwiki.com": 1,
+  "pbworks.com": 1,
+  "pbxes.com": 1,
+  "pbxes.org": 1,
+  "pcanywhere.net": 1,
+  "pcdvd.com.tw": 1,
+  "pchome.com.tw": 1,
+  "pcij.org": 1,
+  "pcloud.com": 1,
+  "pcstore.com.tw": 1,
+  "pct.org.tw": 1,
+  "pdetails.com": 1,
+  "pdproxy.com": 1,
+  "peace.ca": 1,
+  "peacefire.org": 1,
+  "peacehall.com": 1,
+  "pearlher.org": 1,
+  "peeasian.com": 1,
+  "peing.net": 1,
+  "pekingduck.org": 1,
+  "pemulihan.or.id": 1,
+  "pen.io": 1,
+  "penchinese.com": 1,
+  "penchinese.net": 1,
+  "pengyulong.com": 1,
+  "penisbot.com": 1,
+  "pentalogic.net": 1,
+  "penthouse.com": 1,
+  "pentoy.hk": 1,
+  "peoplebookcafe.com": 1,
+  "peoplenews.tw": 1,
+  "peopo.org": 1,
+  "percy.in": 1,
+  "perfectgirls.net": 1,
+  "perfectvpn.net": 1,
+  "periscope.tv": 1,
+  "persecutionblog.com": 1,
+  "persiankitty.com": 1,
+  "pfd.org.hk": 1,
+  "phapluan.org": 1,
+  "phayul.com": 1,
+  "philborges.com": 1,
+  "philly.com": 1,
+  "phmsociety.org": 1,
+  "phncdn.com": 1,
+  "phonegap.com": 1,
+  "photodharma.net": 1,
+  "photofocus.com": 1,
+  "phuquocservices.com": 1,
+  "picacomic.com": 1,
+  "picacomiccn.com": 1,
+  "picasaweb.com": 1,
+  "picidae.net": 1,
+  "picturesocial.com": 1,
+  "pin-cong.com": 1,
+  "pin6.com": 1,
+  "pincong.rocks": 1,
+  "ping.fm": 1,
+  "pinimg.com": 1,
+  "pinkrod.com": 1,
+  "pinoy-n.com": 1,
+  "pinterest.at": 1,
+  "pinterest.ca": 1,
+  "pinterest.co.kr": 1,
+  "pinterest.com": 1,
+  "pinterest.com.mx": 1,
+  "pinterest.de": 1,
+  "pinterest.dk": 1,
+  "pinterest.fr": 1,
+  "pinterest.jp": 1,
+  "pinterest.nl": 1,
+  "pinterest.se": 1,
+  "pipii.tv": 1,
+  "piposay.com": 1,
+  "piraattilahti.org": 1,
+  "piring.com": 1,
+  "pixelqi.com": 1,
+  "pixiv.net": 1,
+  "pixnet.in": 1,
+  "pixnet.net": 1,
+  "pk.com": 1,
+  "placemix.com": 1,
+  "playboy.com": 1,
+  "playboyplus.com": 1,
+  "player.fm": 1,
+  "playno1.com": 1,
+  "playpcesor.com": 1,
+  "plays.com.tw": 1,
+  "plexvpn.pro": 1,
+  "plixi.com": 1,
+  "plm.org.hk": 1,
+  "plunder.com": 1,
+  "plurk.com": 1,
+  "plus.codes": 1,
+  "plus28.com": 1,
+  "plusbb.com": 1,
+  "pmatehunter.com": 1,
+  "pmates.com": 1,
+  "po2b.com": 1,
+  "podbean.com": 1,
+  "podcast.co": 1,
+  "podictionary.com": 1,
+  "pokerstars.com": 1,
+  "pokerstars.net": 1,
+  "pokerstrategy.com": 1,
+  "politicalchina.org": 1,
+  "politicalconsultation.org": 1,
+  "politiscales.net": 1,
+  "poloniex.com": 1,
+  "polymer-project.org": 1,
+  "polymerhk.com": 1,
+  "poolin.com": 1,
+  "popo.tw": 1,
+  "popvote.hk": 1,
+  "popyard.com": 1,
+  "popyard.org": 1,
+  "porn.com": 1,
+  "porn2.com": 1,
+  "porn5.com": 1,
+  "pornbase.org": 1,
+  "pornerbros.com": 1,
+  "pornhd.com": 1,
+  "pornhost.com": 1,
+  "pornhub.com": 1,
+  "pornhubdeutsch.net": 1,
+  "pornmm.net": 1,
+  "pornoxo.com": 1,
+  "pornrapidshare.com": 1,
+  "pornsharing.com": 1,
+  "pornsocket.com": 1,
+  "pornstarclub.com": 1,
+  "porntube.com": 1,
+  "porntubenews.com": 1,
+  "porntvblog.com": 1,
+  "pornvisit.com": 1,
+  "port25.biz": 1,
+  "portablevpn.nl": 1,
+  "poskotanews.com": 1,
+  "post01.com": 1,
+  "post76.com": 1,
+  "post852.com": 1,
+  "postadult.com": 1,
+  "postimg.org": 1,
+  "potato.im": 1,
+  "potvpn.com": 1,
+  "power.com": 1,
+  "powerapple.com": 1,
+  "powercx.com": 1,
+  "powerphoto.org": 1,
+  "powerpointninja.com": 1,
+  "prayforchina.net": 1,
+  "premeforwindows7.com": 1,
+  "premproxy.com": 1,
+  "presentationzen.com": 1,
+  "presidentlee.tw": 1,
+  "prestige-av.com": 1,
+  "printfriendly.com": 1,
+  "prism-break.org": 1,
+  "prisoneralert.com": 1,
+  "pritunl.com": 1,
+  "privacybox.de": 1,
+  "private.com": 1,
+  "privateinternetaccess.com": 1,
+  "privatepaste.com": 1,
+  "privatetunnel.com": 1,
+  "privatevpn.com": 1,
+  "privoxy.org": 1,
+  "procopytips.com": 1,
+  "project-syndicate.org": 1,
+  "prosiben.de": 1,
+  "protonvpn.com": 1,
+  "provideocoalition.com": 1,
+  "provpnaccounts.com": 1,
+  "proxfree.com": 1,
+  "proxifier.com": 1,
+  "proxlet.com": 1,
+  "proxomitron.info": 1,
+  "proxpn.com": 1,
+  "proxyanonimo.es": 1,
+  "proxydns.com": 1,
+  "proxypy.net": 1,
+  "proxyroad.com": 1,
+  "proxytunnel.net": 1,
+  "proyectoclubes.com": 1,
+  "prozz.net": 1,
+  "psblog.name": 1,
+  "pscp.tv": 1,
+  "pshvpn.com": 1,
+  "psiphon.ca": 1,
+  "psiphon3.com": 1,
+  "psiphontoday.com": 1,
+  "pt.im": 1,
+  "pts.org.tw": 1,
+  "ptt.cc": 1,
+  "pttgame.com": 1,
+  "pttvan.org": 1,
+  "pubu.com.tw": 1,
+  "puffinbrowser.com": 1,
+  "puffstore.com": 1,
+  "pullfolio.com": 1,
+  "punyu.com": 1,
+  "pure18.com": 1,
+  "pureapk.com": 1,
+  "pureconcepts.net": 1,
+  "pureinsight.org": 1,
+  "purepdf.com": 1,
+  "purevpn.com": 1,
+  "purplelotus.org": 1,
+  "pursuestar.com": 1,
+  "pushchinawall.com": 1,
+  "pussthecat.org": 1,
+  "pussyspace.com": 1,
+  "putihome.org": 1,
+  "putlocker.com": 1,
+  "putty.org": 1,
+  "puuko.com": 1,
+  "pwned.com": 1,
+  "pximg.net": 1,
+  "python.com": 1,
+  "python.com.tw": 1,
+  "pythonhackers.com": 1,
+  "pythonic.life": 1,
+  "pytorch.org": 1,
+  "qanote.com": 1,
+  "qgirl.com.tw": 1,
+  "qhigh.com": 1,
+  "qi-gong.me": 1,
+  "qianbai.tw": 1,
+  "qiandao.today": 1,
+  "qiangwaikan.com": 1,
+  "qiangyou.org": 1,
+  "qidian.ca": 1,
+  "qienkuen.org": 1,
+  "qiwen.lu": 1,
+  "qixianglu.cn": 1,
+  "qkshare.com": 1,
+  "qmzdd.com": 1,
+  "qoos.com": 1,
+  "qooza.hk": 1,
+  "qpoe.com": 1,
+  "qstatus.com": 1,
+  "qtrac.eu": 1,
+  "qtweeter.com": 1,
+  "quannengshen.org": 1,
+  "quantumbooter.net": 1,
+  "questvisual.com": 1,
+  "quitccp.net": 1,
+  "quitccp.org": 1,
+  "quora.com": 1,
+  "quoracdn.net": 1,
+  "quran.com": 1,
+  "quranexplorer.com": 1,
+  "qusi8.net": 1,
+  "qvodzy.org": 1,
+  "qx.net": 1,
+  "qxbbs.org": 1,
+  "qz.com": 1,
+  "r0.ru": 1,
+  "r18.com": 1,
+  "ra.gg": 1,
+  "radicalparty.org": 1,
+  "radiko.jp": 1,
+  "radioaustralia.net.au": 1,
+  "radiohilight.net": 1,
+  "radioline.co": 1,
+  "radiotime.com": 1,
+  "radiovaticana.org": 1,
+  "radiovncr.com": 1,
+  "rael.org": 1,
+  "raggedbanner.com": 1,
+  "raidcall.com.tw": 1,
+  "raidtalk.com.tw": 1,
+  "rainbowplan.org": 1,
+  "raizoji.or.jp": 1,
+  "ramcity.com.au": 1,
+  "rangwang.biz": 1,
+  "rangzen.com": 1,
+  "rangzen.net": 1,
+  "rangzen.org": 1,
+  "ranxiang.com": 1,
+  "ranyunfei.com": 1,
+  "rapbull.net": 1,
+  "rapidgator.net": 1,
+  "rapidmoviez.com": 1,
+  "rapidvpn.com": 1,
+  "rarbgprx.org": 1,
+  "raremovie.cc": 1,
+  "raremovie.net": 1,
+  "rateyourmusic.com": 1,
+  "rationalwiki.org": 1,
+  "rawgit.com": 1,
+  "rawgithub.com": 1,
+  "raxcdn.com": 1,
+  "razyboard.com": 1,
+  "rcinet.ca": 1,
+  "rd.com": 1,
+  "rdio.com": 1,
+  "read01.com": 1,
+  "read100.com": 1,
+  "readingtimes.com.tw": 1,
+  "readmoo.com": 1,
+  "readydown.com": 1,
+  "realcourage.org": 1,
+  "realitykings.com": 1,
+  "realraptalk.com": 1,
+  "realsexpass.com": 1,
+  "reason.com": 1,
+  "rebatesrule.net": 1,
+  "recaptcha.net": 1,
+  "recordhistory.org": 1,
+  "recovery.org.tw": 1,
+  "recoveryversion.com.tw": 1,
+  "recoveryversion.org": 1,
+  "red-lang.org": 1,
+  "redballoonsolidarity.org": 1,
+  "redbubble.com": 1,
+  "redchinacn.net": 1,
+  "redchinacn.org": 1,
+  "redd.it": 1,
+  "reddit.com": 1,
+  "redditlist.com": 1,
+  "redditmedia.com": 1,
+  "redditstatic.com": 1,
+  "redhotlabs.com": 1,
+  "redtube.com": 1,
+  "referer.us": 1,
+  "reflectivecode.com": 1,
+  "relaxbbs.com": 1,
+  "relay.com.tw": 1,
+  "releaseinternational.org": 1,
+  "religionnews.com": 1,
+  "religioustolerance.org": 1,
+  "renminbao.com": 1,
+  "renyurenquan.org": 1,
+  "rerouted.org": 1,
+  "resilio.com": 1,
+  "resistchina.org": 1,
+  "retweeteffect.com": 1,
+  "retweetist.com": 1,
+  "retweetrank.com": 1,
+  "reuters.com": 1,
+  "reutersmedia.net": 1,
+  "revleft.com": 1,
+  "revocationcheck.com": 1,
+  "revver.com": 1,
+  "rfa.org": 1,
+  "rfachina.com": 1,
+  "rfamobile.org": 1,
+  "rfaweb.org": 1,
+  "rferl.org": 1,
+  "rfi.fr": 1,
+  "rfi.my": 1,
+  "rightbtc.com": 1,
+  "rightster.com": 1,
+  "rigpa.org": 1,
+  "riku.me": 1,
+  "rileyguide.com": 1,
+  "ritouki.jp": 1,
+  "ritter.vg": 1,
+  "rixcloud.com": 1,
+  "rixcloud.us": 1,
+  "rlwlw.com": 1,
+  "rmjdw.com": 1,
+  "rmjdw132.info": 1,
+  "roadshow.hk": 1,
+  "roboforex.com": 1,
+  "robustnessiskey.com": 1,
+  "rocket-inc.net": 1,
+  "rocketbbs.com": 1,
+  "rocksdb.org": 1,
+  "rojo.com": 1,
+  "rolfoundation.org": 1,
+  "rolia.net": 1,
+  "rolsociety.org": 1,
+  "ronjoneswriter.com": 1,
+  "roodo.com": 1,
+  "rosechina.net": 1,
+  "rotten.com": 1,
+  "rsdlmonitor.com": 1,
+  "rsf-chinese.org": 1,
+  "rsf.org": 1,
+  "rsgamen.org": 1,
+  "rssing.com": 1,
+  "rssmeme.com": 1,
+  "rtalabel.org": 1,
+  "rthk.hk": 1,
+  "rthk.org.hk": 1,
+  "rti.org.tw": 1,
+  "rti.tw": 1,
+  "rtycminnesota.org": 1,
+  "ruanyifeng.com": 1,
+  "rukor.org": 1,
+  "rule34.xxx": 1,
+  "runbtx.com": 1,
+  "rushbee.com": 1,
+  "rusvpn.com": 1,
+  "ruten.com.tw": 1,
+  "rutracker.net": 1,
+  "rutube.ru": 1,
+  "ruyiseek.com": 1,
+  "rxhj.net": 1,
+  "s-cute.com": 1,
+  "s-dragon.org": 1,
+  "s1heng.com": 1,
+  "s1s1s1.com": 1,
+  "s4miniarchive.com": 1,
+  "s8forum.com": 1,
+  "saboom.com": 1,
+  "sacks.com": 1,
+  "sacom.hk": 1,
+  "sadistic-v.com": 1,
+  "sadpanda.us": 1,
+  "safechat.com": 1,
+  "safeguarddefenders.com": 1,
+  "safervpn.com": 1,
+  "saintyculture.com": 1,
+  "saiq.me": 1,
+  "sakuralive.com": 1,
+  "sakya.org": 1,
+  "salvation.org.hk": 1,
+  "samair.ru": 1,
+  "sambhota.org": 1,
+  "sandscotaicentral.com": 1,
+  "sankei.com": 1,
+  "sanmin.com.tw": 1,
+  "sans.edu": 1,
+  "sapikachu.net": 1,
+  "saveliuxiaobo.com": 1,
+  "savemedia.com": 1,
+  "savethedate.foo": 1,
+  "savethesounds.info": 1,
+  "savetibet.de": 1,
+  "savetibet.fr": 1,
+  "savetibet.nl": 1,
+  "savetibet.org": 1,
+  "savetibet.ru": 1,
+  "savetibetstore.org": 1,
+  "saveuighur.org": 1,
+  "savevid.com": 1,
+  "say2.info": 1,
+  "sbme.me": 1,
+  "sbs.com.au": 1,
+  "scasino.com": 1,
+  "schema.org": 1,
+  "sciencemag.org": 1,
+  "sciencenets.com": 1,
+  "scieron.com": 1,
+  "scmp.com": 1,
+  "scmpchinese.com": 1,
+  "scramble.io": 1,
+  "scribd.com": 1,
+  "scriptspot.com": 1,
+  "search.com": 1,
+  "searchtruth.com": 1,
+  "searx.me": 1,
+  "seatguru.com": 1,
+  "seattlefdc.com": 1,
+  "secretchina.com": 1,
+  "secretgarden.no": 1,
+  "secretsline.biz": 1,
+  "secureservercdn.net": 1,
+  "securetunnel.com": 1,
+  "securityinabox.org": 1,
+  "securitykiss.com": 1,
+  "seed4.me": 1,
+  "seehua.com": 1,
+  "seesmic.com": 1,
+  "seevpn.com": 1,
+  "seezone.net": 1,
+  "sejie.com": 1,
+  "sellclassics.com": 1,
+  "sendsmtp.com": 1,
+  "sendspace.com": 1,
+  "seraph.me": 1,
+  "servehttp.com": 1,
+  "serveuser.com": 1,
+  "serveusers.com": 1,
+  "sesawe.net": 1,
+  "sesawe.org": 1,
+  "sethwklein.net": 1,
+  "setn.com": 1,
+  "settv.com.tw": 1,
+  "setty.com.tw": 1,
+  "sevenload.com": 1,
+  "sex-11.com": 1,
+  "sex.com": 1,
+  "sex3.com": 1,
+  "sex8.cc": 1,
+  "sexandsubmission.com": 1,
+  "sexbot.com": 1,
+  "sexhu.com": 1,
+  "sexhuang.com": 1,
+  "sexidude.com": 1,
+  "sexinsex.net": 1,
+  "sextvx.com": 1,
+  "sexxxy.biz": 1,
+  "sfileydy.com": 1,
+  "sfshibao.com": 1,
+  "sftindia.org": 1,
+  "sftuk.org": 1,
+  "shadeyouvpn.com": 1,
+  "shadow.ma": 1,
+  "shadowsky.xyz": 1,
+  "shadowsocks-r.com": 1,
+  "shadowsocks.asia": 1,
+  "shadowsocks.be": 1,
+  "shadowsocks.com": 1,
+  "shadowsocks.com.hk": 1,
+  "shadowsocks.org": 1,
+  "shadowsocks9.com": 1,
+  "shafaqna.com": 1,
+  "shahit.biz": 1,
+  "shambalapost.com": 1,
+  "shambhalasun.com": 1,
+  "shangfang.org": 1,
+  "shapeservices.com": 1,
+  "sharebee.com": 1,
+  "sharecool.org": 1,
+  "sharpdaily.com.hk": 1,
+  "sharpdaily.hk": 1,
+  "sharpdaily.tw": 1,
+  "shat-tibet.com": 1,
+  "shattered.io": 1,
+  "sheikyermami.com": 1,
+  "shellfire.de": 1,
+  "shemalez.com": 1,
+  "shenshou.org": 1,
+  "shenyun.com": 1,
+  "shenyunperformingarts.org": 1,
+  "shenyunshop.com": 1,
+  "shenzhoufilm.com": 1,
+  "shenzhouzhengdao.org": 1,
+  "sherabgyaltsen.com": 1,
+  "shiatv.net": 1,
+  "shicheng.org": 1,
+  "shiksha.com": 1,
+  "shinychan.com": 1,
+  "shipcamouflage.com": 1,
+  "shireyishunjian.com": 1,
+  "shitaotv.org": 1,
+  "shixiao.org": 1,
+  "shizhao.org": 1,
+  "shkspr.mobi": 1,
+  "shodanhq.com": 1,
+  "shooshtime.com": 1,
+  "shop2000.com.tw": 1,
+  "shopee.tw": 1,
+  "shopping.com": 1,
+  "showhaotu.com": 1,
+  "showtime.jp": 1,
+  "showwe.tw": 1,
+  "shutterstock.com": 1,
+  "shvoong.com": 1,
+  "shwchurch.org": 1,
+  "shwchurch3.com": 1,
+  "siddharthasintent.org": 1,
+  "sidelinesnews.com": 1,
+  "sidelinessportseatery.com": 1,
+  "sierrafriendsoftibet.org": 1,
+  "signal.org": 1,
+  "sijihuisuo.club": 1,
+  "sijihuisuo.com": 1,
+  "silkbook.com": 1,
+  "simbolostwitter.com": 1,
+  "simplecd.org": 1,
+  "simpleproductivityblog.com": 1,
+  "sina.com": 1,
+  "sina.com.hk": 1,
+  "sina.com.tw": 1,
+  "sinchew.com.my": 1,
+  "singaporepools.com.sg": 1,
+  "singfortibet.com": 1,
+  "singpao.com.hk": 1,
+  "singtao.ca": 1,
+  "singtao.com": 1,
+  "singtaousa.com": 1,
+  "sino-monthly.com": 1,
+  "sinoants.com": 1,
+  "sinoca.com": 1,
+  "sinocast.com": 1,
+  "sinocism.com": 1,
+  "sinoinsider.com": 1,
+  "sinomontreal.ca": 1,
+  "sinonet.ca": 1,
+  "sinopitt.info": 1,
+  "sinoquebec.com": 1,
+  "sipml5.org": 1,
+  "sis.xxx": 1,
+  "sis001.com": 1,
+  "sis001.us": 1,
+  "site2unblock.com": 1,
+  "site90.net": 1,
+  "sitebro.tw": 1,
+  "sitekreator.com": 1,
+  "sitemaps.org": 1,
+  "six-degrees.io": 1,
+  "sixth.biz": 1,
+  "sjrt.org": 1,
+  "sjum.cn": 1,
+  "sketchappsources.com": 1,
+  "skimtube.com": 1,
+  "skk.moe": 1,
+  "skybet.com": 1,
+  "skyking.com.tw": 1,
+  "skykiwi.com": 1,
+  "skynet.be": 1,
+  "skype.com": 1,
+  "skyvegas.com": 1,
+  "skyxvpn.com": 1,
+  "slacker.com": 1,
+  "slandr.net": 1,
+  "slaytizle.com": 1,
+  "sleazydream.com": 1,
+  "slheng.com": 1,
+  "slickvpn.com": 1,
+  "slideshare.net": 1,
+  "slime.com.tw": 1,
+  "slinkset.com": 1,
+  "slutload.com": 1,
+  "slutmoonbeam.com": 1,
+  "slyip.com": 1,
+  "slyip.net": 1,
+  "sm-miracle.com": 1,
+  "smartdnsproxy.com": 1,
+  "smarthide.com": 1,
+  "smartmailcloud.com": 1,
+  "smchbooks.com": 1,
+  "smh.com.au": 1,
+  "smhric.org": 1,
+  "smith.edu": 1,
+  "smyxy.org": 1,
+  "snapchat.com": 1,
+  "snaptu.com": 1,
+  "sndcdn.com": 1,
+  "sneakme.net": 1,
+  "snowlionpub.com": 1,
+  "so-net.net.tw": 1,
+  "sobees.com": 1,
+  "soc.mil": 1,
+  "socialblade.com": 1,
+  "socialwhale.com": 1,
+  "socks-proxy.net": 1,
+  "sockscap64.com": 1,
+  "sockslist.net": 1,
+  "socrec.org": 1,
+  "sod.co.jp": 1,
+  "softether-download.com": 1,
+  "softether.co.jp": 1,
+  "softether.org": 1,
+  "softfamous.com": 1,
+  "softlayer.net": 1,
+  "softnology.biz": 1,
+  "softsmirror.cf": 1,
+  "softwarebychuck.com": 1,
+  "sogclub.com": 1,
+  "sogoo.org": 1,
+  "sogrady.me": 1,
+  "soh.tw": 1,
+  "sohcradio.com": 1,
+  "sohfrance.org": 1,
+  "soifind.com": 1,
+  "sokamonline.com": 1,
+  "sokmil.com": 1,
+  "solidaritetibet.org": 1,
+  "solidfiles.com": 1,
+  "somee.com": 1,
+  "songjianjun.com": 1,
+  "sonicbbs.cc": 1,
+  "sonidodelaesperanza.org": 1,
+  "sopcast.com": 1,
+  "sopcast.org": 1,
+  "sophos.com": 1,
+  "sorazone.net": 1,
+  "sorting-algorithms.com": 1,
+  "sos.org": 1,
+  "sosreader.com": 1,
+  "sostibet.org": 1,
+  "sou-tong.org": 1,
+  "soubory.com": 1,
+  "soul-plus.net": 1,
+  "soulcaliburhentai.net": 1,
+  "soumo.info": 1,
+  "soundcloud.com": 1,
+  "soundofhope.kr": 1,
+  "soundofhope.org": 1,
+  "soup.io": 1,
+  "soupofmedia.com": 1,
+  "sourceforge.net": 1,
+  "sourcewadio.com": 1,
+  "south-plus.org": 1,
+  "southnews.com.tw": 1,
+  "sowers.org.hk": 1,
+  "sowiki.net": 1,
+  "soylent.com": 1,
+  "soylentnews.org": 1,
+  "spankbang.com": 1,
+  "spankingtube.com": 1,
+  "spankwire.com": 1,
+  "spb.com": 1,
+  "speakerdeck.com": 1,
+  "speedify.com": 1,
+  "spem.at": 1,
+  "spencertipping.com": 1,
+  "spendee.com": 1,
+  "spicevpn.com": 1,
+  "spideroak.com": 1,
+  "spike.com": 1,
+  "spotflux.com": 1,
+  "spotify.com": 1,
+  "spreadshirt.es": 1,
+  "spring4u.info": 1,
+  "springboardplatform.com": 1,
+  "sprite.org": 1,
+  "sproutcore.com": 1,
+  "sproxy.info": 1,
+  "squirly.info": 1,
+  "squirrelvpn.com": 1,
+  "srocket.us": 1,
+  "ss-link.com": 1,
+  "ssglobal.co": 1,
+  "ssglobal.me": 1,
+  "ssh91.com": 1,
+  "ssl443.org": 1,
+  "sspanel.net": 1,
+  "sspro.ml": 1,
+  "ssr.tools": 1,
+  "ssrshare.com": 1,
+  "sss.camp": 1,
+  "sstm.moe": 1,
+  "sstmlt.moe": 1,
+  "sstmlt.net": 1,
+  "stackoverflow.com": 1,
+  "stage64.hk": 1,
+  "standupfortibet.org": 1,
+  "standwithhk.org": 1,
+  "stanford.edu": 1,
+  "starfishfx.com": 1,
+  "starp2p.com": 1,
+  "startpage.com": 1,
+  "startuplivingchina.com": 1,
+  "state.gov": 1,
+  "static-economist.com": 1,
+  "staticflickr.com": 1,
+  "statueofdemocracy.org": 1,
+  "stboy.net": 1,
+  "stc.com.sa": 1,
+  "steamcommunity.com": 1,
+  "steampowered.com": 1,
+  "steel-storm.com": 1,
+  "steemit.com": 1,
+  "steganos.com": 1,
+  "steganos.net": 1,
+  "stepchina.com": 1,
+  "stephaniered.com": 1,
+  "stgloballink.com": 1,
+  "stheadline.com": 1,
+  "sthoo.com": 1,
+  "stickam.com": 1,
+  "stickeraction.com": 1,
+  "stileproject.com": 1,
+  "sto.cc": 1,
+  "stoporganharvesting.org": 1,
+  "stoptibetcrisis.net": 1,
+  "storagenewsletter.com": 1,
+  "storify.com": 1,
+  "storm.mg": 1,
+  "stormmediagroup.com": 1,
+  "stoweboyd.com": 1,
+  "straitstimes.com": 1,
+  "stranabg.com": 1,
+  "straplessdildo.com": 1,
+  "streamable.com": 1,
+  "streamate.com": 1,
+  "streamingthe.net": 1,
+  "streema.com": 1,
+  "streetvoice.com": 1,
+  "strikingly.com": 1,
+  "strongvpn.com": 1,
+  "strongwindpress.com": 1,
+  "student.tw": 1,
+  "studentsforafreetibet.org": 1,
+  "stumbleupon.com": 1,
+  "stupidvideos.com": 1,
+  "successfn.com": 1,
+  "sueddeutsche.de": 1,
+  "sugarsync.com": 1,
+  "sugobbs.com": 1,
+  "sugumiru18.com": 1,
+  "suissl.com": 1,
+  "sulian.me": 1,
+  "summify.com": 1,
+  "sumrando.com": 1,
+  "sun1911.com": 1,
+  "sundayguardianlive.com": 1,
+  "sunmedia.ca": 1,
+  "sunporno.com": 1,
+  "sunskyforum.com": 1,
+  "sunta.com.tw": 1,
+  "sunvpn.net": 1,
+  "suoluo.org": 1,
+  "supchina.com": 1,
+  "superfreevpn.com": 1,
+  "superokayama.com": 1,
+  "superpages.com": 1,
+  "supervpn.net": 1,
+  "superzooi.com": 1,
+  "suppig.net": 1,
+  "suprememastertv.com": 1,
+  "surfeasy.com": 1,
+  "surfeasy.com.au": 1,
+  "surfshark.com": 1,
+  "suroot.com": 1,
+  "surrenderat20.net": 1,
+  "svsfx.com": 1,
+  "swagbucks.com": 1,
+  "swissinfo.ch": 1,
+  "swissvpn.net": 1,
+  "switch1.jp": 1,
+  "switchvpn.net": 1,
+  "sydneytoday.com": 1,
+  "sylfoundation.org": 1,
+  "syncback.com": 1,
+  "synergyse.com": 1,
+  "sysresccd.org": 1,
+  "sytes.net": 1,
+  "syx86.cn": 1,
+  "syx86.com": 1,
+  "szbbs.net": 1,
+  "szetowah.org.hk": 1,
+  "t-g.com": 1,
+  "t.co": 1,
+  "t.me": 1,
+  "t35.com": 1,
+  "t66y.com": 1,
+  "t91y.com": 1,
+  "taa-usa.org": 1,
+  "taaze.tw": 1,
+  "tablesgenerator.com": 1,
+  "tabtter.jp": 1,
+  "tacem.org": 1,
+  "taconet.com.tw": 1,
+  "taedp.org.tw": 1,
+  "tafm.org": 1,
+  "tagwa.org.au": 1,
+  "tagwalk.com": 1,
+  "tahr.org.tw": 1,
+  "taipeisociety.org": 1,
+  "taipeitimes.com": 1,
+  "taiwan-sex.com": 1,
+  "taiwanbible.com": 1,
+  "taiwancon.com": 1,
+  "taiwandaily.net": 1,
+  "taiwandc.org": 1,
+  "taiwanhot.net": 1,
+  "taiwanjustice.com": 1,
+  "taiwanjustice.net": 1,
+  "taiwankiss.com": 1,
+  "taiwannation.com": 1,
+  "taiwannation.com.tw": 1,
+  "taiwanncf.org.tw": 1,
+  "taiwannews.com.tw": 1,
+  "taiwanonline.cc": 1,
+  "taiwantp.net": 1,
+  "taiwantt.org.tw": 1,
+  "taiwanus.net": 1,
+  "taiwanyes.com": 1,
+  "talk853.com": 1,
+  "talkboxapp.com": 1,
+  "talkcc.com": 1,
+  "talkonly.net": 1,
+  "tamiaode.tk": 1,
+  "tampabay.com": 1,
+  "tanc.org": 1,
+  "tangben.com": 1,
+  "tangren.us": 1,
+  "taoism.net": 1,
+  "taolun.info": 1,
+  "tapanwap.com": 1,
+  "tapatalk.com": 1,
+  "taragana.com": 1,
+  "target.com": 1,
+  "tascn.com.au": 1,
+  "taup.net": 1,
+  "taup.org.tw": 1,
+  "taweet.com": 1,
+  "tbcollege.org": 1,
+  "tbi.org.hk": 1,
+  "tbicn.org": 1,
+  "tbjyt.org": 1,
+  "tbpic.info": 1,
+  "tbrc.org": 1,
+  "tbs-rainbow.org": 1,
+  "tbsec.org": 1,
+  "tbsmalaysia.org": 1,
+  "tbsn.org": 1,
+  "tbsseattle.org": 1,
+  "tbssqh.org": 1,
+  "tbswd.org": 1,
+  "tbthouston.org": 1,
+  "tccwonline.org": 1,
+  "tcewf.org": 1,
+  "tchrd.org": 1,
+  "tcnynj.org": 1,
+  "tcpspeed.co": 1,
+  "tcpspeed.com": 1,
+  "tcsofbc.org": 1,
+  "tcsovi.org": 1,
+  "tdesktop.com": 1,
+  "tdm.com.mo": 1,
+  "teachparentstech.org": 1,
+  "teamamericany.com": 1,
+  "technews.tw": 1,
+  "techspot.com": 1,
+  "techviz.net": 1,
+  "teck.in": 1,
+  "teco-hk.org": 1,
+  "teco-mo.org": 1,
+  "teddysun.com": 1,
+  "teeniefuck.net": 1,
+  "teensinasia.com": 1,
+  "tehrantimes.com": 1,
+  "telecomspace.com": 1,
+  "telegra.ph": 1,
+  "telegram.me": 1,
+  "telegram.org": 1,
+  "telegramdownload.com": 1,
+  "telesco.pe": 1,
+  "tellme.pw": 1,
+  "tenacy.com": 1,
+  "tensorflow.org": 1,
+  "tenzinpalmo.com": 1,
+  "terabox.com": 1,
+  "tew.org": 1,
+  "textnow.me": 1,
+  "tfiflve.com": 1,
+  "thaicn.com": 1,
+  "theatlantic.com": 1,
+  "theatrum-belli.com": 1,
+  "theaustralian.com.au": 1,
+  "thebcomplex.com": 1,
+  "theblaze.com": 1,
+  "theblemish.com": 1,
+  "thebobs.com": 1,
+  "thebodyshop-usa.com": 1,
+  "thechinabeat.org": 1,
+  "thechinacollection.org": 1,
+  "thechinastory.org": 1,
+  "theconversation.com": 1,
+  "thedalailamamovie.com": 1,
+  "thediplomat.com": 1,
+  "thedw.us": 1,
+  "thefacebook.com": 1,
+  "thefrontier.hk": 1,
+  "thegay.com": 1,
+  "thegioitinhoc.vn": 1,
+  "thegly.com": 1,
+  "theguardian.com": 1,
+  "thehots.info": 1,
+  "thehousenews.com": 1,
+  "thehun.net": 1,
+  "theinitium.com": 1,
+  "themoviedb.org": 1,
+  "thenewslens.com": 1,
+  "thepiratebay.org": 1,
+  "theporndude.com": 1,
+  "theportalwiki.com": 1,
+  "theprint.in": 1,
+  "thereallove.kr": 1,
+  "thesaturdaypaper.com.au": 1,
+  "thestandnews.com": 1,
+  "thetibetcenter.org": 1,
+  "thetibetconnection.org": 1,
+  "thetibetmuseum.org": 1,
+  "thetibetpost.com": 1,
+  "thetinhat.com": 1,
+  "thetrotskymovie.com": 1,
+  "thetvdb.com": 1,
+  "thevivekspot.com": 1,
+  "thewgo.org": 1,
+  "theync.com": 1,
+  "thinkgeek.com": 1,
+  "thinkingtaiwan.com": 1,
+  "thinkwithgoogle.com": 1,
+  "thisav.com": 1,
+  "thlib.org": 1,
+  "thomasbernhard.org": 1,
+  "thongdreams.com": 1,
+  "threatchaos.com": 1,
+  "throughnightsfire.com": 1,
+  "thumbzilla.com": 1,
+  "thywords.com": 1,
+  "thywords.com.tw": 1,
+  "tiananmenduizhi.com": 1,
+  "tiananmenmother.org": 1,
+  "tiananmenuniv.com": 1,
+  "tiananmenuniv.net": 1,
+  "tiandixing.org": 1,
+  "tianhuayuan.com": 1,
+  "tianlawoffice.com": 1,
+  "tianti.io": 1,
+  "tiantibooks.org": 1,
+  "tianyantong.org.cn": 1,
+  "tianzhu.org": 1,
+  "tibet-envoy.eu": 1,
+  "tibet-foundation.org": 1,
+  "tibet-initiative.de": 1,
+  "tibet-munich.de": 1,
+  "tibet.a.se": 1,
+  "tibet.at": 1,
+  "tibet.ca": 1,
+  "tibet.com": 1,
+  "tibet.fr": 1,
+  "tibet.net": 1,
+  "tibet.nu": 1,
+  "tibet.org": 1,
+  "tibet.org.tw": 1,
+  "tibet.sk": 1,
+  "tibet.to": 1,
+  "tibet3rdpole.org": 1,
+  "tibetaction.net": 1,
+  "tibetaid.org": 1,
+  "tibetalk.com": 1,
+  "tibetan-alliance.org": 1,
+  "tibetan.fr": 1,
+  "tibetanaidproject.org": 1,
+  "tibetanarts.org": 1,
+  "tibetanbuddhistinstitute.org": 1,
+  "tibetancommunity.org": 1,
+  "tibetancommunityuk.net": 1,
+  "tibetanculture.org": 1,
+  "tibetanentrepreneurs.org": 1,
+  "tibetanfeministcollective.org": 1,
+  "tibetanhealth.org": 1,
+  "tibetanjournal.com": 1,
+  "tibetanlanguage.org": 1,
+  "tibetanliberation.org": 1,
+  "tibetanpaintings.com": 1,
+  "tibetanphotoproject.com": 1,
+  "tibetanpoliticalreview.org": 1,
+  "tibetanreview.net": 1,
+  "tibetansports.org": 1,
+  "tibetanwomen.org": 1,
+  "tibetanyouth.org": 1,
+  "tibetanyouthcongress.org": 1,
+  "tibetcharity.dk": 1,
+  "tibetcharity.in": 1,
+  "tibetchild.org": 1,
+  "tibetcity.com": 1,
+  "tibetcollection.com": 1,
+  "tibetcorps.org": 1,
+  "tibetexpress.net": 1,
+  "tibetfocus.com": 1,
+  "tibetfund.org": 1,
+  "tibetgermany.com": 1,
+  "tibetgermany.de": 1,
+  "tibethaus.com": 1,
+  "tibetheritagefund.org": 1,
+  "tibethouse.jp": 1,
+  "tibethouse.org": 1,
+  "tibethouse.us": 1,
+  "tibetinfonet.net": 1,
+  "tibetjustice.org": 1,
+  "tibetkomite.dk": 1,
+  "tibetmuseum.org": 1,
+  "tibetnetwork.org": 1,
+  "tibetoffice.ch": 1,
+  "tibetoffice.com.au": 1,
+  "tibetoffice.eu": 1,
+  "tibetoffice.org": 1,
+  "tibetonline.com": 1,
+  "tibetonline.tv": 1,
+  "tibetoralhistory.org": 1,
+  "tibetpolicy.eu": 1,
+  "tibetsites.com": 1,
+  "tibetsociety.com": 1,
+  "tibetsun.com": 1,
+  "tibetsupportgroup.org": 1,
+  "tibetswiss.ch": 1,
+  "tibettelegraph.com": 1,
+  "tibettimes.net": 1,
+  "tibetwrites.org": 1,
+  "ticket.com.tw": 1,
+  "tigervpn.com": 1,
+  "tiktok.com": 1,
+  "tiltbrush.com": 1,
+  "timdir.com": 1,
+  "time.com": 1,
+  "timesnownews.com": 1,
+  "timsah.com": 1,
+  "timtales.com": 1,
+  "tinc-vpn.org": 1,
+  "tiney.com": 1,
+  "tineye.com": 1,
+  "tintuc101.com": 1,
+  "tiny.cc": 1,
+  "tinychat.com": 1,
+  "tinypaste.com": 1,
+  "tipas.net": 1,
+  "tistory.com": 1,
+  "tkcs-collins.com": 1,
+  "tl.gd": 1,
+  "tma.co.jp": 1,
+  "tmagazine.com": 1,
+  "tmdfish.com": 1,
+  "tmi.me": 1,
+  "tmpp.org": 1,
+  "tnaflix.com": 1,
+  "tngrnow.com": 1,
+  "tngrnow.net": 1,
+  "tnp.org": 1,
+  "to-porno.com": 1,
+  "togetter.com": 1,
+  "toh.info": 1,
+  "tokyo-247.com": 1,
+  "tokyo-hot.com": 1,
+  "tokyo-porn-tube.com": 1,
+  "tokyocn.com": 1,
+  "tomonews.net": 1,
+  "tongil.or.kr": 1,
+  "tono-oka.jp": 1,
+  "tonyyan.net": 1,
+  "toodoc.com": 1,
+  "toonel.net": 1,
+  "top.tv": 1,
+  "top10vpn.com": 1,
+  "top81.ws": 1,
+  "topbtc.com": 1,
+  "topnews.in": 1,
+  "toppornsites.com": 1,
+  "topshareware.com": 1,
+  "topsy.com": 1,
+  "toptip.ca": 1,
+  "tora.to": 1,
+  "torcn.com": 1,
+  "torguard.net": 1,
+  "torlock.com": 1,
+  "torproject.org": 1,
+  "torrentkitty.tv": 1,
+  "torrentprivacy.com": 1,
+  "torrentproject.se": 1,
+  "torrenty.org": 1,
+  "torrentz.eu": 1,
+  "torvpn.com": 1,
+  "totalvpn.com": 1,
+  "toutiaoabc.com": 1,
+  "towngain.com": 1,
+  "toypark.in": 1,
+  "toythieves.com": 1,
+  "toytractorshow.com": 1,
+  "tparents.org": 1,
+  "tpi.org.tw": 1,
+  "tracfone.com": 1,
+  "tradingview.com": 1,
+  "transparency.org": 1,
+  "treemall.com.tw": 1,
+  "trendsmap.com": 1,
+  "trialofccp.org": 1,
+  "trickip.net": 1,
+  "trickip.org": 1,
+  "trimondi.de": 1,
+  "tronscan.org": 1,
+  "trouw.nl": 1,
+  "trtc.com.tw": 1,
+  "truebuddha-md.org": 1,
+  "trulyergonomic.com": 1,
+  "truthontour.org": 1,
+  "truthsocial.com": 1,
+  "truveo.com": 1,
+  "tryheart.jp": 1,
+  "tsctv.net": 1,
+  "tsemtulku.com": 1,
+  "tsquare.tv": 1,
+  "tsu.org.tw": 1,
+  "tsunagarumon.com": 1,
+  "tt1069.com": 1,
+  "tttan.com": 1,
+  "ttv.com.tw": 1,
+  "ttvnw.net": 1,
+  "tu8964.com": 1,
+  "tubaholic.com": 1,
+  "tube.com": 1,
+  "tube8.com": 1,
+  "tube911.com": 1,
+  "tubecup.com": 1,
+  "tubegals.com": 1,
+  "tubeislam.com": 1,
+  "tubepornclassic.com": 1,
+  "tubestack.com": 1,
+  "tubewolf.com": 1,
+  "tuibeitu.net": 1,
+  "tuidang.net": 1,
+  "tuidang.org": 1,
+  "tuidang.se": 1,
+  "tuitui.info": 1,
+  "tuitwit.com": 1,
+  "tumblr.com": 1,
+  "tumutanzi.com": 1,
+  "tumview.com": 1,
+  "tunein.com": 1,
+  "tunnelbear.com": 1,
+  "tunnelblick.net": 1,
+  "tunnelr.com": 1,
+  "tunsafe.com": 1,
+  "turansam.org": 1,
+  "turbobit.net": 1,
+  "turbohide.com": 1,
+  "turbotwitter.com": 1,
+  "turkistantimes.com": 1,
+  "turntable.fm": 1,
+  "tushycash.com": 1,
+  "tutanota.com": 1,
+  "tuvpn.com": 1,
+  "tuzaijidi.com": 1,
+  "tv.com": 1,
+  "tvants.com": 1,
+  "tvb.com": 1,
+  "tvboxnow.com": 1,
+  "tvbs.com.tw": 1,
+  "tvider.com": 1,
+  "tvmost.com.hk": 1,
+  "tvplayvideos.com": 1,
+  "tvunetworks.com": 1,
+  "tw-blog.com": 1,
+  "tw-npo.org": 1,
+  "tw01.org": 1,
+  "twaitter.com": 1,
+  "twapperkeeper.com": 1,
+  "twaud.io": 1,
+  "twavi.com": 1,
+  "twbbs.net.tw": 1,
+  "twbbs.org": 1,
+  "twbbs.tw": 1,
+  "twblogger.com": 1,
+  "tweepguide.com": 1,
+  "tweeplike.me": 1,
+  "tweepmag.com": 1,
+  "tweepml.org": 1,
+  "tweetbackup.com": 1,
+  "tweetboard.com": 1,
+  "tweetboner.biz": 1,
+  "tweetcs.com": 1,
+  "tweetdeck.com": 1,
+  "tweetedtimes.com": 1,
+  "tweetmylast.fm": 1,
+  "tweetphoto.com": 1,
+  "tweetrans.com": 1,
+  "tweetree.com": 1,
+  "tweettunnel.com": 1,
+  "tweetwally.com": 1,
+  "tweetymail.com": 1,
+  "tweez.net": 1,
+  "twelve.today": 1,
+  "twerkingbutt.com": 1,
+  "twftp.org": 1,
+  "twgreatdaily.com": 1,
+  "twibase.com": 1,
+  "twibble.de": 1,
+  "twibbon.com": 1,
+  "twibs.com": 1,
+  "twicountry.org": 1,
+  "twicsy.com": 1,
+  "twiends.com": 1,
+  "twifan.com": 1,
+  "twiffo.com": 1,
+  "twiggit.org": 1,
+  "twilightsex.com": 1,
+  "twilio.com": 1,
+  "twilog.org": 1,
+  "twimbow.com": 1,
+  "twimg.com": 1,
+  "twindexx.com": 1,
+  "twip.me": 1,
+  "twipple.jp": 1,
+  "twishort.com": 1,
+  "twistar.cc": 1,
+  "twister.net.co": 1,
+  "twisterio.com": 1,
+  "twisternow.com": 1,
+  "twistory.net": 1,
+  "twit2d.com": 1,
+  "twitbrowser.net": 1,
+  "twitcause.com": 1,
+  "twitch.tv": 1,
+  "twitchcdn.net": 1,
+  "twitgether.com": 1,
+  "twitgoo.com": 1,
+  "twitiq.com": 1,
+  "twitlonger.com": 1,
+  "twitmania.com": 1,
+  "twitoaster.com": 1,
+  "twitonmsn.com": 1,
+  "twitpic.com": 1,
+  "twitstat.com": 1,
+  "twittbot.net": 1,
+  "twitter.com": 1,
+  "twitter.jp": 1,
+  "twitter4j.org": 1,
+  "twittercounter.com": 1,
+  "twitterfeed.com": 1,
+  "twittergadget.com": 1,
+  "twitterkr.com": 1,
+  "twittermail.com": 1,
+  "twitterrific.com": 1,
+  "twittertim.es": 1,
+  "twitthat.com": 1,
+  "twitturk.com": 1,
+  "twitturly.com": 1,
+  "twitvid.com": 1,
+  "twitzap.com": 1,
+  "twiyia.com": 1,
+  "twnorth.org.tw": 1,
+  "twreporter.org": 1,
+  "twskype.com": 1,
+  "twstar.net": 1,
+  "twt.tl": 1,
+  "twtkr.com": 1,
+  "twtrland.com": 1,
+  "twttr.com": 1,
+  "twurl.nl": 1,
+  "twyac.org": 1,
+  "txxx.com": 1,
+  "tycool.com": 1,
+  "typepad.com": 1,
+  "typora.io": 1,
+  "u15.info": 1,
+  "u9un.com": 1,
+  "ub0.cc": 1,
+  "ubddns.org": 1,
+  "uberproxy.net": 1,
+  "uc-japan.org": 1,
+  "ucam.org": 1,
+  "ucanews.com": 1,
+  "ucdc1998.org": 1,
+  "uderzo.it": 1,
+  "udn.com": 1,
+  "udn.com.tw": 1,
+  "udnbkk.com": 1,
+  "uforadio.com.tw": 1,
+  "ufreevpn.com": 1,
+  "ugo.com": 1,
+  "uhdwallpapers.org": 1,
+  "uhrp.org": 1,
+  "uighur.nl": 1,
+  "uighurbiz.net": 1,
+  "uk.to": 1,
+  "uku.im": 1,
+  "ulike.net": 1,
+  "ulop.net": 1,
+  "ultravpn.fr": 1,
+  "ultraxs.com": 1,
+  "umich.edu": 1,
+  "unblock-us.com": 1,
+  "unblock.cn.com": 1,
+  "unblockdmm.com": 1,
+  "unblocker.yt": 1,
+  "unblocksit.es": 1,
+  "uncyclomedia.org": 1,
+  "uncyclopedia.hk": 1,
+  "uncyclopedia.tw": 1,
+  "underwoodammo.com": 1,
+  "unholyknight.com": 1,
+  "uni.cc": 1,
+  "unicode.org": 1,
+  "unification.net": 1,
+  "unification.org.tw": 1,
+  "unitedsocialpress.com": 1,
+  "unix100.com": 1,
+  "unknownspace.org": 1,
+  "unodedos.com": 1,
+  "unpo.org": 1,
+  "unseen.is": 1,
+  "untraceable.us": 1,
+  "uocn.org": 1,
+  "updatestar.com": 1,
+  "upghsbc.com": 1,
+  "upholdjustice.org": 1,
+  "upload4u.info": 1,
+  "uploaded.net": 1,
+  "uploaded.to": 1,
+  "uploadstation.com": 1,
+  "upmedia.mg": 1,
+  "upornia.com": 1,
+  "uproxy.org": 1,
+  "uptodown.com": 1,
+  "upwill.org": 1,
+  "ur7s.com": 1,
+  "uraban.me": 1,
+  "urbandictionary.com": 1,
+  "urbansurvival.com": 1,
+  "urchin.com": 1,
+  "url.com.tw": 1,
+  "url.tw": 1,
+  "urlborg.com": 1,
+  "urlparser.com": 1,
+  "us.to": 1,
+  "usacn.com": 1,
+  "usaip.eu": 1,
+  "usc.edu": 1,
+  "usembassy.gov": 1,
+  "usfk.mil": 1,
+  "usma.edu": 1,
+  "usmc.mil": 1,
+  "usocctn.com": 1,
+  "uspto.gov": 1,
+  "ustibetcommittee.org": 1,
+  "ustream.tv": 1,
+  "usus.cc": 1,
+  "utopianpal.com": 1,
+  "uu-gg.com": 1,
+  "uukanshu.com": 1,
+  "uvwxyz.xyz": 1,
+  "uwants.com": 1,
+  "uwants.net": 1,
+  "uyghur-j.org": 1,
+  "uyghuraa.org": 1,
+  "uyghuramerican.org": 1,
+  "uyghurbiz.org": 1,
+  "uyghurcanadian.ca": 1,
+  "uyghurcongress.org": 1,
+  "uyghurpen.org": 1,
+  "uyghurpress.com": 1,
+  "uyghurstudies.org": 1,
+  "uyghurtribunal.com": 1,
+  "uygur.org": 1,
+  "uymaarip.com": 1,
+  "v2ex.com": 1,
+  "v2fly.org": 1,
+  "v2ray.com": 1,
+  "v2raycn.com": 1,
+  "v2raytech.com": 1,
+  "valeursactuelles.com": 1,
+  "van001.com": 1,
+  "van698.com": 1,
+  "vanemu.cn": 1,
+  "vanilla-jp.com": 1,
+  "vanpeople.com": 1,
+  "vansky.com": 1,
+  "vaticannews.va": 1,
+  "vatn.org": 1,
+  "vcf-online.org": 1,
+  "vcfbuilder.org": 1,
+  "vegasred.com": 1,
+  "velkaepocha.sk": 1,
+  "venbbs.com": 1,
+  "venchina.com": 1,
+  "venetianmacao.com": 1,
+  "ventureswell.com": 1,
+  "veoh.com": 1,
+  "verizon.net": 1,
+  "vermonttibet.org": 1,
+  "versavpn.com": 1,
+  "verybs.com": 1,
+  "vevo.com": 1,
+  "vft.com.tw": 1,
+  "viber.com": 1,
+  "vica.info": 1,
+  "victimsofcommunism.org": 1,
+  "vid.me": 1,
+  "vidble.com": 1,
+  "videobam.com": 1,
+  "videodetective.com": 1,
+  "videomega.tv": 1,
+  "videomo.com": 1,
+  "videopediaworld.com": 1,
+  "videopress.com": 1,
+  "vidinfo.org": 1,
+  "vietdaikynguyen.com": 1,
+  "vijayatemple.org": 1,
+  "vilavpn.com": 1,
+  "vimeo.com": 1,
+  "vimperator.org": 1,
+  "vincnd.com": 1,
+  "vine.co": 1,
+  "vinniev.com": 1,
+  "vip-enterprise.com": 1,
+  "virginia.edu": 1,
+  "virtualrealporn.com": 1,
+  "visibletweets.com": 1,
+  "visiontimes.com": 1,
+  "vital247.org": 1,
+  "viu.com": 1,
+  "viu.tv": 1,
+  "vivahentai4u.net": 1,
+  "vivatube.com": 1,
+  "vivthomas.com": 1,
+  "vizvaz.com": 1,
+  "vjav.com": 1,
+  "vjmedia.com.hk": 1,
+  "vllcs.org": 1,
+  "vmixcore.com": 1,
+  "vmpsoft.com": 1,
+  "vnet.link": 1,
+  "voa.mobi": 1,
+  "voacambodia.com": 1,
+  "voacantonese.com": 1,
+  "voachinese.com": 1,
+  "voachineseblog.com": 1,
+  "voagd.com": 1,
+  "voaindonesia.com": 1,
+  "voanews.com": 1,
+  "voatibetan.com": 1,
+  "voatibetanenglish.com": 1,
+  "vocativ.com": 1,
+  "vocn.tv": 1,
+  "vocus.cc": 1,
+  "voicettank.org": 1,
+  "vot.org": 1,
+  "vovo2000.com": 1,
+  "voxer.com": 1,
+  "voy.com": 1,
+  "vpn.ac": 1,
+  "vpn4all.com": 1,
+  "vpnaccount.org": 1,
+  "vpnaccounts.com": 1,
+  "vpnbook.com": 1,
+  "vpncomparison.org": 1,
+  "vpncoupons.com": 1,
+  "vpncup.com": 1,
+  "vpndada.com": 1,
+  "vpnfan.com": 1,
+  "vpnfire.com": 1,
+  "vpnfires.biz": 1,
+  "vpnforgame.net": 1,
+  "vpngate.jp": 1,
+  "vpngate.net": 1,
+  "vpngratis.net": 1,
+  "vpnhq.com": 1,
+  "vpnhub.com": 1,
+  "vpninja.net": 1,
+  "vpnintouch.com": 1,
+  "vpnintouch.net": 1,
+  "vpnjack.com": 1,
+  "vpnmaster.com": 1,
+  "vpnmentor.com": 1,
+  "vpnpick.com": 1,
+  "vpnpop.com": 1,
+  "vpnpronet.com": 1,
+  "vpnreactor.com": 1,
+  "vpnreviewz.com": 1,
+  "vpnsecure.me": 1,
+  "vpnshazam.com": 1,
+  "vpnshieldapp.com": 1,
+  "vpnsp.com": 1,
+  "vpntraffic.com": 1,
+  "vpntunnel.com": 1,
+  "vpnuk.info": 1,
+  "vpnunlimitedapp.com": 1,
+  "vpnvip.com": 1,
+  "vpnworldwide.com": 1,
+  "vporn.com": 1,
+  "vpser.net": 1,
+  "vraiesagesse.net": 1,
+  "vrmtr.com": 1,
+  "vrsmash.com": 1,
+  "vs.com": 1,
+  "vtunnel.com": 1,
+  "vuku.cc": 1,
+  "vultryhw.com": 1,
+  "vzw.com": 1,
+  "w3.org": 1,
+  "w3schools.com": 1,
+  "waffle1999.com": 1,
+  "wahas.com": 1,
+  "waigaobu.com": 1,
+  "waikeung.org": 1,
+  "wailaike.net": 1,
+  "wainao.me": 1,
+  "waiwaier.com": 1,
+  "wallmama.com": 1,
+  "wallornot.org": 1,
+  "wallpapercasa.com": 1,
+  "wallproxy.com": 1,
+  "wallsttv.com": 1,
+  "waltermartin.com": 1,
+  "waltermartin.org": 1,
+  "wan-press.org": 1,
+  "wanderinghorse.net": 1,
+  "wangafu.net": 1,
+  "wangjinbo.org": 1,
+  "wanglixiong.com": 1,
+  "wango.org": 1,
+  "wangruoshui.net": 1,
+  "wangruowang.org": 1,
+  "want-daily.com": 1,
+  "wanz-factory.com": 1,
+  "wapedia.mobi": 1,
+  "warehouse333.com": 1,
+  "warroom.org": 1,
+  "waselpro.com": 1,
+  "washeng.net": 1,
+  "washingtonpost.com": 1,
+  "watch8x.com": 1,
+  "watchinese.com": 1,
+  "watchmygf.net": 1,
+  "watchout.tw": 1,
+  "wattpad.com": 1,
+  "wav.tv": 1,
+  "waveprotocol.org": 1,
+  "waymo.com": 1,
+  "wdf5.com": 1,
+  "wearehairy.com": 1,
+  "wearn.com": 1,
+  "weather.com.hk": 1,
+  "web2project.net": 1,
+  "webbang.net": 1,
+  "webevader.org": 1,
+  "webfreer.com": 1,
+  "webjb.org": 1,
+  "weblagu.com": 1,
+  "webmproject.org": 1,
+  "webpack.de": 1,
+  "webrtc.org": 1,
+  "webrush.net": 1,
+  "webs-tv.net": 1,
+  "websitepulse.com": 1,
+  "websnapr.com": 1,
+  "webwarper.net": 1,
+  "webworkerdaily.com": 1,
+  "wechatlawsuit.com": 1,
+  "weekmag.info": 1,
+  "wefightcensorship.org": 1,
+  "wefong.com": 1,
+  "weiboleak.com": 1,
+  "weihuo.org": 1,
+  "weijingsheng.org": 1,
+  "weiming.info": 1,
+  "weiquanwang.org": 1,
+  "weisuo.ws": 1,
+  "welovecock.com": 1,
+  "welt.de": 1,
+  "wemigrate.org": 1,
+  "wengewang.com": 1,
+  "wengewang.org": 1,
+  "wenhui.ch": 1,
+  "wenweipo.com": 1,
+  "wenxuecity.com": 1,
+  "wenyunchao.com": 1,
+  "wenzhao.ca": 1,
+  "westca.com": 1,
+  "westernshugdensociety.org": 1,
+  "westernwolves.com": 1,
+  "westkit.net": 1,
+  "westpoint.edu": 1,
+  "wetplace.com": 1,
+  "wetpussygames.com": 1,
+  "wexiaobo.org": 1,
+  "wezhiyong.org": 1,
+  "wezone.net": 1,
+  "wforum.com": 1,
+  "wha.la": 1,
+  "whatblocked.com": 1,
+  "whatbrowser.org": 1,
+  "whatsapp.com": 1,
+  "whatsapp.net": 1,
+  "whatsonweibo.com": 1,
+  "wheatseeds.org": 1,
+  "wheelockslatin.com": 1,
+  "whereiswerner.com": 1,
+  "wheretowatch.com": 1,
+  "whippedass.com": 1,
+  "whispersystems.org": 1,
+  "whodns.xyz": 1,
+  "whoer.net": 1,
+  "whotalking.com": 1,
+  "whylover.com": 1,
+  "whyx.org": 1,
+  "widevine.com": 1,
+  "wikaba.com": 1,
+  "wikia.com": 1,
+  "wikileaks-forum.com": 1,
+  "wikileaks.ch": 1,
+  "wikileaks.com": 1,
+  "wikileaks.de": 1,
+  "wikileaks.eu": 1,
+  "wikileaks.lu": 1,
+  "wikileaks.org": 1,
+  "wikileaks.pl": 1,
+  "wikilivres.info": 1,
+  "wikimapia.org": 1,
+  "wikimedia.org": 1,
+  "wikinews.org": 1,
+  "wikipedia.org": 1,
+  "wikiquote.org": 1,
+  "wikisource.org": 1,
+  "wikiwand.com": 1,
+  "wikiwiki.jp": 1,
+  "wildammo.com": 1,
+  "williamhill.com": 1,
+  "willw.net": 1,
+  "windowsphoneme.com": 1,
+  "windscribe.com": 1,
+  "windy.com": 1,
+  "wingamestore.com": 1,
+  "winning11.com": 1,
+  "winwhispers.info": 1,
+  "wionews.com": 1,
+  "wire.com": 1,
+  "wiredbytes.com": 1,
+  "wiredpen.com": 1,
+  "wireguard.com": 1,
+  "wisdompubs.org": 1,
+  "wisevid.com": 1,
+  "wistia.com": 1,
+  "withgoogle.com": 1,
+  "withyoutube.com": 1,
+  "witnessleeteaching.com": 1,
+  "witopia.net": 1,
+  "wizcrafts.net": 1,
+  "wjbk.org": 1,
+  "wn.com": 1,
+  "wnacg.com": 1,
+  "wnacg.org": 1,
+  "wo.tc": 1,
+  "woeser.com": 1,
+  "woesermiddle-way.net": 1,
+  "wokar.org": 1,
+  "wolfax.com": 1,
+  "wombo.ai": 1,
+  "woolyss.com": 1,
+  "woopie.jp": 1,
+  "woopie.tv": 1,
+  "wordpress.com": 1,
+  "workatruna.com": 1,
+  "workerdemo.org.hk": 1,
+  "workerempowerment.org": 1,
+  "workersthebig.net": 1,
+  "workflow.is": 1,
+  "worldcat.org": 1,
+  "worldjournal.com": 1,
+  "worldvpn.net": 1,
+  "wow-life.net": 1,
+  "wow.com": 1,
+  "wowgirls.com": 1,
+  "wowlegacy.ml": 1,
+  "wowporn.com": 1,
+  "wowrk.com": 1,
+  "woxinghuiguo.com": 1,
+  "woyaolian.org": 1,
+  "wozy.in": 1,
+  "wp.com": 1,
+  "wpoforum.com": 1,
+  "wqyd.org": 1,
+  "wrchina.org": 1,
+  "wretch.cc": 1,
+  "wsj.com": 1,
+  "wsj.net": 1,
+  "wsjhk.com": 1,
+  "wtbn.org": 1,
+  "wtfpeople.com": 1,
+  "wuerkaixi.com": 1,
+  "wufafangwen.com": 1,
+  "wufi.org.tw": 1,
+  "wuguoguang.com": 1,
+  "wujie.net": 1,
+  "wujieliulan.com": 1,
+  "wukangrui.net": 1,
+  "wuw.red": 1,
+  "wuyanblog.com": 1,
+  "wwe.com": 1,
+  "wwitv.com": 1,
+  "www1.biz": 1,
+  "wwwhost.biz": 1,
+  "wzyboy.im": 1,
+  "x-art.com": 1,
+  "x-berry.com": 1,
+  "x-wall.org": 1,
+  "x.co": 1,
+  "x.company": 1,
+  "x1949x.com": 1,
+  "x24hr.com": 1,
+  "x365x.com": 1,
+  "xanga.com": 1,
+  "xbabe.com": 1,
+  "xbookcn.com": 1,
+  "xbtce.com": 1,
+  "xcafe.in": 1,
+  "xcity.jp": 1,
+  "xcritic.com": 1,
+  "xerotica.com": 1,
+  "xfiles.to": 1,
+  "xfinity.com": 1,
+  "xfm.pp.ru": 1,
+  "xgmyd.com": 1,
+  "xhamster.com": 1,
+  "xianba.net": 1,
+  "xianchawang.net": 1,
+  "xianjian.tw": 1,
+  "xianqiao.net": 1,
+  "xiaobaiwu.com": 1,
+  "xiaochuncnjp.com": 1,
+  "xiaod.in": 1,
+  "xiaohexie.com": 1,
+  "xiaolan.me": 1,
+  "xiaoma.org": 1,
+  "xiaxiaoqiang.net": 1,
+  "xiezhua.com": 1,
+  "xihua.es": 1,
+  "xinbao.de": 1,
+  "xing.com": 1,
+  "xinhuanet.org": 1,
+  "xinmiao.com.hk": 1,
+  "xinsheng.net": 1,
+  "xinshijue.com": 1,
+  "xinyubbs.net": 1,
+  "xiongpian.com": 1,
+  "xiuren.org": 1,
+  "xizang-zhiye.org": 1,
+  "xjp.cc": 1,
+  "xjtravelguide.com": 1,
+  "xkiwi.tk": 1,
+  "xlfmtalk.com": 1,
+  "xlfmwz.info": 1,
+  "xm.com": 1,
+  "xml-training-guide.com": 1,
+  "xmovies.com": 1,
+  "xn--4gq171p.com": 1,
+  "xn--9pr62r24a.com": 1,
+  "xn--czq75pvv1aj5c.org": 1,
+  "xn--i2ru8q2qg.com": 1,
+  "xn--ngstr-lra8j.com": 1,
+  "xn--oiq.cc": 1,
+  "xnxx.com": 1,
+  "xpdo.net": 1,
+  "xpud.org": 1,
+  "xrentdvd.com": 1,
+  "xsden.info": 1,
+  "xskywalker.com": 1,
+  "xskywalker.net": 1,
+  "xtube.com": 1,
+  "xuchao.net": 1,
+  "xuchao.org": 1,
+  "xuehua.us": 1,
+  "xuite.net": 1,
+  "xuzhiyong.net": 1,
+  "xvbelink.com": 1,
+  "xvideo.cc": 1,
+  "xvideos-cdn.com": 1,
+  "xvideos.com": 1,
+  "xvideos.es": 1,
+  "xvinlink.com": 1,
+  "xxbbx.com": 1,
+  "xxlmovies.com": 1,
+  "xxuz.com": 1,
+  "xxx.com": 1,
+  "xxx.xxx": 1,
+  "xxxfuckmom.com": 1,
+  "xxxx.com.au": 1,
+  "xxxy.biz": 1,
+  "xxxy.info": 1,
+  "xxxymovies.com": 1,
+  "xys.org": 1,
+  "xysblogs.org": 1,
+  "xyy69.com": 1,
+  "xyy69.info": 1,
+  "y2mate.com": 1,
+  "yadi.sk": 1,
+  "yahoo.co.jp": 1,
+  "yahoo.com": 1,
+  "yahoo.com.hk": 1,
+  "yahoo.com.tw": 1,
+  "yahoo.net": 1,
+  "yakbutterblues.com": 1,
+  "yam.com": 1,
+  "yam.org.tw": 1,
+  "yande.re": 1,
+  "yandex.com": 1,
+  "yanghengjun.com": 1,
+  "yangjianli.com": 1,
+  "yayabay.com": 1,
+  "ycombinator.com": 1,
+  "ydy.com": 1,
+  "yeahteentube.com": 1,
+  "yecl.net": 1,
+  "yeelou.com": 1,
+  "yeeyi.com": 1,
+  "yegle.net": 1,
+  "yes-news.com": 1,
+  "yes.xxx": 1,
+  "yes123.com.tw": 1,
+  "yesasia.com": 1,
+  "yesasia.com.hk": 1,
+  "yespornplease.com": 1,
+  "yeyeclub.com": 1,
+  "ygto.com": 1,
+  "yhcw.net": 1,
+  "yibada.com": 1,
+  "yibaochina.com": 1,
+  "yidio.com": 1,
+  "yigeni.com": 1,
+  "yilubbs.com": 1,
+  "yimg.com": 1,
+  "yingsuoss.com": 1,
+  "yinlei.org": 1,
+  "yipub.com": 1,
+  "yiyechat.com": 1,
+  "yizhihongxing.com": 1,
+  "yobit.net": 1,
+  "yobt.com": 1,
+  "yobt.tv": 1,
+  "yogichen.org": 1,
+  "yolasite.com": 1,
+  "yomiuri.co.jp": 1,
+  "yong.hu": 1,
+  "yorkbbs.ca": 1,
+  "you-get.org": 1,
+  "youdontcare.com": 1,
+  "youjizz.com": 1,
+  "youmaker.com": 1,
+  "youngpornvideos.com": 1,
+  "youngspiration.hk": 1,
+  "youpai.org": 1,
+  "youporn.com": 1,
+  "youporngay.com": 1,
+  "your-freedom.net": 1,
+  "yourepeat.com": 1,
+  "yourlisten.com": 1,
+  "yourlust.com": 1,
+  "yourprivatevpn.com": 1,
+  "yourtrap.com": 1,
+  "yousendit.com": 1,
+  "youshun12.com": 1,
+  "youthforfreechina.org": 1,
+  "youthnetradio.org": 1,
+  "youthwant.com.tw": 1,
+  "youtu.be": 1,
+  "youtube-nocookie.com": 1,
+  "youtube.com": 1,
+  "youtubecn.com": 1,
+  "youtubeeducation.com": 1,
+  "youtubegaming.com": 1,
+  "youtubekids.com": 1,
+  "youversion.com": 1,
+  "youwin.com": 1,
+  "youxu.info": 1,
+  "yt.be": 1,
+  "ytht.net": 1,
+  "ytimg.com": 1,
+  "ytn.co.kr": 1,
+  "yuanming.net": 1,
+  "yuanzhengtang.org": 1,
+  "yulghun.com": 1,
+  "yunchao.net": 1,
+  "yuntipub.com": 1,
+  "yuvutu.com": 1,
+  "yvesgeleyn.com": 1,
+  "ywpw.com": 1,
+  "yx51.net": 1,
+  "yyii.org": 1,
+  "yyjlymb.xyz": 1,
+  "yzzk.com": 1,
+  "z-lib.org": 1,
+  "zacebook.com": 1,
+  "zalmos.com": 1,
+  "zannel.com": 1,
+  "zaobao.com": 1,
+  "zaobao.com.sg": 1,
+  "zaozon.com": 1,
+  "zapto.org": 1,
+  "zattoo.com": 1,
+  "zb.com": 1,
+  "zdnet.com.tw": 1,
+  "zello.com": 1,
+  "zengjinyan.org": 1,
+  "zenmate.com": 1,
+  "zenmate.com.ru": 1,
+  "zerohedge.com": 1,
+  "zeronet.io": 1,
+  "zeutch.com": 1,
+  "zfreet.com": 1,
+  "zgsddh.com": 1,
+  "zgzcjj.net": 1,
+  "zhanbin.net": 1,
+  "zhangboli.net": 1,
+  "zhangtianliang.com": 1,
+  "zhanlve.org": 1,
+  "zhenghui.org": 1,
+  "zhengjian.org": 1,
+  "zhengwunet.org": 1,
+  "zhenlibu.info": 1,
+  "zhenlibu1984.com": 1,
+  "zhenxiang.biz": 1,
+  "zhinengluyou.com": 1,
+  "zhongguo.ca": 1,
+  "zhongguorenquan.org": 1,
+  "zhongguotese.net": 1,
+  "zhongmeng.org": 1,
+  "zhoushuguang.com": 1,
+  "zhreader.com": 1,
+  "zhuangbi.me": 1,
+  "zhuanxing.cn": 1,
+  "zhuatieba.com": 1,
+  "zhuichaguoji.org": 1,
+  "zi5.me": 1,
+  "ziddu.com": 1,
+  "zillionk.com": 1,
+  "zim.vn": 1,
+  "zinio.com": 1,
+  "ziporn.com": 1,
+  "zippyshare.com": 1,
+  "zkaip.com": 1,
+  "zkiz.com": 1,
+  "zmw.cn": 1,
+  "zodgame.us": 1,
+  "zoho.com": 1,
+  "zomobo.net": 1,
+  "zonaeuropa.com": 1,
+  "zonghexinwen.com": 1,
+  "zonghexinwen.net": 1,
+  "zoogvpn.com": 1,
+  "zootool.com": 1,
+  "zoozle.net": 1,
+  "zophar.net": 1,
+  "zorrovpn.com": 1,
+  "zozotown.com": 1,
+  "zpn.im": 1,
+  "zspeeder.me": 1,
+  "zsrhao.com": 1,
+  "zuo.la": 1,
+  "zuobiao.me": 1,
+  "zuola.com": 1,
+  "zvereff.com": 1,
+  "zynaima.com": 1,
+  "zynamics.com": 1,
+  "zyns.com": 1,
+  "zyxel.com": 1,
+  "zyzc9.com": 1,
+  "zzcartoon.com": 1,
+  "zzcloud.me": 1,
+  "zzux.com": 1
+};
+
+var direct = 'DIRECT;';
+
+var hasOwnProperty = Object.hasOwnProperty;
+
+function FindProxyForURL(url, host) {
+    var suffix;
+    var pos = host.lastIndexOf('.');
+    for (;;) {
+        suffix = host.substring(pos + 1);
+        if (hasOwnProperty.call(domains, suffix)) {
+            return proxy;
+        }
+        if (pos <= 0) {
+            return direct;
+        }
+        pos = host.lastIndexOf('.', pos - 1);
+    }
+}
