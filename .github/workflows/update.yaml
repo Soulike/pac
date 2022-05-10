@@ -21,7 +21,7 @@ jobs:
       - run: 'node ./dist/index.js'
         env:
           URL: ${{ secrets.URL }}
-      - run: 'gfwlist2pac -i gfwlist.txt -p "SOCKS5 127.0.0.1:1080;" --precise -f proxy.pac'
+      - run: 'gfwlist2pac -i gfwlist.txt -p "SOCKS5 127.0.0.1:1080;" -f proxy.pac'
       - run: 'rm gfwlist.txt'    
       - uses: EndBug/add-and-commit@v9
         with:
