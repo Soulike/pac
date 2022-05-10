@@ -20,7 +20,7 @@ const url = process.env['URL'] as string;
 
     if (status === 200)
     {
-        const dist = path.join(__dirname, '..', 'proxy.pac');
+        const dist = path.join(__dirname, '..', 'gfwlist.txt');
         await fsPromises.writeFile(dist, data, 'utf-8');
         console.log(`Update succeed.`);
     }
