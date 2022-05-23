@@ -3432,6 +3432,7 @@ var domains = {
   "onapp.com": 1,
   "onedumb.com": 1,
   "onejav.com": 1,
+  "onion.ly": 1,
   "onlinecha.com": 1,
   "onlineyoutube.com": 1,
   "onlygayvideo.com": 1,
