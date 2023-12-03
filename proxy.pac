@@ -2447,6 +2447,7 @@ var domains = {
   "info-graf.fr": 1,
   "informer.com": 1,
   "initiativesforchina.org": 1,
+  "inkbunny.net": 1,
   "inkui.com": 1,
   "inmediahk.net": 1,
   "innermongolia.org": 1,
