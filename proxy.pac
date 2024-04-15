@@ -2380,7 +2380,7 @@ var domains = {
   "ibtimes.com": 1,
   "ibvpn.com": 1,
   "icams.com": 1,
-  "icerocket.com": 1,
+  "icedrive.net": 1,
   "icij.org": 1,
   "icl-fi.org": 1,
   "icoco.com": 1,
