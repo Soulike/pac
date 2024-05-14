@@ -797,6 +797,7 @@ var domains = {
   "channelnewsasia.com": 1,
   "chaoex.com": 1,
   "chapm25.com": 1,
+  "chatgpt.com": 1,
   "chatnook.com": 1,
   "chaturbate.com": 1,
   "checkgfw.com": 1,
