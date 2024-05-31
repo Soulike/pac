@@ -5390,6 +5390,7 @@ var domains = {
   "x-berry.com": 1,
   "x-wall.org": 1,
   "x.co": 1,
+  "x.com": 1,
   "x.company": 1,
   "x1949x.com": 1,
   "x24hr.com": 1,
