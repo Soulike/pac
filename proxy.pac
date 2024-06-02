@@ -3829,6 +3829,7 @@ var domains = {
   "pythonic.life": 1,
   "pytorch.org": 1,
   "qanote.com": 1,
+  "qbittorrent.org": 1,
   "qgirl.com.tw": 1,
   "qhigh.com": 1,
   "qi-gong.me": 1,
