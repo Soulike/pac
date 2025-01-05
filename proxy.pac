@@ -961,6 +961,7 @@ var domains = {
   "cn6.eu": 1,
   "cna.com.tw": 1,
   "cnabc.com": 1,
+  "cnbeta.com.tw": 1,
   "cnd.org": 1,
   "cnet.com": 1,
   "cnex.org.cn": 1,
