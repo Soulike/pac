@@ -652,6 +652,7 @@ var domains = {
   "brookings.edu": 1,
   "brucewang.net": 1,
   "brutaltgp.com": 1,
+  "bsky.network": 1,
   "bsky.social": 1,
   "bt95.com": 1,
   "btaia.com": 1,
