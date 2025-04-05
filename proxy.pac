@@ -3670,6 +3670,7 @@ var domains = {
   "openai.com": 1,
   "openallweb.com": 1,
   "opendemocracy.net": 1,
+  "opendesktop.org": 1,
   "opendn.xyz": 1,
   "openervpn.in": 1,
   "openid.net": 1,
